@@ -8,3 +8,14 @@
 	float: left;
 	display: block;
 }
+
+/* Agregue color de los links en la zona azul*/
+
+section#apoya h3>strong>a {
+	color: #FFFFFF;
+}
+
+
+section#apoya h3>strong>a:hover {
+	color: #F5C10B;
+}
