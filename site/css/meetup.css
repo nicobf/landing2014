@@ -1,0 +1,10 @@
+.logo{
+	background-image: url('../images/imag/logo.jpg');
+	width: 465px;
+	height: 80px;	
+}
+
+.brand-logo {
+	float: left;
+	display: block;
+}
