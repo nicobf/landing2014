@@ -86,14 +86,14 @@
 		</section>
 		
 		<!-- Inicio -->
-		<section class="wrapper-2 bg-turquoise colored">
+		<section id="intro" class="wrapper-2 bg-turquoise colored">
 			<a class="anchor" id="row2"></a>
 			<div class="container">
 				<div class="row">
 					<div class="span12 text-center">
 						<hgroup>
 							<h2>techMeetup UY es una conferencia anual creada para y por desarrolladores de Uruguay</h2>
-							<h3><div>OBJETIVOS: Potenciar comunidades locales.  |  Impulsar a los estudiantes de IT.</div>
+							<h3><div>OBJETIVOS: Potenciar comunidades locales. Impulsar a los estudiantes de IT.</div>
 							    Ofrecer un día de actualización profesional y networking de la más alta calidad.
 							</h3>
 						</hgroup>
