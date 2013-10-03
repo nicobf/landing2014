@@ -11,11 +11,26 @@
 
 /* Agregue color de los links en la zona azul*/
 
-section#apoya h3>strong>a {
+section#apoyar h3>strong>a {
 	color: #FFFFFF;
 }
 
+section#apoyar h3>strong>a:hover {
+	color: #F5C10B;
+}
 
-section#apoya h3>strong>a:hover {
+#organizacion {
+	min-height: 300px;
+}
+
+
+#organizacion a:hover {
+	color: #F5C10B;
+}
+
+#apoyan li a {
+	color: #FFFFFF;
+}
+#apoyan li a:hover {
 	color: #F5C10B;
 }
