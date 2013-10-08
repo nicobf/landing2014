@@ -35,3 +35,7 @@ section#apoyar h3>strong>a:hover {
 #apoyan li a:hover {
 	color: #F5C10B;
 }
+
+.box-sponsors {
+	height: 90px;
+}

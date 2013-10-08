@@ -437,48 +437,42 @@
 							<h3>Las empresas que apoyan la comunidad IT de Uruguay.</h3>
 						</hgroup>
 
-					<div class="row">
-						<div class="span2 box-sponsors"><img src="./images/sponsors/case.png"></div>
-						<div class="span2 box-sponsors"><img src="./images/sponsors/guruhub.png"></div>
-						<div class="span2 box-sponsors"><img src="./images/sponsors/moove-it.png"></div>
-						<div class="span2 box-sponsors"><img src="./images/sponsors/ingsw.png"></div>
-						<div class="span2 box-sponsors"><img src="./images/sponsors/tryo.png"></div>
-						<div class="span2 box-sponsors"><img src="./images/sponsors/codigo-del-sur.png"></div>
-					</div>
-					<div class="row">
-					    <div class="span2 box-sponsors"><img src="./images/sponsors/wyeworks.png"></div>
-					    <div class="span2 box-sponsors"><img src="./images/sponsors/servergrove.png"></div>
-					    <div class="span2 box-sponsors"><img src="./images/sponsors/pluralsight.png"></div>
-						<div class="span2 box-sponsors"><img src="./images/sponsors/zillertal.png"></div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-					</div>
-					<div class="row">
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-					</div>
-					
-					<div class="apoyo-meetups">
-					<hgroup>
-						<h4>Meetups</h4>
-						<h3> Adem&aacute;s el evento es apoyado por las diferentes comunidades de tecnolog&iacute;a en Uruguay .</h3>
-					</hgroup>
-						<ul class="text-center lista-comunidades">						    
-                            <li><a href="http://www.meetup.com/AgileUY/" target="_blank">Comunidad Agile de Uruguay</a></li>
-                            <li><a href="http://www.meetup.com/DevOps-MVD/" target="_blank">DevOps Montevideo</a></li>
-                            <li><a href="http://phpmvd.uy/" target="_blank">Grupo desarrolladores PHP Montevideo</a></li>
-                            <li><a href="http://www.meetup.com/rubymvd/" target="_blank">RubyMVD</a></li>
-                            <li><a href="http://www.meetup.com/NET-UY/" target="_blank">.NetUY</a></li>
-                            <li><a href="http://www.meetup.com/Scala-Meetup-MVD/" target="_blank">Scala Meetup Montevideo</a></li>
-                            <li><a href="http://www.meetup.com/The-Montevideo-MySQL-Meetup-Group/" target="_blank">Montevideo Mysql Meetup Group</a></li>
-                            <li><a href="http://www.meetup.com/mvd-js/" target="_blank">Montevideo Javascript Meetup Group</a></li>
-                        
-						</ul>
-					</div>
+    					<div class="row">
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/case.png"></div>
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/guruhub.png"></div>
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/moove-it.png"></div>
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/ingsw.png"></div>
+    					</div>
+    					<div class="row">
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/tryo.png"></div>
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/codigo-del-sur.png"></div>
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/wyeworks.png"></div>
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/servergrove.png"></div>
+    					</div>
+    					<div class="row">
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/pluralsight.png"></div>
+    						<div class="span3 box-sponsors"><img src="./images/sponsors/zillertal.png"></div>
+    						<div class="span3 box-sponsors"></div>
+    						<div class="span3 box-sponsors"></div>
+    					</div>
+    					
+    					<div class="apoyo-meetups">
+    					<hgroup>
+    						<h4>Meetups</h4>
+    						<h3> Adem&aacute;s el evento es apoyado por las diferentes comunidades de tecnolog&iacute;a en Uruguay .</h3>
+    					</hgroup>
+    						<ul class="text-center lista-comunidades">						    
+                                <li><a href="http://www.meetup.com/AgileUY/" target="_blank">Comunidad Agile de Uruguay</a></li>
+                                <li><a href="http://www.meetup.com/DevOps-MVD/" target="_blank">DevOps Montevideo</a></li>
+                                <li><a href="http://phpmvd.uy/" target="_blank">Grupo desarrolladores PHP Montevideo</a></li>
+                                <li><a href="http://www.meetup.com/rubymvd/" target="_blank">RubyMVD</a></li>
+                                <li><a href="http://www.meetup.com/NET-UY/" target="_blank">.NetUY</a></li>
+                                <li><a href="http://www.meetup.com/Scala-Meetup-MVD/" target="_blank">Scala Meetup Montevideo</a></li>
+                                <li><a href="http://www.meetup.com/The-Montevideo-MySQL-Meetup-Group/" target="_blank">Montevideo Mysql Meetup Group</a></li>
+                                <li><a href="http://www.meetup.com/mvd-js/" target="_blank">Montevideo Javascript Meetup Group</a></li>
+                            
+    						</ul>
+    					</div>
 					
 					</div>
 				</div>
