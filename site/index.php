@@ -51,7 +51,7 @@
 						<a class="brand-logo" href="#"><div class="logo"> </div></a>
 						<div class="nav-collapse collapse">
 							<ul class="nav pull-right">
-								<li><a href="#row1">Inicio</a></li>
+								<!-- <li><a href="#row1">Inicio</a></li> -->
 								<li><a href="#row3">Present&aacute; tu charla</a></li>
 								<li><a href="#row4">Apoyo</a></li>
 								<!--  <li><a href="#row5">Speakers</a></li>  -->
