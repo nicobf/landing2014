@@ -450,9 +450,11 @@
     						<div class="span3 box-sponsors"><a href="http://servergrove.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/servergrove.png"></a></div>
     					</div>
     					<div class="row">
+    					
+    					    <div class="span3 box-sponsors"><a href="http://www.onetree.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/onetree.png"></a></div>
     						<div class="span3 box-sponsors"><a href="http://www.pluralsight.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/pluralsight.png"></a></div>
     						<div class="span3 box-sponsors"><a href="#" target="_blank"><img src="./images/sponsors/zillertal.png"></a></div>
-    						<div class="span3 box-sponsors"></div>
+    						
     						<div class="span3 box-sponsors"></div>
     					</div>
     					
