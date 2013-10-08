@@ -103,8 +103,8 @@
 				<!-- Slider -->	
 				<div class="bannercontainer row">
 					<div class="banner botones span12" >
-							<a class="btn btn-large btn-transparent uppercase">Env&iacute;a tu charla</a>
-							<a class="btn btn-large btn-tomato uppercase">Apoy&aacute; la conferencia</a>
+							<a class="btn btn-large btn-transparent uppercase" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?formkey=dEhTbFJPc3NrODV3VkR1dVhJUWRMQmc6MA#gid=0">Env&iacute;a tu charla</a>
+							<a class="btn btn-large btn-tomato uppercase" href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo">Apoy&aacute; la conferencia</a>
 						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
 					</div>
 				</div><!-- .bannercontainer -->
