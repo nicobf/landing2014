@@ -8,3 +8,30 @@
 	float: left;
 	display: block;
 }
+
+/* Agregue color de los links en la zona azul*/
+
+section#apoyar h3>strong>a {
+	color: #FFFFFF;
+}
+
+section#apoyar h3>strong>a:hover {
+	color: #F5C10B;
+}
+
+#organizacion {
+	min-height: 300px;
+}
+#intro{	
+	min-height: 300px;
+}
+#organizacion a:hover {
+	color: #F5C10B;
+}
+
+#apoyan li a {
+	color: #FFFFFF;
+}
+#apoyan li a:hover {
+	color: #F5C10B;
+}

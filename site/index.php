@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
     <head>
         <meta charset="utf-8">
         <title>Tech Meetup Uruguay 2013</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="Landlr" name="description">
-        <meta content="playlab" name="author">
+        <meta content="" name="description">
+        <meta content="techMeetupUY" name="author">
          
         <!-- Bootstrap  -->
         <link href="css/bootstrap.css" rel="stylesheet">
@@ -54,9 +54,10 @@
 								<li><a href="#row1">Inicio</a></li>
 								<li><a href="#row3">Present&aacute; tu charla</a></li>
 								<li><a href="#row4">Apoyo</a></li>
-								<li><a href="#row5">Speakers</a></li>
+								<!--  <li><a href="#row5">Speakers</a></li>  -->
 								<li><a href="#row6">Organizaci&oacute;n</a></li>
 								<li><a href="#row9">Contacto</a></li>
+								<li><a href="http://tech.meetup.uy/v2012">v2012</a></li>
 								<!--
 								<li><a href="#row6">Testimonials</a></li>
 								<li><a href="#row7">Get Started</a></li>
@@ -85,14 +86,15 @@
 		</section>
 		
 		<!-- Inicio -->
-		<section class="wrapper-2 bg-turquoise colored">
+		<section id="intro" class="wrapper-2 bg-turquoise colored">
 			<a class="anchor" id="row2"></a>
 			<div class="container">
 				<div class="row">
 					<div class="span12 text-center">
 						<hgroup>
 							<h2>techMeetup UY es una conferencia anual creada para y por desarrolladores de Uruguay</h2>
-							<h3><div>OBJETIVOS: Potenciar comunidades locales.  |  Impulsar a los estudiantes de IT.</div>
+
+							<h3><div>OBJETIVOS: Potenciar comunidades locales. Impulsar a los estudiantes de IT.</div>
 							    Ofrecer un día de actualización profesional y networking de la más alta calidad.
 							</h3>
 						</hgroup>
@@ -102,8 +104,9 @@
 				<!-- Slider -->	
 				<div class="bannercontainer row">
 					<div class="banner botones span12" >
-							<a class="btn btn-large btn-transparent uppercase">Env&iacute;a tu charla</a>
-							<a class="btn btn-large btn-tomato uppercase">Apoy&aacute; la conferencia</a>
+
+							<a class="btn btn-large btn-transparent uppercase" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?formkey=dEhTbFJPc3NrODV3VkR1dVhJUWRMQmc6MA#gid=0">Env&iacute;a tu charla</a>
+							<a class="btn btn-large btn-tomato uppercase" href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo">Apoy&aacute; la conferencia</a>
 						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
 					</div>
 				</div><!-- .bannercontainer -->
@@ -125,7 +128,7 @@
 
 					<img src="images/imag/pantalla-presentacion.png" alt="pantalla presentacion" class="pantalla-presentacion"/>
 					
-					<h4 class="link-charla">Mandanos tu paper completando el siguiente formulario <img src="images/imag/charla-flechita.png" ></h4> 
+					<h4 class="link-charla"><a href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?formkey=dEhTbFJPc3NrODV3VkR1dVhJUWRMQmc6MA#gid=0" target="_blank">Mandanos tu paper completando el siguiente formulario</a> <img src="images/imag/charla-flechita.png" ></h4> 
 					
 					
 					</div>
@@ -135,7 +138,7 @@
 		</section>		
 		
 		<!-- Apoya la conferencia -->
-		<section class="wrapper bg-turquoise colored">
+		<section id="apoyar" class="wrapper bg-turquoise colored">
 			<a class="anchor" id="row4"></a>
 			<div class="container">
 				<div class="row">
@@ -147,7 +150,7 @@
 							<img src="images/imag/icono-mano.png">
 						</div>
 						<div class="span10 text-left">					
-						<h3>techMeetup UY es una conferencia sin fines de lucro. Todos los fondos recaudados son utilizados en su totalidad en la organización de la conferencia siendo proporcionados por empresas que creen firmemente en este tipo de eventos. <strong>Más de 20 empresas apoyaron este proyecto en la edición anterior.</strong>
+						<h3>techMeetup UY es una conferencia sin fines de lucro. Todos los fondos recaudados son utilizados en su totalidad en la organización de la conferencia siendo proporcionados por empresas que creen firmemente en este tipo de eventos. <strong><a href="http://tech.meetup.uy/v2012" target="_blank">Más de 20 empresas apoyaron este proyecto en la edición anterior.</a></strong>
 
 						</h3>
 					</div>
@@ -179,12 +182,12 @@
 					
 					
 					<div class="banner botones span12" >
-							<a class="btn btn-large btn-tomato uppercase">Quiero apoyar!</a> <br/>
+							<a class="btn btn-large btn-tomato uppercase" href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo">Quiero apoyar!</a> <br/>
 					</div>		
 				</div>
 			</div>
 		</section>
-		
+		<?php if(false): ?>
 		<!-- Speakers -->
 		<section class="wrapper bg-white">
 			<a class="anchor" id="row5"></a>
@@ -376,18 +379,16 @@
 				</div>
 			</div>
 		</section>
-		
-		
-		
+		<?php endif; ?>
 		<!-- Organizacion -->
-		<section class="wrapper-2 bg-turquoise colored">
+		<section id="organizacion" class="wrapper-2 bg-white colored">
 			<a class="anchor" id="row6"></a>
 			<div class="container">
 				<div class="row">
 					<div class="span12 text-center">
 						<hgroup>
 							<h2>Organizaci&oacute;n</h2>
-							<h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+							<!-- <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3> -->
 						</hgroup>
 					</div>
 				</div>
@@ -399,23 +400,23 @@
 					<div class="span1"></div>
 					<div class="span2">
 						<img src="images/imag/organizacion/nicolasb.jpg" class="img-circle">
-						<div class="text-center desc nombres-org"> Nicol&aacute;s Bianchi <br/> @nicobf</div>
+						<div class="text-center desc nombres-org"> Nicol&aacute;s Bianchi <br/> <a href="http://twitter.com/nicobf">@nicobf</a></div>
 					</div>
 					<div class="span2">
 						<img src="images/imag/organizacion/martinc.jpg" class="img-circle">
-						<div class="text-center desc nombres-org"> Mart&iacute;n Cabrera <br/> @martun</div>
+						<div class="text-center desc nombres-org"> Mart&iacute;n Cabrera <br/> <a href="http://twitter.com/murtun">@murtun</a></div>
 					</div>
 					<div class="span2">
 						<img src="images/imag/organizacion/martin_loy.jpg" class="img-circle">
-						<div class="text-center desc nombres-org"> Mart&iacute;n Loy <br/> @martinloy</div>
+						<div class="text-center desc nombres-org"> Mart&iacute;n Loy <br/> <a href="http://twitter.com/martinloy">@martinloy</a></div>
 					</div>
 					<div class="span2">
 						<img src="images/imag/organizacion/nacho_nin.jpg" class="img-circle">
-						<div class="text-center desc nombres-org"> Ignacio Nin <br/> @nachexnachex</div>
+						<div class="text-center desc nombres-org"> Ignacio Nin <br/> <a href="http://twitter.com/nachexnachex">@nachexnachex</a></div>
 					</div>
 					<div class="span2">
 						<img src="images/imag/organizacion/diego_sapriza.jpg" class="img-circle">
-						<div class="text-center desc nombres-org"> Diego Sapriza <br/> @AV4TAr</div>
+						<div class="text-center desc nombres-org"> Diego Sapriza <br/> <a href="http://twitter.com/AV4TAr">@AV4TAr</a></div>
 					</div>
 					<div class="span1"></div>
 					
@@ -426,14 +427,14 @@
 		
 		
 		<!-- Apoyan -->
-		<section class="wrapper bg-white">
+		<section id="apoyan" class="wrapper bg-turquoise">
 			<a class="anchor" id="row8"></a>
 			<div class="container">
 				<div class="row">
 					<div class="span12 text-center mar-b30">
 						<hgroup>
 							<h2>Apoyan</h2>
-							<h3> Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+							<h3>Las empresas que apoyan la comunidad IT de Uruguay.</h3>
 						</hgroup>
 
 					<div class="row">
@@ -466,15 +467,16 @@
 						<h4>Meetups</h4>
 						<h3> Adem&aacute;s el evento es apoyado por las diferentes comunidades de tecnolog&iacute;a en Uruguay .</h3>
 					</hgroup>
-						<ul class="text-center lista-comunidades">
-							<li>Comunidad Agile de Uruguay</li>
-						    <li>DevOps Montevideo</li>
-						    <li>Grupo desarrolladores PHP Montevideo</li>
-						    <li>RubyMVD</li>
-						    <li>.NetUY</li>
-						    <li>Scala Meetup Montevideo</li>
-						    <li>Montevideo Mysql Meetup Group</li>
-						    <li>Montevideo Javascript Meetup Group</li>
+						<ul class="text-center lista-comunidades">						    
+                            <li><a href="http://www.meetup.com/AgileUY/" target="_blank">Comunidad Agile de Uruguay</a></li>
+                            <li><a href="http://www.meetup.com/DevOps-MVD/" target="_blank">DevOps Montevideo</a></li>
+                            <li><a href="http://phpmvd.uy/" target="_blank">Grupo desarrolladores PHP Montevideo</a></li>
+                            <li><a href="http://www.meetup.com/rubymvd/" target="_blank">RubyMVD</a></li>
+                            <li><a href="http://www.meetup.com/NET-UY/" target="_blank">.NetUY</a></li>
+                            <li><a href="http://www.meetup.com/Scala-Meetup-MVD/" target="_blank">Scala Meetup Montevideo</a></li>
+                            <li><a href="http://www.meetup.com/The-Montevideo-MySQL-Meetup-Group/" target="_blank">Montevideo Mysql Meetup Group</a></li>
+                            <li><a href="http://www.meetup.com/mvd-js/" target="_blank">Montevideo Javascript Meetup Group</a></li>
+                        
 						</ul>
 					</div>
 					
@@ -507,7 +509,6 @@
 							<img src="images/imag/logo-footer.png" />
 						</div>
 					</div>		
-
 				</div>
 			</section>
 			
