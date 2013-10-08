@@ -438,20 +438,20 @@
 						</hgroup>
 
     					<div class="row">
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/case.png"></div>
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/guruhub.png"></div>
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/moove-it.png"></div>
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/ingsw.png"></div>
+    						<div class="span3 box-sponsors"><a href="http://case-inc.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/case.png"></a></div>
+    						<div class="span3 box-sponsors"><a href="http://guruhub.com.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/guruhub.png"></a></div>
+    						<div class="span3 box-sponsors"><a href="http://www.moove-it.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/moove-it.png"></a></div>
+    						<div class="span3 box-sponsors"><a href="http://ingsw.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/ingsw.png"></a></div>
     					</div>
     					<div class="row">
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/tryo.png"></div>
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/codigo-del-sur.png"></div>
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/wyeworks.png"></div>
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/servergrove.png"></div>
+    						<div class="span3 box-sponsors"><a href="http://www.tryolabs.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/tryo.png"></a></div>
+    						<div class="span3 box-sponsors"><a href="http://www.codigodelsur.com/website/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/codigo-del-sur.png"></a></div>
+    						<div class="span3 box-sponsors"><a href="http://www.wyeworks.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/wyeworks.png"></a></div>
+    						<div class="span3 box-sponsors"><a href="http://servergrove.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/servergrove.png"></a></div>
     					</div>
     					<div class="row">
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/pluralsight.png"></div>
-    						<div class="span3 box-sponsors"><img src="./images/sponsors/zillertal.png"></div>
+    						<div class="span3 box-sponsors"><a href="http://www.pluralsight.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/pluralsight.png"></a></div>
+    						<div class="span3 box-sponsors"><a href="#" target="_blank"><img src="./images/sponsors/zillertal.png"></a></div>
     						<div class="span3 box-sponsors"></div>
     						<div class="span3 box-sponsors"></div>
     					</div>
