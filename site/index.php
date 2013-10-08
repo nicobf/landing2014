@@ -438,12 +438,12 @@
 						</hgroup>
 
 					<div class="row">
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
-						<div class="span2 box-sponsors"> </div>
+						<div class="span2 box-sponsors"><img src="./images/sponsors/case.png"></div>
+						<div class="span2 box-sponsors"><img src="./images/sponsors/guruhub.png"></div>
+						<div class="span2 box-sponsors"><img src="./images/sponsors/moove-it.png"></div>
+						<div class="span2 box-sponsors"><img src="./images/sponsors/ingsw.png"></div>
+						<div class="span2 box-sponsors"><img src="./images/sponsors/tryo.png"></div>
+						<div class="span2 box-sponsors"><img src="./images/sponsors/codigo-del-sur.png"></div>
 					</div>
 					<div class="row">
 						<div class="span2 box-sponsors"> </div>
