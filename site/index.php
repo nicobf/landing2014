@@ -446,10 +446,10 @@
 						<div class="span2 box-sponsors"><img src="./images/sponsors/codigo-del-sur.png"></div>
 					</div>
 					<div class="row">
+					    <div class="span2 box-sponsors"><img src="./images/sponsors/wyeworks.png"></div>
+					    <div class="span2 box-sponsors"><img src="./images/sponsors/servergrove.png"></div>
+					    <div class="span2 box-sponsors"><img src="./images/sponsors/pluralsight.png"></div>
 						<div class="span2 box-sponsors"><img src="./images/sponsors/zillertal.png"></div>
-						<div class="span2 box-sponsors"><img src="./images/sponsors/servergrove.png"></div>
-						<div class="span2 box-sponsors"><img src="./images/sponsors/pluralsight.png"></div>
-						<div class="span2 box-sponsors"> </div>
 						<div class="span2 box-sponsors"> </div>
 						<div class="span2 box-sponsors"> </div>
 					</div>
