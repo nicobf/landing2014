@@ -385,7 +385,7 @@
 		<section id="organizacion" class="wrapper-2 bg-white colored">
 			<a class="anchor" id="row6"></a>
 			<div class="container">
-				<div class="row">
+				<div class="row">t
 					<div class="span12 text-center">
 						<hgroup>
 							<h2>Organizaci&oacute;n</h2>
@@ -445,7 +445,7 @@
     						<div class="span3 box-sponsors"><a href="http://ingsw.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/ingsw.png"></a></div>
     					</div>
     					<div class="row">
-    						<div class="span3 box-sponsors"><a href="http://www.tryolabs.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/tryo.png"></a></div>
+    						<div class="span3 box-sponsors"><!--<a href="http://www.tryolabs.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/tryo.png"></a>--></div>
     						<div class="span3 box-sponsors"><a href="http://www.codigodelsur.com/website/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/codigo-del-sur.png"></a></div>
     						<div class="span3 box-sponsors"><a href="http://www.wyeworks.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/wyeworks.png"></a></div>
     						<div class="span3 box-sponsors"><a href="http://servergrove.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/servergrove.png"></a></div>
