@@ -107,7 +107,7 @@
 					<div class="banner botones span12" >
 
 							<a class="btn btn-large btn-transparent uppercase" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?formkey=dEhTbFJPc3NrODV3VkR1dVhJUWRMQmc6MA#gid=0">Send your talk</a>
-							<a class="btn btn-large btn-tomato uppercase" href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo">Support the conference</a>
+							<a class="btn btn-large btn-tomato uppercase" href="#row4">Support the conference</a>
 						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
 					</div>
 				</div><!-- .bannercontainer -->
