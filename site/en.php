@@ -57,8 +57,8 @@
 								<!--  <li><a href="#row5">Speakers</a></li>  -->
 								<li><a href="#row6">Organization</a></li>
 								<li><a href="#row9">Contact</a></li>
-								<li><a href="http://tech.meetup.uy/v2012">v2012</a></li>
-								<li><a href="./es.php">[ES]</a></li>
+								<li><a href="http://tech.meetup.uy/v2012" style="color: #f4c42c;">v2012</a></li>
+								<li><a href="./es.php" style="color: #3497DB;">[ES]</a></li>
 								<!--
 								<li><a href="#row6">Testimonials</a></li>
 								<li><a href="#row7">Get Started</a></li>
