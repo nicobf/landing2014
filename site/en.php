@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <title>Tech Meetup Uruguay 2013</title>
@@ -449,7 +449,7 @@ info@meetup.uy</a> <br/>
     						<div class="span3 box-sponsors"><a href="http://ingsw.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/ingsw.png"></a></div>
     					</div>
     					<div class="row">
-    						<div class="span3 box-sponsors"><!--<a href="http://www.tryolabs.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/tryo.png"></a>--></div>
+    						<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
     						<div class="span3 box-sponsors"><a href="http://www.codigodelsur.com/website/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/codigo-del-sur.png"></a></div>
     						<div class="span3 box-sponsors"><a href="http://www.wyeworks.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/wyeworks.png"></a></div>
     						<div class="span3 box-sponsors"><a href="http://servergrove.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/servergrove.png"></a></div>
@@ -459,8 +459,7 @@ info@meetup.uy</a> <br/>
     					    <div class="span3 box-sponsors"><a href="http://www.onetree.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/onetree.png"></a></div>
     						<div class="span3 box-sponsors"><a href="http://www.pluralsight.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/pluralsight.png"></a></div>
     						<div class="span3 box-sponsors"><a href="#" target="_blank"><img src="./images/sponsors/zillertal.png"></a></div>
-    						
-    						<div class="span3 box-sponsors"></div>
+    						<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
     					</div>
     					
     					<div class="apoyo-meetups">
