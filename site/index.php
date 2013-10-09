@@ -459,10 +459,10 @@
     					</div>
     					
     					<div class="apoyo-meetups">
-    					<hgroup>
-    						<h4>Meetups</h4>
-    						<h3> Adem&aacute;s el evento es apoyado por las diferentes comunidades de tecnolog&iacute;a en Uruguay .</h3>
-    					</hgroup>
+        					<hgroup>
+        						<h4>Meetups</h4>
+        						<h3> Adem&aacute;s el evento es apoyado por las diferentes comunidades de tecnolog&iacute;a en Uruguay .</h3>
+        					</hgroup>
     						<ul class="text-center lista-comunidades">						    
                                 <li><a href="http://www.meetup.com/AgileUY/" target="_blank">Comunidad Agile de Uruguay</a></li>
                                 <li><a href="http://www.meetup.com/DevOps-MVD/" target="_blank">DevOps Montevideo</a></li>
@@ -474,6 +474,9 @@
                                 <li><a href="http://www.meetup.com/mvd-js/" target="_blank">Montevideo Javascript Meetup Group</a></li>
                             
     						</ul>
+    						<p>
+    						  Si sos parte de una comunidad y quieren ayudar en la organización, simplemente enviá un mail a <a href="mailto:info@meetup.uy">info@meetup.uy</a>.
+    						</p>
     					</div>
 					
 					</div>
