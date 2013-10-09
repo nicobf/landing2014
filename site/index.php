@@ -518,6 +518,8 @@
 	    <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
 	    <script type="text/javascript" src="js/custom.js"></script>
 	    
+	    <?php include 'google_track.php';?>
+        	    
     </body>
 </html>
 
