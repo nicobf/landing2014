@@ -58,6 +58,7 @@
 								<li><a href="#row6">Organizaci&oacute;n</a></li>
 								<li><a href="#row9">Contacto</a></li>
 								<li><a href="http://tech.meetup.uy/v2012">v2012</a></li>
+								<li><a href="./en.php">[EN]</a></li>
 								<!--
 								<li><a href="#row6">Testimonials</a></li>
 								<li><a href="#row7">Get Started</a></li>
