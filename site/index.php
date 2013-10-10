@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Tech Meetup Uruguay 2013</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="Conferencia para desarrolladores, diseñadores, profesionales relacionados con IT donde se verán las últimas tecnologías disponibles en el mundo developer." name="description">
+        <meta content="Conferencia anual creada para y por desarrolladores de Uruguay con el objetivo de potenciar comunidades locales, impulsar a los estudiantes de IT y ofrecer un día de actualización profesional y networking de la más alta calidad." name="description">
         <meta content="techMeetupUY" name="author">
          
         <!-- Bootstrap  -->
@@ -31,7 +31,7 @@
       	<script src="js/html5shiv.js"></script>
     	<![endif]-->
     	
-    	
+    	<?php include 'media.php'; ?>
     	
     </head>
     <body class="page-aqua">

@@ -31,7 +31,7 @@
       	<script src="js/html5shiv.js"></script>
     	<![endif]-->
     	
-    	
+    	<?php include 'media.php'; ?>
     	
     </head>
     <body class="page-aqua">
