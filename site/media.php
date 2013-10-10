@@ -13,5 +13,6 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@meetupUY">
     <meta name="twitter:title" content="techMeetupUY v2013">
-    <meta name="twitter:description" content="Conferencia anual creada para y por desarrolladores de Uruguay con el objetivo de potenciar comunidades locales, impulsar a los estudiantes de IT y ofrecer un día de actualización profesional y networking de la más alta calidad.">
+    <meta name="twitter:description" content="Conferencia anual creada para y por desarrolladores de Uruguay con el objetivo de potenciar comunidades locales y profesionales de IT.">
     <meta name="twitter:image:src" content="http://tech.meetup.uy/images/medialogo_techmeetupuy.png">
+    <meta name="twitter:domain" content="tech.meetup.uy">
