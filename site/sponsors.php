@@ -2,7 +2,7 @@
 	<div class="span3 box-sponsors"><a href="http://case-inc.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/case.png"></a></div>
 	<div class="span3 box-sponsors"><a href="http://guruhub.com.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/guruhub.png"></a></div>
 	<div class="span3 box-sponsors"><a href="http://www.moove-it.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/moove-it.png"></a></div>
-	<div class="span3 box-sponsors"><a href="http://ingsw.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/ingsw.png"></a></div>
+	<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
 </div>
 <div class="row">
 	<div class="span3 box-sponsors"><a href="http://www.codigodelsur.com/website/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/codigo-del-sur.png"></a></div>
