@@ -7,7 +7,7 @@
 <div class="row">
 	<div class="span3 box-sponsors"><a href="http://www.tryolabs.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/tryo.png"></a></div>
 	<div class="span3 box-sponsors"><a href="http://www.wyeworks.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/wyeworks.png"></a></div>
-	<div class="span3 box-sponsors"><a href="http://servergrove.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/servergrove.png"></a></div>
+	<div class="span3 box-sponsors"><a href="http://www.servergrove.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/servergrove.png"></a></div>
 	<div class="span3 box-sponsors"><a href="http://www.onetree.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/onetree.png"></a></div>
 </div>
 <div class="row">
