@@ -106,7 +106,7 @@
 				<div class="bannercontainer row">
 					<div class="banner botones span12" >
 
-							<a class="btn btn-large btn-transparent uppercase" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?formkey=dEhTbFJPc3NrODV3VkR1dVhJUWRMQmc6MA#gid=0">Env&iacute;a tu charla</a>
+							<a style="color:#FFF" class="btn btn-large btn-transparent uppercase" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?formkey=dEhTbFJPc3NrODV3VkR1dVhJUWRMQmc6MA#gid=0">Env&iacute;a tu charla</a>
 							<a class="btn btn-large btn-tomato uppercase" href="#row4">Apoy&aacute; la conferencia</a>
 						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
 					</div>
@@ -457,7 +457,7 @@
                             
     						</ul>
     						<p>
-    						  Si sos parte de una comunidad y quieren ayudar en la organización, simplemente enviá un mail a <a href="mailto:info@meetup.uy">info@meetup.uy</a>.
+    						  Si sos parte de una comunidad y quieren ayudar en la organización, simplemente enviá un mail a <a style="color:#F4C42C" href="mailto:info@meetup.uy">info@meetup.uy</a>.
     						</p>
     					</div>
 					
