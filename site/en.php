@@ -52,7 +52,7 @@
 						<div class="nav-collapse collapse">
 							<ul class="nav pull-right">
 								<!-- <li><a href="#row1">Inicio</a></li> -->
-								<li><a href="#row3">Present your talk</a></li>
+								<li><a href="#row2" style="color: #22CB6E;">Register</a></li>
 								<li><a href="#row4">Support</a></li>
 								<!--  <li><a href="#row5">Speakers</a></li>  -->
 								<li><a href="#row6">Organization</a></li>
@@ -105,9 +105,7 @@
 				<!-- Slider -->	
 				<div class="bannercontainer row">
 					<div class="banner botones span12" >
-
-							<a class="btn btn-large btn-transparent uppercase" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?formkey=dEhTbFJPc3NrODV3VkR1dVhJUWRMQmc6MA#gid=0">Send your talk</a>
-							<a class="btn btn-large btn-tomato uppercase" href="#row4">Support the conference</a>
+                            <a style="color:#FFF" class="btn btn-large  uppercase btn-warning" href="https://eventioz.com.ar/e/techmeetupuy-2013" target="_blank">Register and get your ticket (USD20)</a>
 						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
 					</div>
 				</div><!-- .bannercontainer -->
