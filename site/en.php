@@ -165,7 +165,6 @@
 						<h4>You can support the conference with <br><strong>USD 700</strong>.</h4>
 <h3>
 						If you have any idea or another way to show your support, send us an email, we are flexible and we can work with you to design a fitting package.
-<br/><br/>
 						</h3>
 					</div>
 

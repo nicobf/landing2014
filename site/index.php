@@ -162,8 +162,7 @@
 						<h4>Apoy&aacute; la conferencia aportando USD 700.</h4>
 <h3>
 						Si tenés alguna idea u otra forma de apoyar mandanos un correo, tenemos flexibilidad y podemos trabajar con ustedes para diseñar un paquete adecuado.
-<br/><br/>
-						U$D 700</h3>
+<br/></h3>
 					</div>
 
 					<div class="span6 text-left">
