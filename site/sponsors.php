@@ -18,7 +18,7 @@
 </div>
 <div class="row">
 	<div class="span3 box-sponsors"><a href="http://www.neo.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/neo.png"></a></div>
-	<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
+	<div class="span3 box-sponsors"><a href="http://www.uruit.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/uruit.png"></a></div>
 	<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
 	<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
 </div>
