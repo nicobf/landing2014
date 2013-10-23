@@ -106,6 +106,7 @@
 				<div class="bannercontainer row">
 					<div class="banner botones span12" >
                             <a style="color:#FFF" class="btn btn-large  uppercase btn-warning" href="https://eventioz.com.ar/e/techmeetupuy-2013" target="_blank">Regístrate y Compra tu entrada (USD20)</a>
+                            <a style="color:#FFF" class="btn btn-large  uppercase btn-success" href="http://bit.ly/techmeetup2013-beca" target="_blank">¡¡Solicita una Beca!!</a>
 						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
 					</div>
 				</div><!-- .bannercontainer -->
