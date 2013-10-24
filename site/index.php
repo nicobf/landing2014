@@ -437,6 +437,12 @@
 						</hgroup>
 
     					<?php include 'sponsors.php'; ?>
+    					<br><br>
+    					<hgroup>
+							<h2>Apoyan en la comunicación</h2>
+						</hgroup>
+						
+    					<?php include 'media-sponsors.php'; ?>
     					
     					<div class="apoyo-meetups">
         					<hgroup>
