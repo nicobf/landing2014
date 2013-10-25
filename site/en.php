@@ -441,6 +441,12 @@ info@meetup.uy</a> <br/>
 						</hgroup>
 
     					<?php include 'sponsors.php'; ?>
+    					<br><br>
+    					<hgroup>
+							<h2>Media Partners</h2>
+						</hgroup>
+						
+    					<?php include 'media-sponsors.php'; ?>
     					
     					<div class="apoyo-meetups">
         					<hgroup>
