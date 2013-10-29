@@ -93,7 +93,7 @@
 				<div class="row">
 					<div class="span12 text-center">
 						<hgroup>
-							<h2>techMeetup UY is an annual conference created to and for Uruguayan developers.</h2>
+							<h2>techMeetup UY is an annual conference created by and for Uruguayan developers.</h2>
 
 							<h3><div>It has 3 main objectives: Empower local communities. Encourage IT students.</div>
 							    Offering a day of professional actualization and networking of the highest quality.
