@@ -490,7 +490,10 @@
 								<strong>Tel&eacute;fono:</strong>
 							</li>
 							 <li>+598 2 908 6408</li>
-							 <li><a href="http://tech.meetup.uy/images/afiche.png">_</a></li>
+							 <li>
+							 	<a href="./images/afiche_techmeetupuy.png">_</a> 
+							 	<a href="./images/afiche_techmeetupuy.pdf">_</a>
+							 </li>
 							</ul>
 						</div>
 						<div class="span6 text-right">
