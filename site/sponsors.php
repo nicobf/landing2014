@@ -34,14 +34,13 @@
 </div>
 <div class="row">
 	<div class="span3 box-sponsors"><a href="http://percona.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/percona.png"></a></div>
+	<div class="span3 box-sponsors"><a href="http://netsuite.com/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/netsuite.png"></a></div>
 	<div class="span3 box-sponsors"><a href="http://www.antel.com.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/antel.png"></a></div>
 	<div class="span3 box-sponsors"><a href="http://pepsi.com.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/pepsi.png"></a></div>
-	<!--<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>-->
-	<div class="span3 box-sponsors"><a href="http://amaretto.com.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/amaretto.png"></a></div>
 </div>
 <div class="row">
+		<div class="span3 box-sponsors"><a href="http://amaretto.com.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/amaretto.png"></a></div>
 	<div class="span3 box-sponsors"><a href="#" target="_blank"><img src="./images/sponsors/zillertal.png"></a></div>
-	<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
 	<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
 	<div class="span3 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>
 </div>
