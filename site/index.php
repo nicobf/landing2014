@@ -486,8 +486,11 @@
 							<li><strong>Organizaci&oacute;n:</strong></li>
 							<li>organizacion@meetup.uy</li>
 							<br/>
-							<li><strong>Tel&eacute;fono:</strong></li>
+							<li>
+								<strong>Tel&eacute;fono:</strong>
+							</li>
 							 <li>+598 2 908 6408</li>
+							 <li><a href="http://tech.meetup.uy/images/afiche.png">_</a></li>
 							</ul>
 						</div>
 						<div class="span6 text-right">
