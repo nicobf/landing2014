@@ -462,6 +462,7 @@ info@meetup.uy</a> <br/>
                                 <li><a href="http://www.meetup.com/Scala-Meetup-MVD/" target="_blank">Scala Meetup Montevideo</a></li>
                                 <li><a href="http://www.meetup.com/The-Montevideo-MySQL-Meetup-Group/" target="_blank">Montevideo Mysql Meetup Group</a></li>
                                 <li><a href="http://www.meetup.com/mvd-js/" target="_blank">Montevideo Javascript Meetup Group</a></li>
+                                <li><a href="http://python.meetup.uy" target="_blank">Montevideo Python Meetup Group</a></li>
     						</ul>
     						<p>If you are part of the community and you want to help in the organization, just send an email to <a href="mailto:info@meetup.uy">info@meetup.uy</a></p>
     					</div>

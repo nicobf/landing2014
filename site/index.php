@@ -450,14 +450,15 @@
         						<h3> Adem&aacute;s el evento es apoyado por las diferentes comunidades de tecnolog&iacute;a en Uruguay .</h3>
         					</hgroup>
     						<ul class="text-center lista-comunidades">						    
-                                <li><a href="http://www.meetup.com/AgileUY/" target="_blank">Comunidad Agile de Uruguay</a></li>
-                                <li><a href="http://www.meetup.com/DevOps-MVD/" target="_blank">DevOps Montevideo</a></li>
-                                <li><a href="http://phpmvd.uy/" target="_blank">Grupo desarrolladores PHP Montevideo</a></li>
-                                <li><a href="http://www.meetup.com/rubymvd/" target="_blank">RubyMVD</a></li>
-                                <li><a href="http://www.meetup.com/NET-UY/" target="_blank">.NetUY</a></li>
-                                <li><a href="http://www.meetup.com/Scala-Meetup-MVD/" target="_blank">Scala Meetup Montevideo</a></li>
-                                <li><a href="http://www.meetup.com/The-Montevideo-MySQL-Meetup-Group/" target="_blank">Montevideo Mysql Meetup Group</a></li>
-                                <li><a href="http://www.meetup.com/mvd-js/" target="_blank">Montevideo Javascript Meetup Group</a></li>
+                                <li><a href="http://agile.meetup.uy" target="_blank">Comunidad Agile de Uruguay</a></li>
+                                <li><a href="http://devops.meetup.uy" target="_blank">DevOps Montevideo</a></li>
+                                <li><a href="http://php.meetup.uy" target="_blank">Grupo desarrolladores PHP Montevideo</a></li>
+                                <li><a href="http://ruby.meetup.uy" target="_blank">RubyMVD</a></li>
+                                <li><a href="http://dotnet.meetup.uy" target="_blank">.NetUY</a></li>
+                                <li><a href="http://scala.meetup.uy" target="_blank">Scala Meetup Montevideo</a></li>
+                                <li><a href="http://mysql.meetup.uy" target="_blank">Montevideo Mysql Meetup Group</a></li>
+                                <li><a href="http://js.meetup.uy/" target="_blank">Montevideo Javascript Meetup Group</a></li>
+                                <li><a href="http://python.meetup.uy" target="_blank">The Montevideo Python Meetup Group/a></li>
                             
     						</ul>
     						<p>
