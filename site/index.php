@@ -466,7 +466,7 @@
     						  Si sos parte de una comunidad y quieren ayudar en la organización, simplemente enviá un mail a <a style="color:#F4C42C" href="mailto:info@meetup.uy">info@meetup.uy</a>.
     						</p>
     					</div>
-
+    					<!--
     					<div class="apoyo-meetups">
         					<hgroup>
         						<h4>Conferencias Amigas</h4>
@@ -477,10 +477,10 @@
 								<div class="span2 box-sponsors"><a href="http://www.ort.edu.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/universidades/ort.jpg"></a></div>
 								<div class="span2 box-sponsors"><a href="http://www.ucu.edu.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/universidades/ucu.png"></a></div>
 								<div class="span2 box-sponsors"><a href="http://montevideovalley.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/mvdvalley.png"></a></div>
-								<!-- <div class="span2 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>  -->
 							</div>
     						
     					</div>
+    					-->
 					
 					
 					</div>
