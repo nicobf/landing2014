@@ -53,7 +53,7 @@
 							<ul class="nav pull-right">
 								<!-- <li><a href="#row1">Inicio</a></li> -->
 								<li><a href="#row2" style="color: #22CB6E;">Regístrate</a></li>
-								<li><a href="#row4">Apoyo</a></li>
+								<li><a href="#row8">Apoyan</a></li>
 								<!--  <li><a href="#row5">Speakers</a></li>  -->
 								<li><a href="#row6">Organizaci&oacute;n</a></li>
 								<li><a href="#row9">Contacto</a></li>
@@ -113,6 +113,7 @@
 			</div>
 		</section>
 		
+		<?php if(false): ?>
 		<!-- Presentá tu charla -->
 		<section class="wrapper bg-white">
 			<a class="anchor" id="row3"></a>
@@ -186,7 +187,7 @@
 				</div>
 			</div>
 		</section>
-		<?php if(false): ?>
+		
 		<!-- Speakers -->
 		<section class="wrapper bg-white">
 			<a class="anchor" id="row5"></a>
@@ -458,13 +459,29 @@
                                 <li><a href="http://scala.meetup.uy" target="_blank">Scala Meetup Montevideo</a></li>
                                 <li><a href="http://mysql.meetup.uy" target="_blank">Montevideo Mysql Meetup Group</a></li>
                                 <li><a href="http://js.meetup.uy/" target="_blank">Montevideo Javascript Meetup Group</a></li>
-                                <li><a href="http://python.meetup.uy" target="_blank">The Montevideo Python Meetup Group/a></li>
+                                <li><a href="http://python.meetup.uy" target="_blank">The Montevideo Python Meetup Group</a></li>
                             
     						</ul>
     						<p>
     						  Si sos parte de una comunidad y quieren ayudar en la organización, simplemente enviá un mail a <a style="color:#F4C42C" href="mailto:info@meetup.uy">info@meetup.uy</a>.
     						</p>
     					</div>
+
+    					<div class="apoyo-meetups">
+        					<hgroup>
+        						<h4>Conferencias Amigas</h4>
+        						<h3></h3>
+        					</hgroup>
+    						<div class="row">
+								<div class="offset2 span2 box-sponsors"><a href="http://www.um.edu.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/universidades/um.png"></a></div>
+								<div class="span2 box-sponsors"><a href="http://www.ort.edu.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/universidades/ort.jpg"></a></div>
+								<div class="span2 box-sponsors"><a href="http://www.ucu.edu.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/universidades/ucu.png"></a></div>
+								<div class="span2 box-sponsors"><a href="http://montevideovalley.uy/?ref=tech.meetup.uy" target="_blank"><img src="./images/sponsors/mvdvalley.png"></a></div>
+								<!-- <div class="span2 box-sponsors"><a href="mailto:info@meetup.uy?subject=MeetupUy 2013 Apoyo" target="_blank"><img src="./images/sponsors/apoya.png"></a></div>  -->
+							</div>
+    						
+    					</div>
+					
 					
 					</div>
 				</div>

@@ -53,7 +53,7 @@
 							<ul class="nav pull-right">
 								<!-- <li><a href="#row1">Inicio</a></li> -->
 								<li><a href="#row2" style="color: #22CB6E;">Register</a></li>
-								<li><a href="#row4">Support</a></li>
+								<li><a href="#row8">Supporters</a></li>
 								<!--  <li><a href="#row5">Speakers</a></li>  -->
 								<li><a href="#row6">Organization</a></li>
 								<li><a href="#row9">Contact</a></li>
@@ -112,7 +112,7 @@
 				</div><!-- .bannercontainer -->
 			</div>
 		</section>
-		
+		<?php if(false): ?>
 		<!-- Presentá tu charla -->
 		<section class="wrapper bg-white">
 			<a class="anchor" id="row3"></a>
@@ -190,7 +190,7 @@ info@meetup.uy</a> <br/>
 				</div>
 			</div>
 		</section>
-		<?php if(false): ?>
+		
 		<!-- Speakers -->
 		<section class="wrapper bg-white">
 			<a class="anchor" id="row5"></a>
