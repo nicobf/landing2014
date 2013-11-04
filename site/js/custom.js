@@ -3,7 +3,8 @@ jQuery(document).ready(function ($){
     jQuery('.navbar .nav > li > a, .footer-nav > li > a').click(function(){
         jQuery.scrollTo( $(this).attr("href"), {
 			duration: 1000,
-			easing:'easeInOutExpo'			
+			easing:'easeInOutExpo',
+			offset:-100		
 		});
 		return false;
     });

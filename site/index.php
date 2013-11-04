@@ -52,11 +52,11 @@
 						<div class="nav-collapse collapse">
 							<ul class="nav pull-right">
 								<!-- <li><a href="#row1">Inicio</a></li> -->
-								<li><a href="#row2" style="color: #22CB6E;">Regístrate</a></li>
-								<li><a href="#row8">Apoyan</a></li>
+								<li><a href="#intro" style="color: #22CB6E;">Regístrate</a></li>
+								<li><a href="#apoyan">Apoyan</a></li>
 								<!--  <li><a href="#row5">Speakers</a></li>  -->
-								<li><a href="#row6">Organizaci&oacute;n</a></li>
-								<li><a href="#row9">Contacto</a></li>
+								<li><a href="#organizacion">Organizaci&oacute;n</a></li>
+								<li><a href="#contacto">Contacto</a></li>
 								<li><a href="http://tech.meetup.uy/v2012" style="color: #f4c42c;">v2012</a></li>
 								<li><a href="./en.php" style="color: #3497DB;">[EN]</a></li>
 								<!--
@@ -492,7 +492,7 @@
 			
 		
 			<!-- Footer -->
-			<section class="wrapper footer bg-green colored">
+			<section class="wrapper footer bg-green colored" id="contacto">
 				<a class="anchor" id="row9"></a>
 				<div class="container">
 					<div class="row">
