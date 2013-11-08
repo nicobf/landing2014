@@ -131,7 +131,7 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - Resolviendo problemas imposibles</p>
-									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también deje impresionados tanto a jefes como a nuestros clientes y/o usuarios.
+									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios.
 
 En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado. <a target="_blank" href="http://twitter.com/mapagella"><i class="icon-twitter"></i></a></p>
 									<ul class="inline unstyled">
@@ -146,7 +146,7 @@ En esta colección de anécdotas, tanto propias como ajenas, discutiremos que mu
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/luguedesde"><strong>Lucía Guedes</strong></a> - Diseño para desarrolladores</p>
-									<p>¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar ?
+									<p>¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar?
 
 ¿Cómo puede mejorar y optimizar el desarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador? <a target="_blank" href="http://twitter.com/luguedesde"><i class="icon-twitter"></i></a></p>
 								</div>
