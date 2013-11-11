@@ -530,7 +530,7 @@ Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades d
 		</section>
 		<!-- Fin Workshops -->
 		<!-- Organizacion -->
-		<section id="organizacion" class="wrapper-2 bg-white colored">
+		<section id="organizacion" class="wrapper-2 bg-emerald colored">
 			<a class="anchor" id="row6"></a>
 			<div class="container">
 				<div class="row">
