@@ -505,6 +505,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 					</div>
 				</div>
 				<div class="row">
+					<!--
 					<div class="span6">
 						<div class="row-fluid">
 							<div class="span4">
@@ -550,6 +551,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 							</div>
 						</div>
 					</div>
+					-->
 					<div class="span6">
 						<div class="row-fluid">
 							<div class="span4">
