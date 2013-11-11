@@ -545,7 +545,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								<img src="./images/workshop/php.png">
 							</div>
 							<div class="span7">
-								<h4>PHP - Testing para todos</h4>
+								<h4>Introducción a BDD, haciendo testing con Behat y Mink</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
 							</div>
 						</div>
@@ -556,8 +556,10 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								<img src="./images/workshop/mysql.png">
 							</div>
 							<div class="span7">
-								<h4>Mysql - </h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+								<h4>¿Cómo escalar aplicaciones que usen MySQL?</h4>
+								<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí, trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc) para escalar la aplicación.
+
+La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos a un enfoque mas teórico sobre escalabilidad.</p>
 							</div>
 						</div>
 					</div>
@@ -567,8 +569,8 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								<img src="./images/workshop/dotnet.png">
 							</div>
 							<div class="span7">
-								<h4>.Net - </h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+								<h4>Azure Cloud App Development with Windows 8.1 and Windows Phone 8</h4>
+								<p>Vení a probar lo último en desarrollo de apps que Microsoft tiene para ofrecerte. Vamos a utilizar Windows Azure Mobile Services para manejo de notificaciones en nuestras apps, mostrando todo en un sitio Azure Website. Para interactuar con el mismo vamos a desarrollar dos apps: una para Windows 8.1 y otra para Windows Phone 8. ¡No te lo podés perder!</p>
 							</div>
 						</div>
 					</div>
