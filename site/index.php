@@ -125,41 +125,86 @@
 				<div class="tabbable row speakers-row">
 					<div class="tab-content span9">
 						<div class="tab-pane fade active in">
-							<div class="row-fluid team">
+							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/mapagella"><img class="img-circle" src="/images/speakers/mpagella.png" alt="Andrés Pagella" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - Resolviendo problemas imposibles</p>
-									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios.
-
-En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado. <a target="_blank" href="http://twitter.com/mapagella"><i class="icon-twitter"></i></a></p>
-									<ul class="inline unstyled">
-										<!-- <li><a href="#"><i class="icon-github-sign"></i></a></li>
-										<li><a href="#"><i class="icon-linkedin"></i></a></li> -->
-									</ul>
+									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado. 
+										
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/mapagella"><i class="icon-twitter"></i></a></li>
+											<li><a target="_blank" href="https://github.com/andrespagella"><i class="icon-github-sign"></i></a></li> 
+											<li><a target="_blank" href="http://www.linkedin.com/in/pagella"><i class="icon-linkedin"></i></a></li>
+											<li><a target="_blank" href="http://www.andrespagella.com/"><i class="icon-link"></i></a></li>
+										</ul>
+									</p>
+									
 								</div>
 							</div>
-							<div class="row-fluid team">
+							<div class="row-fluid team" >
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/luguedesde"><img class="img-circle" src="/images/speakers/luguedesde.png" alt="Lucía Guedes" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/luguedesde"><strong>Lucía Guedes</strong></a> - Diseño para desarrolladores</p>
-									<p>¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar?
-
-¿Cómo puede mejorar y optimizar el desarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador? <a target="_blank" href="http://twitter.com/luguedesde"><i class="icon-twitter"></i></a></p>
+									<p>¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el desarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador? 
+										
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/luguedesde"><i class="icon-twitter"></i></a></a>
+											<li><a target="_blank" href="http://www.linkedin.com/in/luciaguedes"><i class="icon-linkedin"></i></a></li>
+											<li><a target="_blank" href="http://pasequeestaabierto.tumblr.com/"><i class="icon-link"></i></a></li>
+										</ul>
+									</p>
 								</div>
 							</div>
-							<div class="row-fluid team">
+							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/cuerbot"><img class="img-circle" src="/images/speakers/cuerbot.png" alt="Bruno Aguirre" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/cuerbot"><strong>Bruno Aguirre</strong></a> - Skynet son los padres</p>
-									<p>Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante.
+									<p>Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware. 
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/cuerbot"><i class="icon-twitter"></i></a></a>
+											<li><a target="_blank" href="https://github.com/elcuervo"><i class="icon-github-sign"></i></a></li> 
+											<li><a target="_blank" href="http://elcuervo.co/"><i class="icon-link"></i></a></li>
+										</ul>
+									</p>
 
-Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware. <a target="_blank" href="http://twitter.com/cuerbot"><i class="icon-twitter"></i></a></p>
+								</div>
+							</div>
+							<div class="row-fluid team" style="padding-bottom:15px;">
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/guilespi"><img class="img-circle" src="/images/speakers/guilespi.png" alt="Guillermo Winkler" /></a>
+								</div>
+								<div class="span10">
+									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - La mejor receta para apagar menos incendios</p>
+									<p>Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta.
+Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda. 
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/guilespi"><i class="icon-twitter"></i></a></a>
+											<li><a target="_blank" href="http://www.github.com/guilespi"><i class="icon-github-sign"></i></a></li> 
+											<li><a target="_blank" href="http://uy.linkedin.com/in/guilespi"><i class="icon-linkedin"></i></a></li>
+											<li><a target="_blank" href="http://resume.guillermowinkler.com/"><i class="icon-link"></i></a></li>
+										</ul>
+									</p>
+								</div>
+							</div>
+							<div class="row-fluid team" style="padding-bottom:15px;">
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/fernickk"><img class="img-circle" src="/images/speakers/fernickk.png" alt="Fernando Pardo" /></a>
+								</div>
+								<div class="span10">
+									<p><a target="_blank" href="http://twitter.com/fernickk"><strong>Fernando Pardo</strong></a> - Redis: la herramienta indicada</p>
+									<p>Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo, todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además de una introducción a su modo de uso, se explica por qué es ideal para algunas tareas, y como es mejor dejar otras para otras alternativas. 
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/fernickk"><i class="icon-twitter"></i></a></a>
+											<!-- <li><a href="#"><i class="icon-github-sign"></i></a></li> -->
+											<li><a target="_blank" href="http://uy.linkedin.com/pub/fernando-pardo/78/109/447"><i class="icon-linkedin"></i></a></li>
+										</ul>
+									</p>
 								</div>
 							</div>
 
