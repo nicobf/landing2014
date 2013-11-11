@@ -220,7 +220,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 									<p>Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. Vení a conocer todo lo que pasará en este sprint!
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/marpo60"><i class="icon-twitter"></i></a></a>
-											<li><a href="https://github.com/marpo60"><i class="icon-github-sign"></i></a></li>
+											<li><a harget="_blank" ref="https://github.com/marpo60"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/marcelo-dominguez/72/54a/247"><i class="icon-linkedin"></i></a></li>
 										</ul>
 									</p>
@@ -250,7 +250,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 					<div class="span12 text-center mar-b30">
 						<hgroup>
 							<h2>Workshops</h2>
-							<h3>Estos son los workshops que presentarán las diferentes comunidades. Serán sesiones técnicas de una hora, donde verás lo último en cada una de las disciplinas.</h3>
+							<h3>Estos son los workshops que presentarán las diferentes <a href="http://meetup.uy" target="_blank">comunidades</a>. <br>Serán sesiones técnicas de una hora, donde verás lo último en cada una de las disciplinas.</h3>
 						</hgroup>
 					</div>
 				</div>
@@ -299,7 +299,13 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 							<div class="span7">
 								<h4>Tranquilo, este cambio no debería de afectar nada.</h4>
 								<p>La idea de este “espacio” es introducirnos en el universo de TDD y BDD y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
-								Con el objetivo de prevenir frases como: ¿Pero como, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto esta testeado?  Y en consecuencia mejorar la calidad de nuestro código</p>
+								Con el objetivo de prevenir frases como: ¿Pero como, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto esta testeado?  Y en consecuencia mejorar la calidad de nuestro código
+								<ul class="inline unstyled">
+									<li><a href="https://twitter.com/iambrosi" target="_blank"><i class="icon-twitter"></i>@iambrosi</a></li>
+									<li><a href="https://twitter.com/wastedcape" target="_blank"><i class="icon-twitter"></i>@wastedcape</a></li>
+									<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">PHPmvd</a></li>
+								</ul>
+								</p>
 							</div>
 						</div>
 					</div>
@@ -312,7 +318,6 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 							<div class="span7">
 								<h4>¿Cómo escalar aplicaciones que usen MySQL?</h4>
 								<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí, trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc) para escalar la aplicación.
-
 La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos a un enfoque mas teórico sobre escalabilidad.</p>
 							</div>
 						</div>
