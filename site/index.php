@@ -209,6 +209,23 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 									</p>
 								</div>
 							</div>
+							<div class="row-fluid team" style="padding-bottom:15px;">
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/marpo60">
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/marpo60.jpeg" alt="Marcelo Dominguez" />
+									</a>
+								</div>
+								<div class="span10">
+									<p><a target="_blank" href="http://twitter.com/marpo60"><strong>Marcelo Dominguez</strong></a> - Un sprint con Git</p>
+									<p>Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. Vení a conocer todo lo que pasará en este sprint!
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/marpo60"><i class="icon-twitter"></i></a></a>
+											<li><a href="https://github.com/marpo60"><i class="icon-github-sign"></i></a></li>
+											<li><a target="_blank" href="http://uy.linkedin.com/pub/marcelo-dominguez/72/54a/247"><i class="icon-linkedin"></i></a></li>
+										</ul>
+									</p>
+								</div>
+							</div>
 
 							<div class="row-fluid team">
 								<div class="mar-b20 bordered full-rounded span2">
