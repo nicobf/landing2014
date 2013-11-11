@@ -445,6 +445,90 @@ Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades d
 			</div>
 		</section>
 		<?php endif; ?>
+		<!-- Workshops -->
+<section class="wrapper bg-white">
+			<a id="row3" class="anchor"></a>
+			<div class="container">
+				<div class="row">
+					<div class="span12 text-center mar-b30">
+						<hgroup>
+							<h2>Workshops</h2>
+							<h3>Estos son los workshops que presentarán las diferentes comunidades. Serán sesiones técnicas de una hora, donde verás lo último en cada una de las disciplinas.</h3>
+						</hgroup>
+					</div>
+				</div>
+				<div class="row">
+					<div class="span6">
+						<div class="row-fluid">
+							<div class="span4">
+								<img src="./images/workshop/scala.png">
+								
+							</div>
+							<div class="span7">
+								<h4>Scala - </h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+							</div>
+						</div>
+					</div>
+					<div class="span6">
+						<div class="row-fluid">
+							<div class="span4">
+								<img src="./images/workshop/ruby.png">
+							</div>
+							<div class="span7">
+								<h4>Ruby - </h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+							</div>
+						</div>
+					</div>
+					<div class="span6">
+						<div class="row-fluid">
+							<div class="span4 text-center">
+								<i class="icon-retweet icon-8x"></i>
+							</div>
+							<div class="span7">
+								<h4>Agile - </h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+							</div>
+						</div>
+					</div>
+					<div class="span6">
+						<div class="row-fluid">
+							<div class="span4">
+								<img src="./images/workshop/php.png">
+							</div>
+							<div class="span7">
+								<h4>PHP - Testing para todos</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+							</div>
+						</div>
+					</div>
+					<div class="span6">
+						<div class="row-fluid">
+							<div class="span4">
+								<img src="./images/workshop/mysql.png">
+							</div>
+							<div class="span7">
+								<h4>Mysql - </h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+							</div>
+						</div>
+					</div>
+					<div class="span6">
+						<div class="row-fluid">
+							<div class="span4">
+								<img src="./images/workshop/dotnet.png">
+							</div>
+							<div class="span7">
+								<h4>.Net - </h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Fin Workshops -->
 		<!-- Organizacion -->
 		<section id="organizacion" class="wrapper-2 bg-white colored">
 			<a class="anchor" id="row6"></a>
