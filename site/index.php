@@ -250,7 +250,10 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 					<div class="span12 text-center mar-b30">
 						<hgroup>
 							<h2>Workshops</h2>
-							<h3>Estos son los workshops que presentarán las diferentes <a href="http://meetup.uy" target="_blank">comunidades</a>. <br>Serán sesiones técnicas de una hora, donde verás lo último en cada una de las disciplinas.</h3>
+							<h3>Estos son los workshops que presentarán las diferentes <a href="http://meetup.uy" target="_blank">comunidades</a>. 
+							<br>Serán sesiones técnicas de una hora, donde verás lo último en cada una de las disciplinas.
+							<br>En breve te enterarás cómo podrás inscribirte. 
+							<br>¡SOLO <strong>30 cupos</strong> para cada workshop!</h3>
 						</hgroup>
 					</div>
 				</div>
