@@ -123,7 +123,7 @@
 					</div>
 				</div>
 				<div class="tabbable row speakers-row">
-					<div class="tab-content span12">
+					<div style="margin-left: 0px" class="tab-content span12">
 						<div class="tab-pane fade active in">
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
@@ -146,7 +146,7 @@
 
 								</div>
 							</div>
-							<div class="row-fluid team" >
+							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/luguedesde"><img class="img-circle" src="/images/speakers/luguedesde.png" alt="Lucía Guedes" /></a>
 								</div>
@@ -156,7 +156,7 @@
 									esarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador?
 
 										<ul class="inline unstyled">
-											<li><a target="_blank" href="http://twitter.com/luguedesde"><i class="icon-twitter"></i></a></a>
+											<li><a target="_blank" href="http://twitter.com/luguedesde"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/luciaguedes"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://pasequeestaabierto.tumblr.com/"><i class="icon-link"></i></a></li>
 										</ul>
@@ -173,7 +173,7 @@
 									día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando 
 									técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware.
 										<ul class="inline unstyled">
-											<li><a target="_blank" href="http://twitter.com/cuerbot"><i class="icon-twitter"></i></a></a>
+											<li><a target="_blank" href="http://twitter.com/cuerbot"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="https://github.com/elcuervo"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://elcuervo.co/"><i class="icon-link"></i></a></li>
 										</ul>
@@ -193,7 +193,7 @@
 									considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué 
 									combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda.
 										<ul class="inline unstyled">
-											<li><a target="_blank" href="http://twitter.com/guilespi"><i class="icon-twitter"></i></a></a>
+											<li><a target="_blank" href="http://twitter.com/guilespi"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.github.com/guilespi"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://uy.linkedin.com/in/guilespi"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://resume.guillermowinkler.com/"><i class="icon-link"></i></a></li>
@@ -214,7 +214,7 @@
 									sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además 
 									de una introducción a su modo de uso, se explica por qué es ideal para algunas tareas, y como es mejor dejar otras para otras alternativas.
 										<ul class="inline unstyled">
-											<li><a target="_blank" href="http://twitter.com/fernickk"><i class="icon-twitter"></i></a></a>
+											<li><a target="_blank" href="http://twitter.com/fernickk"><i class="icon-twitter"></i></a></li>
 											<!-- <li><a href="#"><i class="icon-github-sign"></i></a></li> -->
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/fernando-pardo/78/109/447"><i class="icon-linkedin"></i></a></li>
 										</ul>
@@ -233,13 +233,49 @@
 									va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. 
 									Vení a conocer todo lo que pasará en este sprint!
 										<ul class="inline unstyled">
-											<li><a target="_blank" href="http://twitter.com/marpo60"><i class="icon-twitter"></i></a></a>
+											<li><a target="_blank" href="http://twitter.com/marpo60"><i class="icon-twitter"></i></a></li>
 											<li><a harget="_blank" ref="https://github.com/marpo60"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/marcelo-dominguez/72/54a/247"><i class="icon-linkedin"></i></a></li>
 										</ul>
 									</p>
 								</div>
 							</div>
+
+							<div class="row-fluid team" style="padding-bottom:15px;">
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/dhcabrera">
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/dhcabrera.jpg" alt="Diego Cabrera" />
+									</a>
+								</div>
+								<div class="span8">
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infraestructura y Método para Desarrollo Ágil de Software en MercadoLibre</p>
+									<p>
+										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
+										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
+										ache de Objetos, Balanceadores de Carga, etc).
+										Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de
+										toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8
+										centros de desarrollo en Latam.
+
+										<ul style='float:left' class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/dhcabrera"><i class="icon-twitter"></i></a></li>
+											<li><a target="_blank" href="http://www.linkedin.com/in/diegocabrera"><i class="icon-linkedin"></i></a></li>
+										</ul>
+
+										<ul style='float:right' class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/pdenatale"><i class="icon-twitter"></i></a></li>
+											<li><a target="_blank" href="http://www.linkedin.com/in/pablodenatale"><i class="icon-linkedin"></i></a></li>
+										</ul>
+										<div class="clearfix"></div>
+									</p>
+								</div>
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/dhcabrera">
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/pdenatale.jpeg" alt="Pablo De Natale" />
+									</a>
+								</div>
+							</div>
+
 
 							<div class="row-fluid team">
 								<div class="mar-b20 bordered full-rounded span2">
@@ -271,9 +307,9 @@
 						</hgroup>
 					</div>
 				</div>
-				
+
 				<div class="row">
-						
+
 						<div class="span6">
 							<div class="row-fluid">
 								<div class="span4">
@@ -292,7 +328,7 @@
 								</div>
 							</div>
 						</div>
-						
+
 						<div class="span6">
 							<div class="row-fluid">
 								<div class="span4">
@@ -322,9 +358,9 @@
 								</div>
 								<div class="span7">
 									<h4>¿Cómo escalar aplicaciones que usen MySQL?</h4>
-									<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí, 
-									trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc) 
-									para escalar la aplicación. La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos 
+									<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí,
+									trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc)
+									para escalar la aplicación. La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos
 									a un enfoque mas teórico sobre escalabilidad.
 									<ul class="inline unstyled">
 										<li><i class="icon-link"></i> <a href="http://mysql.meetup.uy" target="_blank">by MySQL Meetup Group</a></li>
@@ -356,7 +392,7 @@
 							<div class="row-fluid">
 								<div class="span4">
 									<img src="./images/workshop/scala.png">
-									
+
 								</div>
 								<div class="span7">
 									<h4>Scala - </h4>
