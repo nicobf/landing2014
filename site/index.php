@@ -123,7 +123,7 @@
 					</div>
 				</div>
 				<div class="tabbable row speakers-row">
-					<div class="tab-content span12">
+					<div style="margin-left: 0px" class="tab-content span12">
 						<div class="tab-pane fade active in">
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
@@ -143,7 +143,7 @@
 
 								</div>
 							</div>
-							<div class="row-fluid team" >
+							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/luguedesde"><img class="img-circle" src="/images/speakers/luguedesde.png" alt="Lucía Guedes" /></a>
 								</div>
@@ -234,29 +234,30 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 									</a>
 								</div>
 								<div class="span8">
-									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <a href="https://twitter.com/pdenatale">Pablo De Natale</a> - Estructura, Infraestructura y Método para Desarrollo Ágil de Software en MercadoLibre</p>
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infraestructura y Método para Desarrollo Ágil de Software en MercadoLibre</p>
 									<p>
-										La charla No se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias 
-										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes, 
+										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
+										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
 										ache de Objetos, Balanceadores de Carga, etc).
-										Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de 
-										toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8 
+										Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de
+										toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8
 										centros de desarrollo en Latam.
-										
-										<ul class="inline unstyled">
-											<li><a target="_blank" href="http://twitter.com/dhcabrera"><i class="icon-twitter"></i></a><li>
+
+										<ul style='float:left' class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/dhcabrera"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/diegocabrera"><i class="icon-linkedin"></i></a></li>
 										</ul>
 
-										<ul class="inline unstyled">
+										<ul style='float:right' class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/pdenatale"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/pablodenatale"><i class="icon-linkedin"></i></a></li>
 										</ul>
+										<div class="clearfix"></div>
 									</p>
 								</div>
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/dhcabrera">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/pdenatale.jpeg" alt="Diego Cabrera" />
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/pdenatale.jpeg" alt="Pablo De Natale" />
 									</a>
 								</div>
 							</div>
@@ -289,9 +290,9 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 						</hgroup>
 					</div>
 				</div>
-				
+
 				<div class="row">
-						
+
 						<div class="span6">
 							<div class="row-fluid">
 								<div class="span4">
@@ -301,7 +302,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 									<h4>Desarrollando una aplicación real con Ruby on Rails</h4>
 									<p>
 										Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby on Rails
-										A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad. 
+										A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad.
 										Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !
 										<ul class="inline unstyled">
 											<li><i class="icon-link"></i> <a href="http://ruby.meetup.uy" target="_blank">by Ruby MVD</a></li>
@@ -310,7 +311,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								</div>
 							</div>
 						</div>
-						
+
 						<div class="span6">
 							<div class="row-fluid">
 								<div class="span4">
@@ -318,8 +319,8 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								</div>
 								<div class="span7">
 									<h4>Tranquilo, este cambio no debería de afectar nada.</h4>
-									<p>La idea de este “espacio” es introducirnos en el universo de TDD y BDD y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
-									Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar 
+									<p>La idea de este “espacio” es introducirnos en el universo de TDD y BDD y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!!
+									Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar
 									la calidad de nuestro código.
 									<ul class="inline unstyled">
 										<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
@@ -339,9 +340,9 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								</div>
 								<div class="span7">
 									<h4>¿Cómo escalar aplicaciones que usen MySQL?</h4>
-									<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí, 
-									trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc) 
-									para escalar la aplicación. La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos 
+									<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí,
+									trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc)
+									para escalar la aplicación. La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos
 									a un enfoque mas teórico sobre escalabilidad.
 									<ul class="inline unstyled">
 										<li><i class="icon-link"></i> <a href="http://mysql.meetup.uy" target="_blank">by MySQL Meetup Group</a></li>
@@ -372,7 +373,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 							<div class="row-fluid">
 								<div class="span4">
 									<img src="./images/workshop/scala.png">
-									
+
 								</div>
 								<div class="span7">
 									<h4>Scala - </h4>
