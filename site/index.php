@@ -419,9 +419,9 @@
 								<div class="span7">
 									<h4>Introducción a Scala y la programación reactiva.</h4>
 									<p>El almuerzo gratuito se acabó, los cpus no se hacen mas rápidos pero hacen mas cosas al mismo tiempo; el desafío adelante es hacer que nuestras 
-									aplicaciones hagan mas cosas sin bloquear el flujo de información; Scala esta es una posición única para atacar este desafío.
+									aplicaciones hagan mas cosas sin bloquear el flujo de información; Scala está es una posición única para atacar este desafío.
 									En este workshop construiremos una parte de una aplicación web respaldada por un sistema de actores usando play2 y akka. 
-									La intención es que los participantes se vayan con la configuraciǿn necesaria para poder seguir investigando. Traé laptop!.
+									La intención es que los participantes se vayan con la configuración necesaria para poder seguir investigando. Traé laptop!.
 									<ul class="inline unstyled">
 										<li><i class="icon-link"></i> <a href="http://scala.meetup.uy" target="_blank">by Scala Meetup Group</a></li>
 									</ul>
