@@ -244,7 +244,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 
 		<!-- Workshops -->
 		<section class="wrapper bg-white">
-			<a id="row3" class="anchor"></a>
+			<a id="workshops" class="anchor"></a>
 			<div class="container">
 				<div class="row">
 					<div class="span12 text-center mar-b30">
@@ -301,9 +301,9 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								<p>La idea de este “espacio” es introducirnos en el universo de TDD y BDD y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
 								Con el objetivo de prevenir frases como: ¿Pero como, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto esta testeado?  Y en consecuencia mejorar la calidad de nuestro código
 								<ul class="inline unstyled">
-									<li><a href="https://twitter.com/iambrosi" target="_blank"><i class="icon-twitter"></i>@iambrosi</a></li>
-									<li><a href="https://twitter.com/wastedcape" target="_blank"><i class="icon-twitter"></i>@wastedcape</a></li>
-									<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">PHPmvd</a></li>
+									<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
+									<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
+									<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">by PHP MVD</a></li>
 								</ul>
 								</p>
 							</div>
@@ -318,7 +318,11 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 							<div class="span7">
 								<h4>¿Cómo escalar aplicaciones que usen MySQL?</h4>
 								<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí, trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc) para escalar la aplicación.
-La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos a un enfoque mas teórico sobre escalabilidad.</p>
+La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos a un enfoque mas teórico sobre escalabilidad.
+								<ul class="inline unstyled">
+									<li><i class="icon-link"></i> <a href="http://mysql.meetup.uy" target="_blank">by MySQL Meetup Group</a></li>
+								</ul>
+							</p>
 							</div>
 						</div>
 					</div>
@@ -329,7 +333,11 @@ La primer parte se enfocará en trabajo práctico como optimización de consulta
 							</div>
 							<div class="span7">
 								<h4>Azure Cloud App Development with Windows 8.1 and Windows Phone 8</h4>
-								<p>Vení a probar lo último en desarrollo de apps que Microsoft tiene para ofrecerte. Vamos a utilizar Windows Azure Mobile Services para manejo de notificaciones en nuestras apps, mostrando todo en un sitio Azure Website. Para interactuar con el mismo vamos a desarrollar dos apps: una para Windows 8.1 y otra para Windows Phone 8. ¡No te lo podés perder!</p>
+								<p>Vení a probar lo último en desarrollo de apps que Microsoft tiene para ofrecerte. Vamos a utilizar Windows Azure Mobile Services para manejo de notificaciones en nuestras apps, mostrando todo en un sitio Azure Website. Para interactuar con el mismo vamos a desarrollar dos apps: una para Windows 8.1 y otra para Windows Phone 8. ¡No te lo podés perder!
+								<ul class="inline unstyled">
+									<li><i class="icon-link"></i> <a href="http://dotnet.meetup.uy" target="_blank">by .NetUY</a></li>
+								</ul>
+								</p>
 							</div>
 						</div>
 					</div>
