@@ -387,7 +387,6 @@
 					</div>
 					
 					<div class="row">
-						<!--
 						<div class="span6">
 							<div class="row-fluid">
 								<div class="span4">
@@ -395,12 +394,18 @@
 
 								</div>
 								<div class="span7">
-									<h4>Scala - </h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+									<h4>Introducción a Scala y la programación reactiva.</h4>
+									<p>El almuerzo gratuito se acabó, los cpus no se hacen mas rápidos pero hacen mas cosas al mismo tiempo; el desafío adelante es hacer que nuestras 
+									aplicaciones hagan mas cosas sin bloquear el flujo de información; Scala esta es una posición única para atacar este desafío.
+									En este workshop construiremos una parte de una aplicación web respaldada por un sistema de actores usando play2 y akka. 
+									La intención es que los participantes se vayan con la configuraciǿn necesaria para poder seguir investigando. Traé laptop!.
+									<ul class="inline unstyled">
+										<li><i class="icon-link"></i> <a href="http://scala.meetup.uy" target="_blank">by Scala Meetup Group</a></li>
+									</ul>
+									</p>
 								</div>
 							</div>
 						</div>
-						-->
 						<div class="span6">
 							<div class="row-fluid">
 								<div class="span4 text-center">
