@@ -270,7 +270,7 @@
 									</p>
 								</div>
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/dhcabrera">
+									<a target="_blank" href="http://twitter.com/pablodenatale">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/pdenatale.jpeg" alt="Pablo De Natale" />
 									</a>
 								</div>
