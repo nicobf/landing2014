@@ -131,7 +131,10 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - Resolviendo problemas imposibles</p>
-									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado.
+									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos 
+									soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. 
+									En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es 
+									imposible de resolver, es que se ha intentado resolver el problema equivocado.
 
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/mapagella"><i class="icon-twitter"></i></a></li>
@@ -149,7 +152,8 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/luguedesde"><strong>Lucía Guedes</strong></a> - Diseño para desarrolladores</p>
-									<p>¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el desarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador?
+									<p>¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el d
+									esarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador?
 
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/luguedesde"><i class="icon-twitter"></i></a></a>
@@ -165,7 +169,9 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/cuerbot"><strong>Bruno Aguirre</strong></a> - Skynet son los padres</p>
-									<p>Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware.
+									<p>Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a 
+									día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando 
+									técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/cuerbot"><i class="icon-twitter"></i></a></a>
 											<li><a target="_blank" href="https://github.com/elcuervo"><i class="icon-github-sign"></i></a></li>
@@ -181,8 +187,11 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - La mejor receta para apagar menos incendios</p>
-									<p>Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta.
-Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda.
+									<p>Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo 
+									mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta.
+									Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a 
+									considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué 
+									combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/guilespi"><i class="icon-twitter"></i></a></a>
 											<li><a target="_blank" href="http://www.github.com/guilespi"><i class="icon-github-sign"></i></a></li>
@@ -200,7 +209,10 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/fernickk"><strong>Fernando Pardo</strong></a> - Redis: la herramienta indicada</p>
-									<p>Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo, todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además de una introducción a su modo de uso, se explica por qué es ideal para algunas tareas, y como es mejor dejar otras para otras alternativas.
+									<p>Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo, 
+									todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata 
+									sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además 
+									de una introducción a su modo de uso, se explica por qué es ideal para algunas tareas, y como es mejor dejar otras para otras alternativas.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/fernickk"><i class="icon-twitter"></i></a></a>
 											<!-- <li><a href="#"><i class="icon-github-sign"></i></a></li> -->
@@ -217,7 +229,9 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/marpo60"><strong>Marcelo Dominguez</strong></a> - Un sprint con Git</p>
-									<p>Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. Vení a conocer todo lo que pasará en este sprint!
+									<p>Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación 
+									va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. 
+									Vení a conocer todo lo que pasará en este sprint!
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/marpo60"><i class="icon-twitter"></i></a></a>
 											<li><a harget="_blank" ref="https://github.com/marpo60"><i class="icon-github-sign"></i></a></li>
@@ -268,7 +282,7 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								<div class="span7">
 									<h4>Desarrollando una aplicación real con Ruby on Rails</h4>
 									<p>
-										Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby on Rails
+										Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby con <a href="http://rubyonrails.org/" target="_blank">Rails</a>.
 										A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad. 
 										Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !
 										<ul class="inline unstyled">
@@ -286,7 +300,8 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								</div>
 								<div class="span7">
 									<h4>Tranquilo, este cambio no debería de afectar nada.</h4>
-									<p>La idea de este “espacio” es introducirnos en el universo de TDD y BDD y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
+									<p>La idea de este “espacio” es introducirnos en el universo de <a href="http://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank">BDD</a> y 
+									<a href="http://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a>  y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
 									Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar 
 									la calidad de nuestro código.
 									<ul class="inline unstyled">
@@ -334,8 +349,9 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 							</div>
 						</div>
 					</div>
-					<!--
+					
 					<div class="row">
+						<!--
 						<div class="span6">
 							<div class="row-fluid">
 								<div class="span4">
@@ -348,19 +364,30 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 								</div>
 							</div>
 						</div>
+						-->
 						<div class="span6">
 							<div class="row-fluid">
 								<div class="span4 text-center">
 									<i class="icon-retweet icon-8x"></i>
+									<h2>Agile</h2>
 								</div>
 								<div class="span7">
-									<h4>Agile - </h4>
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+									<h4>Visual Story Mapping - La forma rápida, organizada y divertida de armar un product backlog.</h4>
+									<p>
+										Estás cansado de trabajar en proyectos donde no está clara la visión global? Estás cansado de asistir a reuniones eternas para definir qué es lo que 
+										tiene que hacer el producto? Estás cansado de dedicar horas y horas a features que nunca son utlilizados? Estás cansado de no entender por qué 
+										se define cada característica de tu proyecto? Si contestaste sí a alguna de las preguntas anteriores te invitamos a este Workshop para aprender un 
+										poco más de esta técnica para Product Discovery
+										<ul class="inline unstyled">
+										<li><i class="icon-link"></i> <a href="http://agile.meetup.uy" target="_blank">by AgileUY</a></li>
+									</ul>
+									</p>
 								</div>
 							</div>
 						</div>
+						
 					</div>
-					-->
+					
 
 				</div>
 			</div>
