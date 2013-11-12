@@ -289,93 +289,111 @@ Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que op
 						</hgroup>
 					</div>
 				</div>
+				
 				<div class="row">
+						
+						<div class="span6">
+							<div class="row-fluid">
+								<div class="span4">
+									<img src="./images/workshop/ruby.png">
+								</div>
+								<div class="span7">
+									<h4>Desarrollando una aplicación real con Ruby on Rails</h4>
+									<p>
+										Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby on Rails
+										A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad. 
+										Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !
+										<ul class="inline unstyled">
+											<li><i class="icon-link"></i> <a href="http://ruby.meetup.uy" target="_blank">by Ruby MVD</a></li>
+										</ul>
+									</p>
+								</div>
+							</div>
+						</div>
+						
+						<div class="span6">
+							<div class="row-fluid">
+								<div class="span4">
+									<img src="./images/workshop/php.png">
+								</div>
+								<div class="span7">
+									<h4>Tranquilo, este cambio no debería de afectar nada.</h4>
+									<p>La idea de este “espacio” es introducirnos en el universo de TDD y BDD y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
+									Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar 
+									la calidad de nuestro código.
+									<ul class="inline unstyled">
+										<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
+										<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
+										<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">by PHP MVD</a></li>
+									</ul>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="span6">
+							<div class="row-fluid">
+								<div class="span4">
+									<img src="./images/workshop/mysql.png">
+								</div>
+								<div class="span7">
+									<h4>¿Cómo escalar aplicaciones que usen MySQL?</h4>
+									<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí, 
+									trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc) 
+									para escalar la aplicación. La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos 
+									a un enfoque mas teórico sobre escalabilidad.
+									<ul class="inline unstyled">
+										<li><i class="icon-link"></i> <a href="http://mysql.meetup.uy" target="_blank">by MySQL Meetup Group</a></li>
+									</ul>
+								</p>
+								</div>
+							</div>
+						</div>
+						<div class="span6">
+							<div class="row-fluid">
+								<div class="span4">
+									<img src="./images/workshop/dotnet.png">
+								</div>
+								<div class="span7">
+									<h4>Azure Cloud App Development with Windows 8.1 and Windows Phone 8</h4>
+									<p>Vení a probar lo último en desarrollo de apps que Microsoft tiene para ofrecerte. Vamos a utilizar Windows Azure Mobile Services para manejo de notificaciones en nuestras apps, mostrando todo en un sitio Azure Website. Para interactuar con el mismo vamos a desarrollar dos apps: una para Windows 8.1 y otra para Windows Phone 8. ¡No te lo podés perder!
+									<ul class="inline unstyled">
+										<li><i class="icon-link"></i> <a href="http://dotnet.meetup.uy" target="_blank">by .NetUY</a></li>
+									</ul>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
 					<!--
-					<div class="span6">
-						<div class="row-fluid">
-							<div class="span4">
-								<img src="./images/workshop/scala.png">
-								
-							</div>
-							<div class="span7">
-								<h4>Scala - </h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
-							</div>
-						</div>
-					</div>
-					<div class="span6">
-						<div class="row-fluid">
-							<div class="span4">
-								<img src="./images/workshop/ruby.png">
-							</div>
-							<div class="span7">
-								<h4>Ruby - </h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+					<div class="row">
+						<div class="span6">
+							<div class="row-fluid">
+								<div class="span4">
+									<img src="./images/workshop/scala.png">
+									
+								</div>
+								<div class="span7">
+									<h4>Scala - </h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+								</div>
 							</div>
 						</div>
-					</div>
-					<div class="span6">
-						<div class="row-fluid">
-							<div class="span4 text-center">
-								<i class="icon-retweet icon-8x"></i>
-							</div>
-							<div class="span7">
-								<h4>Agile - </h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+						<div class="span6">
+							<div class="row-fluid">
+								<div class="span4 text-center">
+									<i class="icon-retweet icon-8x"></i>
+								</div>
+								<div class="span7">
+									<h4>Agile - </h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum. Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+								</div>
 							</div>
 						</div>
 					</div>
 					-->
-					<div class="span6">
-						<div class="row-fluid">
-							<div class="span4">
-								<img src="./images/workshop/php.png">
-							</div>
-							<div class="span7">
-								<h4>Tranquilo, este cambio no debería de afectar nada.</h4>
-								<p>La idea de este “espacio” es introducirnos en el universo de TDD y BDD y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
-								Con el objetivo de prevenir frases como: ¿Pero como, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto esta testeado?  Y en consecuencia mejorar la calidad de nuestro código
-								<ul class="inline unstyled">
-									<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
-									<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
-									<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">by PHP MVD</a></li>
-								</ul>
-								</p>
-							</div>
-						</div>
-					</div>
-					
-					<div class="span6">
-						<div class="row-fluid">
-							<div class="span4">
-								<img src="./images/workshop/mysql.png">
-							</div>
-							<div class="span7">
-								<h4>¿Cómo escalar aplicaciones que usen MySQL?</h4>
-								<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí, trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc) para escalar la aplicación.
-La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos a un enfoque mas teórico sobre escalabilidad.
-								<ul class="inline unstyled">
-									<li><i class="icon-link"></i> <a href="http://mysql.meetup.uy" target="_blank">by MySQL Meetup Group</a></li>
-								</ul>
-							</p>
-							</div>
-						</div>
-					</div>
-					<div class="span6">
-						<div class="row-fluid">
-							<div class="span4">
-								<img src="./images/workshop/dotnet.png">
-							</div>
-							<div class="span7">
-								<h4>Azure Cloud App Development with Windows 8.1 and Windows Phone 8</h4>
-								<p>Vení a probar lo último en desarrollo de apps que Microsoft tiene para ofrecerte. Vamos a utilizar Windows Azure Mobile Services para manejo de notificaciones en nuestras apps, mostrando todo en un sitio Azure Website. Para interactuar con el mismo vamos a desarrollar dos apps: una para Windows 8.1 y otra para Windows Phone 8. ¡No te lo podés perder!
-								<ul class="inline unstyled">
-									<li><i class="icon-link"></i> <a href="http://dotnet.meetup.uy" target="_blank">by .NetUY</a></li>
-								</ul>
-								</p>
-							</div>
-						</div>
-					</div>
+
 				</div>
 			</div>
 		</section>
