@@ -276,16 +276,39 @@
 								</div>
 							</div>
 
-
-							<div class="row-fluid team">
+							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<img style="width: 160px;" class="img-circle" src="/images/speakers/proxima.png" alt="Proximamente..." />
+									<a target="_blank" href="http://twitter.com/marpo60">
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/gabrielfagundez.jpeg" alt="Gabriel Fagúndez" />
+									</a>
 								</div>
 								<div class="span10">
-									<p><strong>Stay tuned </strong>- for more...</p>
-									<p><img src="/images/speakers/blurred_desc.png" alt="Proximamente..." /></p>
+									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - </p>
+									<p>...
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/gabrielfagundez"><i class="icon-twitter"></i></a></li>
+											<li><a target="_blank" href="http://www.linkedin.com/in/gabrielfagundez"><i class="icon-linkedin"></i></a></li>
+										</ul>
+									</p>
 								</div>
 							</div>
+
+							<div class="row-fluid team" style="padding-bottom:15px;">
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/marpo60">
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/mauro_fcib.jpeg" alt="Mauro Flores" />
+									</a>
+								</div>
+								<div class="span10">
+									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - </p>
+									<p>....
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/mauro_fcib"><i class="icon-twitter"></i></a></li>
+										</ul>
+									</p>
+								</div>
+							</div>
+
 						</div><!-- .tab-pane -->
 					</div>
 				</div>
