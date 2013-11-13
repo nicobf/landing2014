@@ -248,7 +248,7 @@
 									</a>
 								</div>
 								<div class="span8">
-									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infraestructura y Método para Desarrollo Ágil de Software en MercadoLibre</p>
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infraestructura y Método para Desarrollo Ágil de Software en MercadoLibre.</p>
 									<p>
 										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
 										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
@@ -275,6 +275,24 @@
 									</a>
 								</div>
 							</div>
+							<div class="row-fluid team" style="padding-bottom:15px;">
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/marpo60">
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/mauro_fcib.png" alt="Mauro Flores" />
+									</a>
+								</div>
+								<div class="span10">
+									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - Viviendo en la nube.</p>
+									<p>
+										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad 
+										que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en 
+										este contexto.
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/mauro_fcib"><i class="icon-twitter"></i></a></li>
+										</ul>
+									</p>
+								</div>
+							</div>
 							<!--
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
@@ -292,23 +310,8 @@
 									</p>
 								</div>
 							</div>
-
-							<div class="row-fluid team" style="padding-bottom:15px;">
-								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/marpo60">
-										<img style="width: 160px;" class="img-circle" src="/images/speakers/mauro_fcib.jpeg" alt="Mauro Flores" />
-									</a>
-								</div>
-								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - </p>
-									<p>....
-										<ul class="inline unstyled">
-											<li><a target="_blank" href="http://twitter.com/mauro_fcib"><i class="icon-twitter"></i></a></li>
-										</ul>
-									</p>
-								</div>
-							</div>
 							-->
+							
 						</div><!-- .tab-pane -->
 					</div>
 				</div>
