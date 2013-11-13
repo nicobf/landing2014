@@ -143,7 +143,12 @@
 											<li><a target="_blank" href="http://www.andrespagella.com/"><i class="icon-link"></i></a></li>
 										</ul>
 									</p>
-
+									<!--
+									<p class="bio">
+										Andrés es autor, disertante, y ha desarrollado software por más de 12 años, pero por sobre todas las cosas es una persona extremadamente 
+										curiosa e inquisitiva. Vive con su novia y perro en Capital Federal, Argentina.
+									</p>
+									-->
 								</div>
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
@@ -161,6 +166,14 @@
 											<li><a target="_blank" href="http://pasequeestaabierto.tumblr.com/"><i class="icon-link"></i></a></li>
 										</ul>
 									</p>
+									<!--
+									<p class="bio">
+										Lucía es Licenciada en Diseño Gráfico, pero su pasión por el diseño web la llevó a especializarse en el área digital. 
+										Actualmente trabaja como diseñadora UX/UI, con experiencia en diseño de sitios y aplicaciones web y móviles (iOS, android, 
+										windows 8). Dedica gran parte de su día leyendo o mirando todo lo que esté relacionado al diseño digital y la tecnología.
+										Proactiva. Inquieta. Buscadora.
+									</p>
+									-->
 								</div>
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
@@ -178,7 +191,14 @@
 											<li><a target="_blank" href="http://elcuervo.co/"><i class="icon-link"></i></a></li>
 										</ul>
 									</p>
-
+									<!--
+									<p class="bio">
+										Bruno (o elcuervo para los amigos) fue criado por un grupo de salvajes de la tribu de telecomunicaciones, ellos lo llevaron al mundo 
+										de lo distribuido y protocolos asíncronos. El avance de la ciudad en las tierras de estos salvajes y las olas migratorias del pingüino 
+										emperador llevo a este desarrollador a las tierras del HTTP en donde busca unir a los dos mundos.
+										Es opensource-dependiente, mantiene varios proyectos, es de Géminis y disfruta de largas caminatas en la playa y cenas a la luz de las velas.
+									</p>
+									-->
 								</div>
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
@@ -199,6 +219,19 @@
 											<li><a target="_blank" href="http://resume.guillermowinkler.com/"><i class="icon-link"></i></a></li>
 										</ul>
 									</p>
+									<!--
+									<p class="bio">
+										guilespi hace software desde hace más de 20 años, lo que no significa que siempre le funcione.
+
+										Homo-sapiens-debugginiensis, curtido en sistemas propios y extraños que se supone nunca
+										debían haber fallado, para terminar volando por el aire con él juntando las piezas.
+
+										Desde Assembler x86 a su actual fanatismo por Clojure ha escrito código espantoso en 
+										una multitud de lenguajes, lo que le da una habilidad casi fraternal para detectar código radiactivo.
+
+										En el tiempo libre hace biología molecular y escribe auto-biografías en tercera persona.
+									</p>
+									-->
 								</div>
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
@@ -219,6 +252,13 @@
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/fernando-pardo/78/109/447"><i class="icon-linkedin"></i></a></li>
 										</ul>
 									</p>
+									<!--
+									<p class="bio">
+									Cosplayer retirado y divagador errante, ingeniero de profesión y testarudo de nacimiento. Gusta de los unicornios y picar C++ 
+									hasta la madrugada. Amante de los algoritmos y encontrarle pelos al huevo. Su pasión es la programación gráfica y el 
+									desarrollo de juegos.
+									</p>
+									-->
 								</div>
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
@@ -238,6 +278,16 @@
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/marcelo-dominguez/72/54a/247"><i class="icon-linkedin"></i></a></li>
 										</ul>
 									</p>
+									<!--
+									<p class="bio">
+									Marcelo tiene 23 años y es Ingeniero en computación egresado de la Universidad de la República. Comenzó a trabajar en 
+									Wyeworks hace más de dos años, actualmente se dedica al desarrollo de aplicaciones web de alto impacto construidas 
+									en Ruby on Rails.
+									Motivado por su curiosidad natural, dedica tiempo en mejorar su flujo de trabajo diario. Una de las herramientas que 
+									más utiliza es el sistema de control de versiones Git, con la cual logra mantener al máximo la fluidez de su 
+									desarrollo y trabajo de integración.
+									</p>
+									-->
 								</div>
 							</div>
 
@@ -261,12 +311,38 @@
 											<li><a target="_blank" href="http://twitter.com/dhcabrera"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/diegocabrera"><i class="icon-linkedin"></i></a></li>
 										</ul>
+										<!--
+										<p class="bio">
+										Trabajo en MercadoLibre hace 9 años, actualmente soy SW Development Manager
+										y responsable de los proyectos que se desarrollan en el Centro de Desarrollo de Montevideo de ML.
+										MercadoLibre me ha permitido trabajar en proyectos muy desafiantes tanto técnicamente como
+										desde el punto de vista de Producto.
+										También he formado parte de la transformación que atravesó el equipo de desarrollo de ML
+										para poder pasar de un equipo de 15 devs a en 2004 a +200 hoy manteniendo la agilidad de una start-up.
+										Venimos a contar nuestra experiencia y cuales fueron las decisiones de Estructura organizacional,
+										Infraestructura y Metodología que no permiten mantener una Alta velocidad de Delivery manteniendo la calidad
+										de nuestro producto.
+										</p>
+										-->
 
 										<ul style='float:right' class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/pdenatale"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/pablodenatale"><i class="icon-linkedin"></i></a></li>
 										</ul>
 										<div class="clearfix"></div>
+										<!--
+										<p>
+										Licenciado en Sistemas de Información y graduado de la Maestría en Tecnologías de la Información, ambas en 
+										Universidad CAECE de Argentina. 
+										Poseo más de 15 años de experiencia en el desarrollo de software, en particular sobre plataformas web con 
+										sitios de alto tráfico (ESPN, TNT, Warner, DeRemate, y MercadoLibre entre otros). A su vez, cuento 
+										con más de 8 años de experiencia en el liderazgo, conducción y formación de equipos de desarrollo de 
+										alto rendimiento y calidad aplicando las principales Metodologías Ágiles (tanto para el desarrollo como 
+										para la gestión).
+										Actualmente me desempeñoo como Líder de Proyectos dentro de MercadoLibre, he formado y desarrollado equipos en 
+										Argentina, Venezuela, Uruguay. 
+										</p>
+										-->
 									</p>
 								</div>
 								<div class="mar-b20 bordered full-rounded span2">
@@ -291,6 +367,13 @@
 											<li><a target="_blank" href="http://twitter.com/mauro_fcib"><i class="icon-twitter"></i></a></li>
 										</ul>
 									</p>
+									<!--
+									<p class="bio">
+									Mauro es co-líder del capítulo Uruguay del Open Web Application Security Project (OWASP) y ha participado en proyectos de desarrollo 
+									de aplicaciones sensibles y de I+D en seguridad para empresas del Reino Unido, USA, Brasil, Chile, Argentina y Uruguay.
+									</p>
+									-->
+
 								</div>
 							</div>
 							<!--
