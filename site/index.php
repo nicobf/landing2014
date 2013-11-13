@@ -293,25 +293,45 @@
 									</p>
 								</div>
 							</div>
-							<!--
+							
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/marpo60">
+									<a target="_blank" href="http://twitter.com/gabrielfagundez">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/gabrielfagundez.jpeg" alt="Gabriel Fagúndez" />
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - </p>
-									<p>...
+									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - Simplemente REST.</p>
+									<p>
+										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en en cada uno de los rincones del mundo. 
+										Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los 
+										beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de 
+										éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos 
+										para crear aplicaciones REST, y entender aquellas que se ofrecen a lo largo de la web. Finalmente, dedicaremos un 
+										momento a comentar sobre los principales agregados que tiene REST, que hacen de la arquitectura algo mejor y más completo. 
+										Hablaremos de autenticación y seguridad, paginado, manejo de errores, y más.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/gabrielfagundez"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/gabrielfagundez"><i class="icon-linkedin"></i></a></li>
 										</ul>
 									</p>
+									<!--
+									<p class="bio">
+										Apasionado por la tecnología, y más que nada por las tendencias que se desarrollan en este dinámico mundo, actualmente me 
+										desempeño en dos rubros diferentes, que encuentran su nodo en común en esta pasión.
+
+										Por un lado, soy desarrollador en Moove-IT, utilizando tecnologías como Ruby, Rails, Javascript. Por otra parte, soy 
+										periodista freelance y colaborador en TCC y ProUniversitarios. Además, formé parte del equipo de Uruguay Encendido, y 
+										fui redactor en WebPC durante casi 3 años. Finalmente, soy un dedicado estudiante de Ingeniería en Computación en la 
+										Facultad de Ingeniería, UdelaR.
+
+										Mis 22 años fueron suficientes para encontrar un rumbo, y una de mis misiones es contar, con pablabras corrientes, 
+										cómo se desarrolla la tecnología y cómo es mi punto de vista respecto a las tendencias y avances dentro de este 
+										cambiante sector.
+									</p>
+									-->
 								</div>
-							</div>
-							-->
-							
+							</div>							
 						</div><!-- .tab-pane -->
 					</div>
 				</div>
