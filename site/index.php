@@ -275,7 +275,7 @@
 									</a>
 								</div>
 							</div>
-
+							<!--
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/marpo60">
@@ -308,7 +308,7 @@
 									</p>
 								</div>
 							</div>
-
+							-->
 						</div><!-- .tab-pane -->
 					</div>
 				</div>
