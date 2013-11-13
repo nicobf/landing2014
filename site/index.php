@@ -252,7 +252,7 @@
 									<p>
 										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
 										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
-										ache de Objetos, Balanceadores de Carga, etc).
+										cache de Objetos, Balanceadores de Carga, etc).
 										Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de
 										toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8
 										centros de desarrollo en Latam.

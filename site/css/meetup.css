@@ -1,7 +1,7 @@
 .logo{
 	background-image: url('../images/imag/logo.jpg');
 	width: 465px;
-	height: 80px;	
+	height: 80px;
 }
 
 .brand-logo {
@@ -22,7 +22,7 @@ section#apoyar h3>strong>a:hover {
 #organizacion {
 	min-height: 300px;
 }
-#intro{	
+#intro{
 	min-height: 300px;
 }
 #organizacion a:hover {
@@ -41,5 +41,5 @@ section#apoyar h3>strong>a:hover {
 }
 
 .icon-8x {
-    font-size: 8em;
+    font-size: 5em;
 }
