@@ -282,7 +282,7 @@
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - Viviendo en la nube.</p>
+									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - Viviendo en las nubes.</p>
 									<p>
 										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad 
 										que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en 
