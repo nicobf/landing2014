@@ -303,7 +303,7 @@
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - Simplemente REST.</p>
 									<p>
-										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en en cada uno de los rincones del mundo. 
+										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo. 
 										Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los 
 										beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de 
 										éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos 
