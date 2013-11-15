@@ -560,6 +560,7 @@
                                 <li><a href="http://mysql.meetup.uy" target="_blank">Montevideo Mysql Meetup Group</a></li>
                                 <li><a href="http://js.meetup.uy/" target="_blank">Montevideo Javascript Meetup Group</a></li>
                                 <li><a href="http://python.meetup.uy" target="_blank">The Montevideo Python Meetup Group</a></li>
+                                <li><a href="http://www.meetup.com/AutomationUY/" target="_blank">Automation UY</a></li>
 
     						</ul>
     						<p>
