@@ -248,7 +248,7 @@
 									</a>
 								</div>
 								<div class="span8">
-									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infraestructura y Método para Desarrollo Ágil de Software en MercadoLibre.</p>
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre..</p>
 									<p>
 										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
 										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
@@ -589,6 +589,8 @@
                                 <li><a href="http://mysql.meetup.uy" target="_blank">Montevideo Mysql Meetup Group</a></li>
                                 <li><a href="http://js.meetup.uy/" target="_blank">Montevideo Javascript Meetup Group</a></li>
                                 <li><a href="http://python.meetup.uy" target="_blank">The Montevideo Python Meetup Group</a></li>
+                                <li><a href="http://www.meetup.com/AutomationUY/" target="_blank">Automation UY</a></li>
+                                <li><a href="http://www.meetup.com/Interaction-design-Uruguay" target="_blank">IxDA Montevideo</a></li>
 
     						</ul>
     						<p>
