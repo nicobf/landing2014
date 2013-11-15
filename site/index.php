@@ -331,7 +331,36 @@
 									</p>
 									-->
 								</div>
-							</div>							
+							</div>		
+							<div class="row-fluid team" style="padding-bottom:15px;">
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/acyment">
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/acyment.jpg" alt="Alan Cyment" />
+									</a>
+								</div>
+								<div class="span10">
+									<p><a target="_blank" href="http://twitter.com/acyment"><strong>Alan Cyment</strong></a> - Delivery continuo, kaizen y lunes como la gente.</p>
+									<p>
+										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en 
+										producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones, 
+										es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero 
+										artesano de software. Porque al fin y al cabo, ¿de qué sirve toda esta conferencia si los lunes siguen apestando?
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/acyment"><i class="icon-twitter"></i></a></li>
+											<li><a target="_blank" href="http://ar.linkedin.com/pub/alan-cyment/2/213/142/"><i class="icon-linkedin"></i></a></li>
+										</ul>
+									</p>
+									<!--
+									<p class="bio">
+										A Alan le encanta ver el desarrollo de software desde una perspectiva humana. Se esfuerza por obtener diseños emergentes honestos e 
+										impulsados por la pasión. Por hacer software para seres humanos en lugar de para las máquinas. Busca mirar a la gente a los ojos 
+										en lugar de leer el correo electrónico. Es un presentador habitual en las conferencias mundiales de agilismo y se encuentra escribiendo 
+										la versión en español del libro “The People’s Scrum” de Tobias Mayer. 
+									</p>
+									-->
+								</div>
+							</div>	
+
 						</div><!-- .tab-pane -->
 					</div>
 				</div>
