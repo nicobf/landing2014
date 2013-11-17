@@ -298,7 +298,7 @@
 									</a>
 								</div>
 								<div class="span8">
-									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infraestructura y Método para Desarrollo Ágil de Software en MercadoLibre.</p>
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre..</p>
 									<p>
 										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
 										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
@@ -358,7 +358,7 @@
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - Viviendo en la nube.</p>
+									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - Viviendo en las nubes.</p>
 									<p>
 										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad 
 										que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en 
@@ -376,25 +376,74 @@
 
 								</div>
 							</div>
-							<!--
+							
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/marpo60">
+									<a target="_blank" href="http://twitter.com/gabrielfagundez">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/gabrielfagundez.jpeg" alt="Gabriel Fagúndez" />
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - </p>
-									<p>...
+									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - Simplemente REST.</p>
+									<p>
+										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo. 
+										Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los 
+										beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de 
+										éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos 
+										para crear aplicaciones REST, y entender aquellas que se ofrecen a lo largo de la web. Finalmente, dedicaremos un 
+										momento a comentar sobre los principales agregados que tiene REST, que hacen de la arquitectura algo mejor y más completo. 
+										Hablaremos de autenticación y seguridad, paginado, manejo de errores, y más.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/gabrielfagundez"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/gabrielfagundez"><i class="icon-linkedin"></i></a></li>
 										</ul>
 									</p>
+									<!--
+									<p class="bio">
+										Apasionado por la tecnología, y más que nada por las tendencias que se desarrollan en este dinámico mundo, actualmente me 
+										desempeño en dos rubros diferentes, que encuentran su nodo en común en esta pasión.
+
+										Por un lado, soy desarrollador en Moove-IT, utilizando tecnologías como Ruby, Rails, Javascript. Por otra parte, soy 
+										periodista freelance y colaborador en TCC y ProUniversitarios. Además, formé parte del equipo de Uruguay Encendido, y 
+										fui redactor en WebPC durante casi 3 años. Finalmente, soy un dedicado estudiante de Ingeniería en Computación en la 
+										Facultad de Ingeniería, UdelaR.
+
+										Mis 22 años fueron suficientes para encontrar un rumbo, y una de mis misiones es contar, con pablabras corrientes, 
+										cómo se desarrolla la tecnología y cómo es mi punto de vista respecto a las tendencias y avances dentro de este 
+										cambiante sector.
+									</p>
+									-->
 								</div>
-							</div>
-							-->
-							
+							</div>		
+							<div class="row-fluid team" style="padding-bottom:15px;">
+								<div class="mar-b20 bordered full-rounded span2">
+									<a target="_blank" href="http://twitter.com/acyment">
+										<img style="width: 160px;" class="img-circle" src="/images/speakers/acyment.jpg" alt="Alan Cyment" />
+									</a>
+								</div>
+								<div class="span10">
+									<p><a target="_blank" href="http://twitter.com/acyment"><strong>Alan Cyment</strong></a> - Delivery continuo, kaizen y lunes como la gente.</p>
+									<p>
+										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en 
+										producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones, 
+										es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero 
+										artesano de software. Porque al fin y al cabo, ¿de qué sirve toda esta conferencia si los lunes siguen apestando?
+										<ul class="inline unstyled">
+											<li><a target="_blank" href="http://twitter.com/acyment"><i class="icon-twitter"></i></a></li>
+											<li><a target="_blank" href="http://ar.linkedin.com/pub/alan-cyment/2/213/142/"><i class="icon-linkedin"></i></a></li>
+										</ul>
+									</p>
+									<!--
+									<p class="bio">
+										A Alan le encanta ver el desarrollo de software desde una perspectiva humana. Se esfuerza por obtener diseños emergentes honestos e 
+										impulsados por la pasión. Por hacer software para seres humanos en lugar de para las máquinas. Busca mirar a la gente a los ojos 
+										en lugar de leer el correo electrónico. Es un presentador habitual en las conferencias mundiales de agilismo y se encuentra escribiendo 
+										la versión en español del libro “The People’s Scrum” de Tobias Mayer. 
+									</p>
+									-->
+								</div>
+							</div>	
+
 						</div><!-- .tab-pane -->
 					</div>
 				</div>
@@ -623,6 +672,8 @@
                                 <li><a href="http://mysql.meetup.uy" target="_blank">Montevideo Mysql Meetup Group</a></li>
                                 <li><a href="http://js.meetup.uy/" target="_blank">Montevideo Javascript Meetup Group</a></li>
                                 <li><a href="http://python.meetup.uy" target="_blank">The Montevideo Python Meetup Group</a></li>
+                                <li><a href="http://www.meetup.com/AutomationUY/" target="_blank">Automation UY</a></li>
+                                <li><a href="http://www.meetup.com/Interaction-design-Uruguay" target="_blank">IxDA Montevideo</a></li>
 
     						</ul>
     						<p>
