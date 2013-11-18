@@ -206,7 +206,7 @@
 									<a target="_blank" href="http://twitter.com/guilespi"><img class="img-circle" src="/images/speakers/guilespi.png" alt="Guillermo Winkler" /></a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - La mejor receta para apagar menos incendios</p>
+									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - Sistemas Distribuidos Observables.</p>
 									<p>Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo 
 									mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta.
 									Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a 
