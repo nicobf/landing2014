@@ -54,6 +54,7 @@
 								<!-- <li><a href="#row1">Inicio</a></li> -->
 								<li><a href="#intro" style="color: #22CB6E;">Regístrate</a></li>
 								<li><a href="#speakers">Speakers</a></li>
+								<li><a href="#agenda">Agenda</a></li>
 								<li><a href="#organizacion">Organiza</a></li>
 								<li><a href="#apoyan">Apoyan</a></li>
 								<li><a href="http://tech.meetup.uy/v2012" style="color: #f4c42c;">v2012</a></li>
@@ -447,6 +448,32 @@
 						</div><!-- .tab-pane -->
 					</div>
 				</div>
+			</div>
+		</section>
+
+		<section id="agenda" class="wrapper-2 bg-turquoise colored">
+			<a class="anchor" id="agenda"></a>
+			<div class="container">
+			<div class="row">
+					<div class="span12 text-center">
+						<h2>La agenda</h2>
+						<!-- <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum.<br>
+						Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</h3> -->
+					</div>
+				</div>
+				<div class="row">
+					<div class="span12 text-center">
+						<img src="./images/agenda.png">
+					</div>
+				</div>
+				<div class="bannercontainer row">
+					<div class="banner botones span12" >
+                            <a style="color:#FFF" class="btn btn-large  uppercase btn-warning" href="https://eventioz.com.ar/e/techmeetupuy-2013" target="_blank">Quedan pocos lugares, registrate (USD20)</a>
+                            <!-- <a style="color:#FFF" class="btn btn-large  uppercase btn-success" href="http://bit.ly/techmeetup2013-beca" target="_blank">¡¡Solicita una Beca!!</a> -->
+						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
+					</div>
+				</div><!-- .bannercontainer -->
+
 			</div>
 		</section>
 
