@@ -43,3 +43,304 @@ section#apoyar h3>strong>a:hover {
 .icon-8x {
     font-size: 5em;
 }
+
+
+
+/* ============ TIMELINE ============= */
+
+div#timelineContainer {
+	border-left: 1px solid #2c88d9;
+}
+
+div.timelineToggle {
+	/*float:right;
+	margin-right:0;
+	white-space:nowrap;*/
+	/*position: relative;*/
+	/*top: 83px;
+	left: 700px;*/
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+a.expandAll {
+	color:#3397db;
+	cursor:pointer;
+	background:#fff;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	border-radius:2px;
+	font-size: 9px;
+	display: inline-block;
+	width: 12px;
+	height: 13px;
+	font-size: 13px;
+	text-align: center;
+	line-height: 13px;
+	font-weight: bold;
+	font-family: "Tahoma", "Verdana", sans-serif;
+	padding:3px 5px 4px 5px;
+}
+
+a.expandAll:hover {
+	color:#7DBADF;
+	cursor:pointer;
+}
+
+div.timelineMajor {
+	float:left;
+	margin:0 0 12px;
+	position: relative;
+	left: -5px;
+}
+div.timelineMajor.span4{
+	border-left: 1px solid #2c88d9;
+}
+
+div.timelineMajor.span4 .timelineMinor{
+	left: -6px;
+}
+
+div.timelineMajor.span4 .timelineEvent p{
+	/*width: 100%;*/
+}
+
+
+.timelineMajor h2 {
+	cursor: pointer;
+	font-size:2em;
+	margin:0 0 10px;
+	padding: 0px 4px 4px 92px;
+}
+
+.timelineMajor h2 span {
+	background:#ccc;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	color:#131313;
+	letter-spacing:.1em;
+	line-height:1.7em;
+	padding:3px 5px 1px;
+}
+
+dl.timelineMinor {
+	clear:left;
+	float:left;
+	margin:0 12px 0 0;
+	padding:0;
+	position:relative;
+	color: white;
+	font-size: 13px;
+	padding-bottom: 5px;
+}
+
+.timelineMinor dt {
+	background:url(../images/timeline_decade_tick.gif) left center no-repeat;
+	clear:left;
+	font-size: 14px;
+	list-style-type:none;
+	line-height:20px;
+	margin:0;
+	padding:0 0 0 24px;
+	white-space:nowrap;
+}
+
+.timelineMinor dt *{
+	-webkit-transform: translateZ(0);
+	   -moz-transform: translateZ(0);
+	    -ms-transform: translateZ(0);
+	     -o-transform: translateZ(0);
+	        transform: translateZ(0);	
+}
+
+
+
+.timelineMinor dt a {
+	color: white;
+	cursor:pointer;
+	font-weight: normal;
+}
+
+.fixed-font{
+	font-family: "Menlo", "Monaco", monospace;
+	font-size: 12px;
+	color: #22CB6E!important;
+}
+
+.fixed-font span{
+	color: #217ccd!important;	
+}
+
+.timelineMinor dt a{
+	font-size: 14px!important;
+}
+.timelineMinor dt a span{
+	font-family: "Menlo", "Monaco", monospace;
+	font-size: 14px;
+	display: inline-block;
+	margin-right: 27px;
+	font-weight: normal;
+	color: #f4c42c;
+}
+
+.timelineMinor dt a.closed {
+	margin-left:0;
+}
+
+.timelineMinor dt a.open {
+	color:#f4c42c;
+	font-weight: bold;
+}
+
+.timelineMinor dt a:hover {
+	color:#f4c42c;
+}
+
+.timelineMinor dd {
+	padding-left: 86px;
+	/*width: 510px;*/
+	width: 100%;
+}
+
+.timelineMinor dd h3 {
+	color:#FFF;
+	clear:both;
+	float:left;
+	font-size:1.5em;
+	margin:0;
+	white-space:nowrap;
+}
+
+.timelineEvent p {
+	clear:left;
+	float:left;
+	line-height:1.5em;
+	margin:6px 0 15px;
+	/*width: 490px;*/
+	width: 80%;
+	color: #eee;
+}
+
+.timelineEvent h4 {
+	clear:left;
+	float:left;
+	font-size:1.4em;
+	font-weight:400;
+	margin:10px 0 0;
+	padding:0 0 0 20px;
+}
+
+.timelineEvent blockquote {
+	border-left:2px solid #ccc;
+	clear:left;
+	float:left;
+	font-size:1.8em;
+	margin-left:0;
+	padding:0 30px;
+	width:400px;
+}
+
+.timelineEvent blockquote .attribution{
+	font-size:0.7em;
+	text-align: right;
+}
+
+
+.timelineEvent div.media {
+	float:right;
+	padding:0 0 12px;
+	width:300px;
+}
+
+.timelineEvent .media img {
+	border:2px solid #000;
+	margin:0;
+}
+
+.timelineEvent .media p {
+	font-size:1.2em;
+	margin:0;
+	padding:0;
+}
+
+.timelineEvent .media a:link,.timelineEvent .media a:visited {
+	color:#ab221b;
+}
+
+.timelineEvent .media a:hover {
+	color:#7DBADF;
+}
+
+/* Smartphones (landscape and portrait) ----------- */
+@media screen and (max-width: 768px) {
+
+    /** {
+        max-width: 460px;
+    }
+
+    body {
+        font-size: large;
+    }
+
+    .container {
+       padding:10px;
+    }
+
+    div.timelineToggle {
+       float:none;
+    }
+
+    .timelineEvent div.media {
+        display:none;
+        float:none;
+    }
+
+    .timelineMinor dt {
+       font-size:1.2em;
+       white-space: normal;
+    }
+
+    .timelineMinor dd h3 {
+       font-size:1em;
+       white-space: normal;
+    }
+
+    div#timelineContainer {
+    }
+
+    .timelineMinor dd {
+        margin-left:20px;
+        padding-left:0;
+        width:100%;
+    }
+
+    .timelineEvent .media p {
+       font-size:1em;
+    }
+
+    dl.timelineMinor {
+       float:none;
+       max-width:80%;
+    }
+
+    .timelineEvent p {
+       float:none;
+       width:100%;
+    }
+
+    .timelineEvent blockquote {
+       float:none;
+       width:200px;
+       font-size:1em;
+    }*/
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+
+    /** {
+        max-width: 300px;
+    }*/
+
+}

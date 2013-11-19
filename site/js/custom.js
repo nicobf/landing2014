@@ -1,5 +1,8 @@
 //Nav
 jQuery(document).ready(function ($){
+
+	TM.init();
+
     jQuery('.navbar .nav > li > a, .footer-nav > li > a').click(function(){
         jQuery.scrollTo( $(this).attr("href"), {
 			duration: 1000,
@@ -66,3 +69,29 @@ tpj('.banner').revolution(
 		fullWidth:"off"							// Turns On or Off the Fullwidth Image Centering in FullWidth Modus
 	});
 });
+
+
+var TM = function($){
+	
+	var app = {
+		
+		init : function(){
+			
+			$.timeliner({
+				startOpens:['#event01EX'],
+				baseSpeed: 100,
+				speed : 2,
+				fontOpen: '16px',
+				fontClosed : '12px',
+				expandAllText: '+',
+				collapseAllText: '-'
+			});
+			
+		}
+	};
+
+	return{
+		init : app.init
+	}
+
+}(jQuery);

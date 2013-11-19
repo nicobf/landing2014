@@ -454,19 +454,303 @@
 		<section id="agenda" class="wrapper-2 bg-turquoise colored">
 			<a class="anchor" id="agenda"></a>
 			<div class="container">
-			<div class="row">
+				<div class="row">
 					<div class="span12 text-center">
 						<h2>La agenda</h2>
-						<!-- <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum.<br>
-						Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</h3> -->
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum.<br> Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
+						<br>
 					</div>
 				</div>
 				<div class="row">
-					<div class="span12 text-center">
-						<img src="./images/agenda.png">
-					</div>
-				</div>
-				<div class="bannercontainer row">
+					
+			
+					<div id="timelineContainer" class="rows clearfix">
+
+						<div class="clearfix">
+							<div class="timelineToggle"><p><a class="expandAll">+</a></p></div>
+						</div>
+
+						
+						<div class="timelineMajor span8">
+							
+							<h2 class="timelineMajorMarker">Conferencias</h2>
+							
+							<dl class="timelineMinor">
+								<dt id="event01"><a><span>08:30</span> Acreditaciones</a></dt>
+								<dd class="timelineEvent" id="event01EX" style="display: none; ">
+									<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, deleniti, laboriosam, reiciendis, adipisci sunt quis explicabo quos exercitationem vitae eveniet facere animi tempore qui unde officiis assumenda ipsa veritatis consequatur!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, asperiores, consectetur, nulla ab eum explicabo fuga voluptate illo eos incidunt alias rerum earum sapiente ea veritatis voluptatem impedit consequuntur maxime?</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event02"><a><span>09:30</span> Presentación del Evento</a></dt>
+								<dd class="timelineEvent" id="event02EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event03"><a><span>09:45</span> Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre</a></dt>
+								<dd class="timelineEvent" id="event03EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event04"><a><span>10:30</span> Redis: la herramienta indicada</a></dt>
+								<dd class="timelineEvent" id="event04EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event05"><a><span>11:05</span> Diseño para desarrolladores</a></dt>
+								<dd class="timelineEvent" id="event05EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event06"><a class="fixed-font"><span>11:10</span>{{ BREAK #1 }}</a></dt>
+								<dd class="timelineEvent" id="event06EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event07"><a><span>12:05</span> Sistemas distribuidos observables</a></dt>
+								<dd class="timelineEvent" id="event07EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event08"><a><span>12:40</span> Un sprint con Git</a></dt>
+								<dd class="timelineEvent" id="event08EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event09"><a class="fixed-font"><span>13:15</span>{{ ALMUERZO }}</a></dt>
+								<dd class="timelineEvent" id="event09EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event10"><a><span>14:35</span> Skynet son los padres</a></dt>
+								<dd class="timelineEvent" id="event10EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event11"><a><span>15:10</span> Resolviendo problemas imposibles</a></dt>
+								<dd class="timelineEvent" id="event11EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event12"><a><span>16:10</span> Lighting Talks</a></dt>
+								<dd class="timelineEvent" id="event12EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event13"><a class="fixed-font"><span>16:45</span>{{ BREAK #2 }}</a></dt>
+								<dd class="timelineEvent" id="event13EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event14"><a><span>17:05</span> Viviendo en la nube</a></dt>
+								<dd class="timelineEvent" id="event14EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event15"><a><span>17:40</span> Simplemente REST</a></dt>
+								<dd class="timelineEvent" id="event15EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event16"><a><span>18:15</span> Delivery continuo, kaizen y lunes como la gente</a></dt>
+								<dd class="timelineEvent" id="event16EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event17"><a><span>18:50</span> Cierre</a></dt>
+								<dd class="timelineEvent" id="event17EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event18"><a class="fixed-font"><span>19:00</span>{{ DRINKUP }}</a></dt>
+								<dd class="timelineEvent" id="event18EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+						</div>
+
+
+
+
+						<div class="timelineMajor span4">
+							
+							<h2 class="timelineMajorMarker" style="padding: 0px 4px 4px 88px;">Workshops</h2>
+							
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>08:30</span></a></dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, deleniti, laboriosam, reiciendis, adipisci sunt quis explicabo quos exercitationem vitae eveniet facere animi tempore qui unde officiis assumenda ipsa veritatis consequatur!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, asperiores, consectetur, nulla ab eum explicabo fuga voluptate illo eos incidunt alias rerum earum sapiente ea veritatis voluptatem impedit consequuntur maxime?</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>09:30</span></a></dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p>Content about the other event.</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop03"><a><span>09:45</span> Ruby MVD</a></dt>
+								<dd class="timelineEvent" id="workshop03EX" style="display: none; ">
+									<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, a, itaque ex quo nam architecto dolores cum obcaecati aliquam at facere aut ea ducimus reiciendis velit neque nulla eius quos?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, velit libero accusantium vel! Asperiores, non, dolore, expedita cupiditate iure aperiam alias repudiandae eum provident qui repellendus suscipit neque itaque facilis?</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>10:30</span> </a> </dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p>Content about the other event.</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop05"><a><span>11:05</span> PHP MVD</a></dt>
+								<dd class="timelineEvent" id="workshop05EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop06"><a class="fixed-font"><span>11:10</span>{{ BREAK #1 }}</a></dt>
+								<dd class="timelineEvent" id="workshop06EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop07"><a><span>12:05</span> Agile UY</a></dt>
+								<dd class="timelineEvent" id="workshop07EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>12:40</span> </a></dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p>Content about the other event.</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop09"><a class="fixed-font"><span>13:15</span>{{ ALMUERZO }}</a></dt>
+								<dd class="timelineEvent" id="workshop09EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>14:35</span></a></dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p>Content about the other event.</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop11"><a><span>15:10</span> dotNet</a></dt>
+								<dd class="timelineEvent" id="workshop11EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>16:10</span></a></dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p>Content about the other event.</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop13"><a><span>16:40</span> MySQL</a></dt>
+								<dd class="timelineEvent" id="workshop13EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>17:05</span></a></dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p>Content about the other event.</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop15"><a><span>17:40</span> SCALA</a></dt>
+								<dd class="timelineEvent" id="workshop15EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>18:15</span><a></dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p>Content about the other event.</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id=""><a class="fixed-font"><span>18:50</span></a></dt>
+								<dd class="timelineEvent" id="" style="display: none; ">
+									<!-- <p>Content about the other event.</p> -->
+								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="workshop18"><a class="fixed-font"><span>19:00</span>{{ DRINKUP }}</a></dt>
+								<dd class="timelineEvent" id="workshop18EX" style="display: none; ">
+									<p>Content about the other event.</p>
+								</dd>
+							</dl>							
+
+						</div><!-- /.timelineMajor -->
+
+					</div><!-- /#timelineContainer -->
+
+
+				</div><!-- /.container -->
+
+
+
+
+
+
+
+				
+				<div class="bannercontainer row" style="margin-top:30px">
 					<div class="banner botones span12" >
                             <a style="color:#FFF" class="btn btn-large  uppercase btn-warning" href="https://eventioz.com.ar/e/techmeetupuy-2013" target="_blank">Quedan pocos lugares, registrate (USD20)</a>
                             <!-- <a style="color:#FFF" class="btn btn-large  uppercase btn-success" href="http://bit.ly/techmeetup2013-beca" target="_blank">¡¡Solicita una Beca!!</a> -->
@@ -770,7 +1054,9 @@
 	    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 	    <!-- Revolution Responsive jQuery Slider -->
 	    <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
+	    <script type="text/javascript" src="js/timeliner.min.js"></script>
 	    <script type="text/javascript" src="js/custom.js"></script>
+
 
 	    <?php include 'google_track.php';?>
 
