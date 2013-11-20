@@ -3,11 +3,11 @@ jQuery(document).ready(function ($){
 
 	TM.init();
 
-    jQuery('.navbar .nav > li > a, .footer-nav > li > a').click(function(){
+    jQuery('.navbar .nav > li > a, .footer-nav > li > a, .timelineMinor a:not(.fixed-font)').click(function(){
         jQuery.scrollTo( $(this).attr("href"), {
 			duration: 1000,
 			easing:'easeInOutExpo',
-			offset:-100		
+			offset:-100
 		});
 		return false;
     });
@@ -72,11 +72,11 @@ tpj('.banner').revolution(
 
 
 var TM = function($){
-	
+
 	var app = {
-		
+
 		init : function(){
-			
+
 			$.timeliner({
 				startOpens:['#event01EX'],
 				baseSpeed: 100,
@@ -86,7 +86,7 @@ var TM = function($){
 				expandAllText: '+',
 				collapseAllText: '-'
 			});
-			
+
 		}
 	};
 

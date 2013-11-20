@@ -132,9 +132,9 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - Resolviendo problemas imposibles</p>
-									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos 
-									soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. 
-									En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es 
+									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos
+									soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios.
+									En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es
 									imposible de resolver, es que se ha intentado resolver el problema equivocado.
 
 										<ul class="inline unstyled">
@@ -146,7 +146,7 @@
 									</p>
 									<!--
 									<p class="bio">
-										Andrés es autor, disertante, y ha desarrollado software por más de 12 años, pero por sobre todas las cosas es una persona extremadamente 
+										Andrés es autor, disertante, y ha desarrollado software por más de 12 años, pero por sobre todas las cosas es una persona extremadamente
 										curiosa e inquisitiva. Vive con su novia y perro en Capital Federal, Argentina.
 									</p>
 									-->
@@ -169,8 +169,8 @@
 									</p>
 									<!--
 									<p class="bio">
-										Lucía es Licenciada en Diseño Gráfico, pero su pasión por el diseño web la llevó a especializarse en el área digital. 
-										Actualmente trabaja como diseñadora UX/UI, con experiencia en diseño de sitios y aplicaciones web y móviles (iOS, android, 
+										Lucía es Licenciada en Diseño Gráfico, pero su pasión por el diseño web la llevó a especializarse en el área digital.
+										Actualmente trabaja como diseñadora UX/UI, con experiencia en diseño de sitios y aplicaciones web y móviles (iOS, android,
 										windows 8). Dedica gran parte de su día leyendo o mirando todo lo que esté relacionado al diseño digital y la tecnología.
 										Proactiva. Inquieta. Buscadora.
 									</p>
@@ -183,8 +183,8 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/cuerbot"><strong>Bruno Aguirre</strong></a> - Skynet son los padres</p>
-									<p>Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a 
-									día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando 
+									<p>Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a
+									día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando
 									técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/cuerbot"><i class="icon-twitter"></i></a></li>
@@ -194,8 +194,8 @@
 									</p>
 									<!--
 									<p class="bio">
-										Bruno (o elcuervo para los amigos) fue criado por un grupo de salvajes de la tribu de telecomunicaciones, ellos lo llevaron al mundo 
-										de lo distribuido y protocolos asíncronos. El avance de la ciudad en las tierras de estos salvajes y las olas migratorias del pingüino 
+										Bruno (o elcuervo para los amigos) fue criado por un grupo de salvajes de la tribu de telecomunicaciones, ellos lo llevaron al mundo
+										de lo distribuido y protocolos asíncronos. El avance de la ciudad en las tierras de estos salvajes y las olas migratorias del pingüino
 										emperador llevo a este desarrollador a las tierras del HTTP en donde busca unir a los dos mundos.
 										Es opensource-dependiente, mantiene varios proyectos, es de Géminis y disfruta de largas caminatas en la playa y cenas a la luz de las velas.
 									</p>
@@ -208,10 +208,10 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - Sistemas Distribuidos Observables.</p>
-									<p>Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo 
+									<p>Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo
 									mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta.
-									Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a 
-									considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué 
+									Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a
+									considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué
 									combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/guilespi"><i class="icon-twitter"></i></a></li>
@@ -227,7 +227,7 @@
 										Homo-sapiens-debugginiensis, curtido en sistemas propios y extraños que se supone nunca
 										debían haber fallado, para terminar volando por el aire con él juntando las piezas.
 
-										Desde Assembler x86 a su actual fanatismo por Clojure ha escrito código espantoso en 
+										Desde Assembler x86 a su actual fanatismo por Clojure ha escrito código espantoso en
 										una multitud de lenguajes, lo que le da una habilidad casi fraternal para detectar código radiactivo.
 
 										En el tiempo libre hace biología molecular y escribe auto-biografías en tercera persona.
@@ -243,9 +243,9 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/fernickk"><strong>Fernando Pardo</strong></a> - Redis: la herramienta indicada</p>
-									<p>Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo, 
-									todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata 
-									sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además 
+									<p>Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo,
+									todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata
+									sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además
 									de una introducción a su modo de uso, se explica por qué es ideal para algunas tareas, y como es mejor dejar otras para otras alternativas.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/fernickk"><i class="icon-twitter"></i></a></li>
@@ -255,8 +255,8 @@
 									</p>
 									<!--
 									<p class="bio">
-									Cosplayer retirado y divagador errante, ingeniero de profesión y testarudo de nacimiento. Gusta de los unicornios y picar C++ 
-									hasta la madrugada. Amante de los algoritmos y encontrarle pelos al huevo. Su pasión es la programación gráfica y el 
+									Cosplayer retirado y divagador errante, ingeniero de profesión y testarudo de nacimiento. Gusta de los unicornios y picar C++
+									hasta la madrugada. Amante de los algoritmos y encontrarle pelos al huevo. Su pasión es la programación gráfica y el
 									desarrollo de juegos.
 									</p>
 									-->
@@ -270,8 +270,8 @@
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/marpo60"><strong>Marcelo Dominguez</strong></a> - Un sprint con Git</p>
-									<p>Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación 
-									va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. 
+									<p>Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación
+									va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint.
 									Vení a conocer todo lo que pasará en este sprint!
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/marpo60"><i class="icon-twitter"></i></a></li>
@@ -281,11 +281,11 @@
 									</p>
 									<!--
 									<p class="bio">
-									Marcelo tiene 23 años y es Ingeniero en computación egresado de la Universidad de la República. Comenzó a trabajar en 
-									Wyeworks hace más de dos años, actualmente se dedica al desarrollo de aplicaciones web de alto impacto construidas 
+									Marcelo tiene 23 años y es Ingeniero en computación egresado de la Universidad de la República. Comenzó a trabajar en
+									Wyeworks hace más de dos años, actualmente se dedica al desarrollo de aplicaciones web de alto impacto construidas
 									en Ruby on Rails.
-									Motivado por su curiosidad natural, dedica tiempo en mejorar su flujo de trabajo diario. Una de las herramientas que 
-									más utiliza es el sistema de control de versiones Git, con la cual logra mantener al máximo la fluidez de su 
+									Motivado por su curiosidad natural, dedica tiempo en mejorar su flujo de trabajo diario. Una de las herramientas que
+									más utiliza es el sistema de control de versiones Git, con la cual logra mantener al máximo la fluidez de su
 									desarrollo y trabajo de integración.
 									</p>
 									-->
@@ -333,15 +333,15 @@
 										<div class="clearfix"></div>
 										<!--
 										<p>
-										Licenciado en Sistemas de Información y graduado de la Maestría en Tecnologías de la Información, ambas en 
-										Universidad CAECE de Argentina. 
-										Poseo más de 15 años de experiencia en el desarrollo de software, en particular sobre plataformas web con 
-										sitios de alto tráfico (ESPN, TNT, Warner, DeRemate, y MercadoLibre entre otros). A su vez, cuento 
-										con más de 8 años de experiencia en el liderazgo, conducción y formación de equipos de desarrollo de 
-										alto rendimiento y calidad aplicando las principales Metodologías Ágiles (tanto para el desarrollo como 
+										Licenciado en Sistemas de Información y graduado de la Maestría en Tecnologías de la Información, ambas en
+										Universidad CAECE de Argentina.
+										Poseo más de 15 años de experiencia en el desarrollo de software, en particular sobre plataformas web con
+										sitios de alto tráfico (ESPN, TNT, Warner, DeRemate, y MercadoLibre entre otros). A su vez, cuento
+										con más de 8 años de experiencia en el liderazgo, conducción y formación de equipos de desarrollo de
+										alto rendimiento y calidad aplicando las principales Metodologías Ágiles (tanto para el desarrollo como
 										para la gestión).
-										Actualmente me desempeñoo como Líder de Proyectos dentro de MercadoLibre, he formado y desarrollado equipos en 
-										Argentina, Venezuela, Uruguay. 
+										Actualmente me desempeñoo como Líder de Proyectos dentro de MercadoLibre, he formado y desarrollado equipos en
+										Argentina, Venezuela, Uruguay.
 										</p>
 										-->
 									</p>
@@ -361,8 +361,8 @@
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - Viviendo en las nubes.</p>
 									<p>
-										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad 
-										que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en 
+										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad
+										que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en
 										este contexto.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/mauro_fcib"><i class="icon-twitter"></i></a></li>
@@ -370,14 +370,14 @@
 									</p>
 									<!--
 									<p class="bio">
-									Mauro es co-líder del capítulo Uruguay del Open Web Application Security Project (OWASP) y ha participado en proyectos de desarrollo 
+									Mauro es co-líder del capítulo Uruguay del Open Web Application Security Project (OWASP) y ha participado en proyectos de desarrollo
 									de aplicaciones sensibles y de I+D en seguridad para empresas del Reino Unido, USA, Brasil, Chile, Argentina y Uruguay.
 									</p>
 									-->
 
 								</div>
 							</div>
-							
+
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/gabrielfagundez" id="gabriel-fagundez">
@@ -387,12 +387,12 @@
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - Simplemente REST.</p>
 									<p>
-										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo. 
-										Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los 
-										beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de 
-										éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos 
-										para crear aplicaciones REST, y entender aquellas que se ofrecen a lo largo de la web. Finalmente, dedicaremos un 
-										momento a comentar sobre los principales agregados que tiene REST, que hacen de la arquitectura algo mejor y más completo. 
+										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo.
+										Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los
+										beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de
+										éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos
+										para crear aplicaciones REST, y entender aquellas que se ofrecen a lo largo de la web. Finalmente, dedicaremos un
+										momento a comentar sobre los principales agregados que tiene REST, que hacen de la arquitectura algo mejor y más completo.
 										Hablaremos de autenticación y seguridad, paginado, manejo de errores, y más.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/gabrielfagundez"><i class="icon-twitter"></i></a></li>
@@ -401,21 +401,21 @@
 									</p>
 									<!--
 									<p class="bio">
-										Apasionado por la tecnología, y más que nada por las tendencias que se desarrollan en este dinámico mundo, actualmente me 
+										Apasionado por la tecnología, y más que nada por las tendencias que se desarrollan en este dinámico mundo, actualmente me
 										desempeño en dos rubros diferentes, que encuentran su nodo en común en esta pasión.
 
-										Por un lado, soy desarrollador en Moove-IT, utilizando tecnologías como Ruby, Rails, Javascript. Por otra parte, soy 
-										periodista freelance y colaborador en TCC y ProUniversitarios. Además, formé parte del equipo de Uruguay Encendido, y 
-										fui redactor en WebPC durante casi 3 años. Finalmente, soy un dedicado estudiante de Ingeniería en Computación en la 
+										Por un lado, soy desarrollador en Moove-IT, utilizando tecnologías como Ruby, Rails, Javascript. Por otra parte, soy
+										periodista freelance y colaborador en TCC y ProUniversitarios. Además, formé parte del equipo de Uruguay Encendido, y
+										fui redactor en WebPC durante casi 3 años. Finalmente, soy un dedicado estudiante de Ingeniería en Computación en la
 										Facultad de Ingeniería, UdelaR.
 
-										Mis 22 años fueron suficientes para encontrar un rumbo, y una de mis misiones es contar, con pablabras corrientes, 
-										cómo se desarrolla la tecnología y cómo es mi punto de vista respecto a las tendencias y avances dentro de este 
+										Mis 22 años fueron suficientes para encontrar un rumbo, y una de mis misiones es contar, con pablabras corrientes,
+										cómo se desarrolla la tecnología y cómo es mi punto de vista respecto a las tendencias y avances dentro de este
 										cambiante sector.
 									</p>
 									-->
 								</div>
-							</div>		
+							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
 									<a target="_blank" href="http://twitter.com/acyment" id="alan-cyment">
@@ -425,9 +425,9 @@
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/acyment"><strong>Alan Cyment</strong></a> - Delivery continuo, kaizen y lunes como la gente.</p>
 									<p>
-										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en 
-										producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones, 
-										es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero 
+										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en
+										producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones,
+										es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero
 										artesano de software. Porque al fin y al cabo, ¿de qué sirve toda esta conferencia si los lunes siguen apestando?
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/acyment"><i class="icon-twitter"></i></a></li>
@@ -436,14 +436,14 @@
 									</p>
 									<!--
 									<p class="bio">
-										A Alan le encanta ver el desarrollo de software desde una perspectiva humana. Se esfuerza por obtener diseños emergentes honestos e 
-										impulsados por la pasión. Por hacer software para seres humanos en lugar de para las máquinas. Busca mirar a la gente a los ojos 
-										en lugar de leer el correo electrónico. Es un presentador habitual en las conferencias mundiales de agilismo y se encuentra escribiendo 
-										la versión en español del libro “The People’s Scrum” de Tobias Mayer. 
+										A Alan le encanta ver el desarrollo de software desde una perspectiva humana. Se esfuerza por obtener diseños emergentes honestos e
+										impulsados por la pasión. Por hacer software para seres humanos en lugar de para las máquinas. Busca mirar a la gente a los ojos
+										en lugar de leer el correo electrónico. Es un presentador habitual en las conferencias mundiales de agilismo y se encuentra escribiendo
+										la versión en español del libro “The People’s Scrum” de Tobias Mayer.
 									</p>
 									-->
 								</div>
-							</div>	
+							</div>
 
 						</div><!-- .tab-pane -->
 					</div>
@@ -460,19 +460,19 @@
 					</div>
 				</div>
 				<div class="row">
-					
-			
+
+
 					<div id="timelineContainer" class="rows clearfix">
 
 						<div class="clearfix">
 							<div class="timelineToggle"><p><a class="expandAll">+</a></p></div>
 						</div>
 
-						
+
 						<div class="timelineMajor span8">
-							
+
 							<h2 class="timelineMajorMarker">Conferencias</h2>
-							
+
 							<dl class="timelineMinor">
 								<dt id="event01"><a><span>08:30</span> Acreditaciones</a></dt>
 							</dl>
@@ -485,7 +485,7 @@
 								<dt id="event03"><a><span>09:45</span> Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre</a></dt>
 								<dd class="timelineEvent" id="event03EX" style="display: none; ">
 									<p>
-										La charla No se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes, cache de Objetos, Balanceadores de Carga, etc). Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8 centros de desarrollo en Latam. 
+										La charla No se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes, cache de Objetos, Balanceadores de Carga, etc). Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8 centros de desarrollo en Latam.
 										- <a href="#diego-cabrera">Diego Cabrera</a> y <a href="#pablo-de-natale">Pablo De Natale</a>
 									</p>
 								</dd>
@@ -505,21 +505,21 @@
 								<dt id="event05"><a><span>11:05</span> Diseño para desarrolladores</a></dt>
 								<dd class="timelineEvent" id="event05EX" style="display: none; ">
 									<p>
-										¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el d esarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador? 
+										¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el d esarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador?
 										- <a href="#lucia-guedes">Lucía Guedes</a>
 									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="event06"><a class="fixed-font"><span>11:10</span>{{ BREAK #1 }}</a></dt>
+								<dt id="event06"><a class="fixed-font"><span>11:40</span>{{ BREAK #1 }}</a></dt>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event07"><a><span>12:05</span> Sistemas distribuidos observables</a></dt>
 								<dd class="timelineEvent" id="event07EX" style="display: none; ">
 									<p>
-										Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta. Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda. 
+										Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta. Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda.
 										- <a href="#guillermo-winkler">Guillermo Winkler</a>
 									</p>
 								</dd>
@@ -529,7 +529,7 @@
 								<dt id="event08"><a><span>12:40</span> Un sprint con Git</a></dt>
 								<dd class="timelineEvent" id="event08EX" style="display: none; ">
 									<p>
-										Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. Vení a conocer todo lo que pasará en este sprint! 
+										Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. Vení a conocer todo lo que pasará en este sprint!
 										- <a href="#marcelo-dominguez">Marcelo Dominguez</a>
 									</p>
 								</dd>
@@ -543,7 +543,7 @@
 								<dt id="event10"><a><span>14:35</span> Skynet son los padres</a></dt>
 								<dd class="timelineEvent" id="event10EX" style="display: none; ">
 									<p>
-										Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware. 
+										Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware.
 										- <a href="#bruno-aguirre">Bruno Aguirre</a>
 									</p>
 								</dd>
@@ -553,7 +553,7 @@
 								<dt id="event11"><a><span>15:10</span> Resolviendo problemas imposibles</a></dt>
 								<dd class="timelineEvent" id="event11EX" style="display: none; ">
 									<p>
-										Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado. 
+										Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado.
 										- <a href="#andres-pagella">Andrés Pagella</a>
 									</p>
 								</dd>
@@ -574,7 +574,7 @@
 								<dt id="event14"><a><span>17:05</span> Viviendo en la nube</a></dt>
 								<dd class="timelineEvent" id="event14EX" style="display: none; ">
 									<p>
-										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en este contexto. 
+										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en este contexto.
 										- <a href="#mauro-flores">Mauro Flores</a>
 									</p>
 								</dd>
@@ -584,7 +584,7 @@
 								<dt id="event15"><a><span>17:40</span> Simplemente REST</a></dt>
 								<dd class="timelineEvent" id="event15EX" style="display: none; ">
 									<p>
-										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo. Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos para crear aplicaciones REST, y entender aquellas que se ofrecen a lo largo de la web. Finalmente, dedicaremos un momento a comentar sobre los principales agregados que tiene REST, que hacen de la arquitectura algo mejor y más completo. Hablaremos de autenticación y seguridad, paginado, manejo de errores, y más. 
+										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo. Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos para crear aplicaciones REST, y entender aquellas que se ofrecen a lo largo de la web. Finalmente, dedicaremos un momento a comentar sobre los principales agregados que tiene REST, que hacen de la arquitectura algo mejor y más completo. Hablaremos de autenticación y seguridad, paginado, manejo de errores, y más.
 										- <a href="#gabriel-fagundez">Gabriel Fagúndez</a>
 									</p>
 								</dd>
@@ -594,7 +594,7 @@
 								<dt id="event16"><a><span>18:15</span> Delivery continuo, kaizen y lunes como la gente</a></dt>
 								<dd class="timelineEvent" id="event16EX" style="display: none; ">
 									<p>
-										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones, es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero artesano de software. Porque al fin y al cabo, ¿de qué sirve toda esta conferencia si los lunes siguen apestando? 
+										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones, es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero artesano de software. Porque al fin y al cabo, ¿de qué sirve toda esta conferencia si los lunes siguen apestando?
 										- <a href="#alan-cyment">Alan Cyment</a>
 									</p>
 								</dd>
@@ -614,9 +614,9 @@
 
 
 						<div class="timelineMajor span4">
-							
+
 							<h2 class="timelineMajorMarker" style="padding: 0px 4px 4px 88px;">Workshops</h2>
-							
+
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>08:30</span></a></dt>
 								<dd class="timelineEvent" id="" style="display: none; ">
@@ -626,7 +626,7 @@
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>09:30</span></a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
@@ -635,17 +635,17 @@
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>10:30</span> </a> </dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop05"><a href="#php-mvd"><span>11:05</span> PHP MVD</a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="workshop06"><a class="fixed-font"><span>11:10</span>{{ BREAK #1 }}</a></dt>
-								
+								<dt id="workshop06"><a class="fixed-font"><span>11:40</span>{{ BREAK #1 }}</a></dt>
+
 							</dl>
 
 							<dl class="timelineMinor">
@@ -654,17 +654,17 @@
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>12:40</span> </a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop09"><a class="fixed-font"><span>13:15</span>{{ ALMUERZO }}</a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>14:35</span></a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
@@ -673,38 +673,38 @@
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>16:10</span></a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop13"><a href="#mysql"><span>16:40</span> MySQL</a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>17:05</span></a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop15"><a href="#scala"><span>17:40</span> SCALA</a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>18:15</span><a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>18:50</span></a></dt>
-								
+
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop18"><a class="fixed-font"><span>19:00</span>{{ DRINKUP }}</a></dt>
-								
-							</dl>							
+
+							</dl>
 
 						</div><!-- /.timelineMajor -->
 
@@ -719,7 +719,7 @@
 
 
 
-				
+
 				<div class="bannercontainer row" style="margin-top:30px">
 					<div class="banner botones span12" >
                             <a style="color:#FFF" class="btn btn-large  uppercase btn-warning" href="https://eventioz.com.ar/e/techmeetupuy-2013" target="_blank">Quedan pocos lugares, registrate (USD20)</a>
@@ -739,30 +739,29 @@
 					<div class="span12 text-center mar-b30">
 						<hgroup>
 							<h2>Workshops</h2>
-							<h3>Estos son los workshops que presentarán las diferentes <a href="http://meetup.uy" target="_blank">comunidades</a>. 
+							<h3>Estos son los workshops que presentarán las diferentes <a href="http://meetup.uy" target="_blank">comunidades</a>.
 							<br>Serán sesiones técnicas de una hora, donde verás lo último en cada una de las disciplinas.
-							<br>En breve te enterarás cómo podrás inscribirte. 
+							<br>En breve te enterarás cómo podrás inscribirte.
 							<br>¡SOLO <strong>30 cupos</strong> para cada workshop!</h3>
 						</hgroup>
 					</div>
 				</div>
 
 				<div class="row">
-						<a class="anchor" id="ruby-mvd"></a>
-						<div class="span6">
+						<div id="ruby-mvd" class="span6">
 							<div class="row-fluid">
-								
+
 								<div class="span4">
 									<img src="./images/workshop/ruby.png">
 								</div>
 								<div class="span7">
 									<h4>Desarrollando una aplicación real con Ruby on Rails</h4>
-									<p>
+									<div class="paragraph">
 										Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby con <a href="http://rubyonrails.org/" target="_blank">Rails</a>.
-										A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad. 
+										A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad.
 										Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !
 										<br>
-										Requisitos:
+										<div style="margin: 4px 0px 8px">Requisitos:</div>
 										<ul>
 											<li>Experiencia en desarrollo web de 1-2 años.</li>
 											<li>No es necesario haber trabajado con Ruby</li>
@@ -770,26 +769,25 @@
 										<ul class="inline unstyled">
 											<li><i class="icon-link"></i> <a href="http://ruby.meetup.uy" target="_blank">by Ruby MVD</a></li>
 										</ul>
-									</p>
+									</div>
 								</div>
 							</div>
 						</div>
 
-						<div class="span6">
-							<a class="anchor" id="php-mvd"></a>
+						<div id="php-mvd" class="span6">
 							<div class="row-fluid">
-								
+
 								<div class="span4">
 									<img src="./images/workshop/php.png">
 								</div>
 								<div class="span7">
 									<h4>Tranquilo, este cambio no debería de afectar nada.</h4>
-									<p>La idea de este “espacio” es introducirnos en el universo de <a href="http://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank">BDD</a> y 
-									<a href="http://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a>  y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
-									Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar 
+									<div class="paragraph">La idea de este “espacio” es introducirnos en el universo de <a href="http://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank">BDD</a> y
+									<a href="http://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a>  y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!!
+									Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar
 									la calidad de nuestro código.
 									<br>
-									Requisitos:
+									<div style="margin: 4px 0px 8px">Requisitos:</div>
 									<ul>
 										<li>Experiencia en desarrollo web de 1-2 años.</li>
 										<li>Notebook con:</li>
@@ -804,59 +802,58 @@
 										<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
 										<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">by PHP MVD</a></li>
 									</ul>
-									</p>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					<div class="row">
+					<div id="mysql" class="row">
 						<div class="span6">
-							<a class="anchor" id="mysql"></a>
 							<div class="row-fluid">
 								<div class="span4">
 									<img src="./images/workshop/mysql.png">
 								</div>
 								<div class="span7">
 									<h4>¿Cómo escalar aplicaciones que usen MySQL?</h4>
-									<p>Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí,
-									trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc)
-									para escalar la aplicación. La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos
-									a un enfoque mas teórico sobre escalabilidad.
-									<ul class="inline unstyled">
-										<li><i class="icon-link"></i> <a href="http://mysql.meetup.uy" target="_blank">by MySQL Meetup Group</a></li>
-									</ul>
-								</p>
+									<div class="paragraph">Orientado a programadores que usen MySQL como motor de persistencia. Primero veremos cómo sacar el mayor rendimiento de MySQL en sí,
+										trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc)
+										para escalar la aplicación. La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos
+										a un enfoque mas teórico sobre escalabilidad.
+										<ul style='margin-top: 8px' class="inline unstyled">
+											<li><i class="icon-link"></i> <a href="http://mysql.meetup.uy" target="_blank">by MySQL Meetup Group</a></li>
+										</ul>
+									</div>
 								</div>
 							</div>
 						</div>
-						<div class="span6">
-							<a class="anchor" id="dot-net"></a>
+						<div  id="dot-net" class="span6">
+							<a class="anchor"></a>
 							<div class="row-fluid">
 								<div class="span4">
 									<img src="./images/workshop/dotnet.png">
 								</div>
 								<div class="span7">
 									<h4>Azure Cloud App Development with Windows 8.1 and Windows Phone 8</h4>
-									<p>Vení a probar lo último en desarrollo de apps que Microsoft tiene para ofrecerte. Vamos a utilizar Windows Azure Mobile Services para manejo de notificaciones en nuestras apps, mostrando todo en un sitio Azure Website. Para interactuar con el mismo vamos a desarrollar dos apps: una para Windows 8.1 y otra para Windows Phone 8. ¡No te lo podés perder!
-									<br>
-									Requerimientos:
-									<ul>
-										<li><a href="http://technet.microsoft.com/en-US/evalcenter/hh699156.aspx" target="_blank">Windows 8</a> (no virtual machine)</li>
-										<li><a href="http://www.microsoft.com/visualstudio/eng/downloads#d-express-windows-8">VS 2013 express p/ desarrollar app Win8</a></li>
-										<li><a href="http://www.microsoft.com/en-us/download/details.aspx?id=35471">SDK p/ desarrollar app Windows Phone 8</a></li>
-									</ul>
-									<ul class="inline unstyled">
-										<li><i class="icon-link"></i> <a href="http://dotnet.meetup.uy" target="_blank">by .NetUY</a></li>
-									</ul>
-									</p>
+									<div class="paragraph">Vení a probar lo último en desarrollo de apps que Microsoft tiene para ofrecerte. Vamos a utilizar Windows Azure Mobile Services para manejo de notificaciones en nuestras apps, mostrando todo en un sitio Azure Website. Para interactuar con el mismo vamos a desarrollar dos apps: una para Windows 8.1 y otra para Windows Phone 8. ¡No te lo podés perder!
+										<br>
+										<div style="margin: 4px 0px 8px">Requisitos:</div>
+										<ul>
+											<li><a href="http://technet.microsoft.com/en-US/evalcenter/hh699156.aspx" target="_blank">Windows 8</a> (no virtual machine)</li>
+											<li><a href="http://www.microsoft.com/visualstudio/eng/downloads#d-express-windows-8">VS 2013 express p/ desarrollar app Win8</a></li>
+											<li><a href="http://www.microsoft.com/en-us/download/details.aspx?id=35471">SDK p/ desarrollar app Windows Phone 8</a></li>
+										</ul>
+										<ul class="inline unstyled">
+											<li><i class="icon-link"></i> <a href="http://dotnet.meetup.uy" target="_blank">by .NetUY</a></li>
+										</ul>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
-					
+
 					<div class="row">
-						<div class="span6">
-							<a class="anchor" id="scala"></a>
+						<div id="scala" class="span6">
+							<a class="anchor"></a>
 							<div class="row-fluid">
 								<div class="span4">
 									<img src="./images/workshop/scala.png">
@@ -864,19 +861,19 @@
 								</div>
 								<div class="span7">
 									<h4>Introducción a Scala y la programación reactiva.</h4>
-									<p>El almuerzo gratuito se acabó, los cpus no se hacen mas rápidos pero hacen mas cosas al mismo tiempo; el desafío adelante es hacer que nuestras 
+									<div class="paragraph">El almuerzo gratuito se acabó, los cpus no se hacen mas rápidos pero hacen mas cosas al mismo tiempo; el desafío adelante es hacer que nuestras
 									aplicaciones hagan mas cosas sin bloquear el flujo de información; Scala está es una posición única para atacar este desafío.
-									En este workshop construiremos una parte de una aplicación web respaldada por un sistema de actores usando play2 y akka. 
+									En este workshop construiremos una parte de una aplicación web respaldada por un sistema de actores usando play2 y akka.
 									La intención es que los participantes se vayan con la configuración necesaria para poder seguir investigando. Traé laptop!.
-									<ul class="inline unstyled">
+									<ul style='margin-top: 8px' class="inline unstyled">
 										<li><i class="icon-link"></i> <a href="http://scala.meetup.uy" target="_blank">by Scala Meetup Group</a></li>
 									</ul>
-									</p>
+									</div>
 								</div>
 							</div>
 						</div>
-						<div class="span6">
-							<a class="anchor" id="agile-uy"></a>
+						<div id="agile-uy" class="span6">
+							<a class="anchor"></a>
 							<div class="row-fluid">
 								<div class="span4 text-center">
 									<i class="icon-retweet icon-8x"></i>
@@ -884,21 +881,21 @@
 								</div>
 								<div class="span7">
 									<h4>Visual Story Mapping - La forma rápida, organizada y divertida de armar un product backlog.</h4>
-									<p>
-										Estás cansado de trabajar en proyectos donde no está clara la visión global? Estás cansado de asistir a reuniones eternas para definir qué es lo que 
-										tiene que hacer el producto? Estás cansado de dedicar horas y horas a features que nunca son utlilizados? Estás cansado de no entender por qué 
-										se define cada característica de tu proyecto? Si contestaste sí a alguna de las preguntas anteriores te invitamos a este Workshop para aprender un 
+									<div class="paragraph">
+										Estás cansado de trabajar en proyectos donde no está clara la visión global? Estás cansado de asistir a reuniones eternas para definir qué es lo que
+										tiene que hacer el producto? Estás cansado de dedicar horas y horas a features que nunca son utlilizados? Estás cansado de no entender por qué
+										se define cada característica de tu proyecto? Si contestaste sí a alguna de las preguntas anteriores te invitamos a este Workshop para aprender un
 										poco más de esta técnica para Product Discovery
-										<ul class="inline unstyled">
-										<li><i class="icon-link"></i> <a href="http://agile.meetup.uy" target="_blank">by AgileUY</a></li>
-									</ul>
-									</p>
+										<ul style='margin-top: 8px' class="inline unstyled">
+											<li><i class="icon-link"></i> <a href="http://agile.meetup.uy" target="_blank">by AgileUY</a></li>
+										</ul>
+									</div>
 								</div>
 							</div>
 						</div>
-						
+
 					</div>
-					
+
 
 				</div>
 			</div>
