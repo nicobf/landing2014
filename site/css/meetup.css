@@ -212,6 +212,10 @@ dl.timelineMinor {
 	white-space:nowrap;
 }
 
+.timelineMinor dd p a {
+	color:#f4c42c;
+}
+
 .timelineEvent p {
 	clear:left;
 	float:left;

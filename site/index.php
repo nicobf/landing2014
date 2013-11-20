@@ -128,7 +128,7 @@
 						<div class="tab-pane fade active in">
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/mapagella"><img class="img-circle" src="/images/speakers/mpagella.png" alt="Andrés Pagella" /></a>
+									<a target="_blank" href="http://twitter.com/mapagella" id="andres-pagella"><img class="img-circle" src="/images/speakers/mpagella.png" alt="Andrés Pagella" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - Resolviendo problemas imposibles</p>
@@ -154,7 +154,7 @@
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/luguedesde"><img class="img-circle" src="/images/speakers/luguedesde.png" alt="Lucía Guedes" /></a>
+									<a target="_blank" href="http://twitter.com/luguedesde" id="lucia-guedes"><img class="img-circle" src="/images/speakers/luguedesde.png" alt="Lucía Guedes" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/luguedesde"><strong>Lucía Guedes</strong></a> - Diseño para desarrolladores</p>
@@ -179,7 +179,7 @@
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/cuerbot"><img class="img-circle" src="/images/speakers/cuerbot.png" alt="Bruno Aguirre" /></a>
+									<a target="_blank" href="http://twitter.com/cuerbot" id="bruno-aguirre"><img class="img-circle" src="/images/speakers/cuerbot.png" alt="Bruno Aguirre" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/cuerbot"><strong>Bruno Aguirre</strong></a> - Skynet son los padres</p>
@@ -204,7 +204,7 @@
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/guilespi"><img class="img-circle" src="/images/speakers/guilespi.png" alt="Guillermo Winkler" /></a>
+									<a target="_blank" href="http://twitter.com/guilespi" id="guillermo-winkler"><img class="img-circle" src="/images/speakers/guilespi.png" alt="Guillermo Winkler" /></a>
 								</div>
 								<div class="span10">
 									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - Sistemas Distribuidos Observables.</p>
@@ -237,7 +237,7 @@
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/fernickk">
+									<a target="_blank" href="http://twitter.com/fernickk" id="fernando-pardo">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/fernickk.png" alt="Fernando Pardo" />
 									</a>
 								</div>
@@ -264,7 +264,7 @@
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/marpo60">
+									<a target="_blank" href="http://twitter.com/marpo60" id="marcelo-dominguez">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/marpo60.jpeg" alt="Marcelo Dominguez" />
 									</a>
 								</div>
@@ -294,12 +294,12 @@
 
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/dhcabrera">
+									<a target="_blank" href="http://twitter.com/dhcabrera"  id="diego-cabrera">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/dhcabrera.jpg" alt="Diego Cabrera" />
 									</a>
 								</div>
 								<div class="span8">
-									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale">Pablo De Natale</a></strong> - Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre..</p>
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale" id="pablo-de-natale">Pablo De Natale</a></strong> - Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre..</p>
 									<p>
 										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
 										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
@@ -347,14 +347,14 @@
 									</p>
 								</div>
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/pablodenatale">
+									<a target="_blank" href="http://twitter.com/pablodenatale" id="pablo-de-natale">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/pdenatale.jpeg" alt="Pablo De Natale" />
 									</a>
 								</div>
 							</div>
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/marpo60">
+									<a target="_blank" href="http://twitter.com/marpo60" id="mauro-flores">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/mauro_fcib.png" alt="Mauro Flores" />
 									</a>
 								</div>
@@ -380,7 +380,7 @@
 							
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/gabrielfagundez">
+									<a target="_blank" href="http://twitter.com/gabrielfagundez" id="gabriel-fagundez">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/gabrielfagundez.jpeg" alt="Gabriel Fagúndez" />
 									</a>
 								</div>
@@ -418,7 +418,7 @@
 							</div>		
 							<div class="row-fluid team" style="padding-bottom:15px;">
 								<div class="mar-b20 bordered full-rounded span2">
-									<a target="_blank" href="http://twitter.com/acyment">
+									<a target="_blank" href="http://twitter.com/acyment" id="alan-cyment">
 										<img style="width: 160px;" class="img-circle" src="/images/speakers/acyment.jpg" alt="Alan Cyment" />
 									</a>
 								</div>
@@ -477,106 +477,118 @@
 							
 							<dl class="timelineMinor">
 								<dt id="event01"><a><span>08:30</span> Acreditaciones</a></dt>
-								<dd class="timelineEvent" id="event01EX" style="display: none; ">
-									<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, deleniti, laboriosam, reiciendis, adipisci sunt quis explicabo quos exercitationem vitae eveniet facere animi tempore qui unde officiis assumenda ipsa veritatis consequatur!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, asperiores, consectetur, nulla ab eum explicabo fuga voluptate illo eos incidunt alias rerum earum sapiente ea veritatis voluptatem impedit consequuntur maxime?</p>
-								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event02"><a><span>09:30</span> Presentación del Evento</a></dt>
-								<dd class="timelineEvent" id="event02EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event03"><a><span>09:45</span> Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre</a></dt>
 								<dd class="timelineEvent" id="event03EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										La charla No se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes, cache de Objetos, Balanceadores de Carga, etc). Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8 centros de desarrollo en Latam. 
+										- <a href="#diego-cabrera">Diego Cabrera</a> y <a href="#pablo-de-natale">Pablo De Natale</a>
+									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event04"><a><span>10:30</span> Redis: la herramienta indicada</a></dt>
 								<dd class="timelineEvent" id="event04EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo, todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además de una introducción a su modo de uso, se explica por qué es ideal para algunas tareas, y como es mejor dejar otras para otras alternativas..
+										- <a href="#fernando-pardo">Fernando Pardo</a>
+									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event05"><a><span>11:05</span> Diseño para desarrolladores</a></dt>
 								<dd class="timelineEvent" id="event05EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el d esarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador? 
+										- <a href="#lucia-guedes">Lucía Guedes</a>
+									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event06"><a class="fixed-font"><span>11:10</span>{{ BREAK #1 }}</a></dt>
-								<dd class="timelineEvent" id="event06EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event07"><a><span>12:05</span> Sistemas distribuidos observables</a></dt>
 								<dd class="timelineEvent" id="event07EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta. Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda. 
+										- <a href="#guillermo-winkler">Guillermo Winkler</a>
+									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event08"><a><span>12:40</span> Un sprint con Git</a></dt>
 								<dd class="timelineEvent" id="event08EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. Vení a conocer todo lo que pasará en este sprint! 
+										- <a href="#marcelo-dominguez">Marcelo Dominguez</a>
+									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event09"><a class="fixed-font"><span>13:15</span>{{ ALMUERZO }}</a></dt>
-								<dd class="timelineEvent" id="event09EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event10"><a><span>14:35</span> Skynet son los padres</a></dt>
 								<dd class="timelineEvent" id="event10EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware. 
+										- <a href="#bruno-aguirre">Bruno Aguirre</a>
+									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event11"><a><span>15:10</span> Resolviendo problemas imposibles</a></dt>
 								<dd class="timelineEvent" id="event11EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado. 
+										- <a href="#andres-pagella">Andrés Pagella</a>
+									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event12"><a><span>16:10</span> Lighting Talks</a></dt>
 								<dd class="timelineEvent" id="event12EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>Tenés 5 minutos para hablar de lo que quieras. Inscribite en el hall y move la votación.</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event13"><a class="fixed-font"><span>16:45</span>{{ BREAK #2 }}</a></dt>
-								<dd class="timelineEvent" id="event13EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event14"><a><span>17:05</span> Viviendo en la nube</a></dt>
 								<dd class="timelineEvent" id="event14EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en este contexto. 
+										- <a href="#mauro-flores">Mauro Flores</a>
+									</p>
 								</dd>
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="event15"><a><span>17:40</span> Simplemente REST</a></dt>
 								<dd class="timelineEvent" id="event15EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo. Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos para crear aplicaciones REST, y entender aquellas que se ofrecen a lo largo de la web. Finalmente, dedicaremos un momento a comentar sobre los principales agregados que tiene REST, que hacen de la arquitectura algo mejor y más completo. Hablaremos de autenticación y seguridad, paginado, manejo de errores, y más. 
+										- <a href="#gabriel-fagundez">Gabriel Fagúndez</a>
+									</p>
 								</dd>
 							</dl>
 
@@ -590,7 +602,10 @@
 							<dl class="timelineMinor">
 								<dt id="event17"><a><span>18:50</span> Cierre</a></dt>
 								<dd class="timelineEvent" id="event17EX" style="display: none; ">
-									<p>Content about the other event.</p>
+									<p>
+										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones, es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero artesano de software. Porque al fin y al cabo, ¿de qué sirve toda esta conferencia si los lunes siguen apestando? 
+										- <a href="#alan-cyment">Alan Cyment</a>
+									</p>
 								</dd>
 							</dl>
 
@@ -625,10 +640,7 @@
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="workshop03"><a><span>09:45</span> Ruby MVD</a></dt>
-								<dd class="timelineEvent" id="workshop03EX" style="display: none; ">
-									<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, a, itaque ex quo nam architecto dolores cum obcaecati aliquam at facere aut ea ducimus reiciendis velit neque nulla eius quos?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, velit libero accusantium vel! Asperiores, non, dolore, expedita cupiditate iure aperiam alias repudiandae eum provident qui repellendus suscipit neque itaque facilis?</p>
-								</dd>
+								<dt id="workshop03"><a href="#ruby-mvd"><span>09:45</span> Ruby MVD</a></dt>
 							</dl>
 
 							<dl class="timelineMinor">
@@ -639,7 +651,7 @@
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="workshop05"><a><span>11:05</span> PHP MVD</a></dt>
+								<dt id="workshop05"><a href="#php-mvd"><span>11:05</span> PHP MVD</a></dt>
 								<dd class="timelineEvent" id="workshop05EX" style="display: none; ">
 									<p>Content about the other event.</p>
 								</dd>
@@ -653,10 +665,7 @@
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="workshop07"><a><span>12:05</span> Agile UY</a></dt>
-								<dd class="timelineEvent" id="workshop07EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
+								<dt id="workshop07"><a href="#agile-uy"><span>12:05</span> Agile UY</a></dt>
 							</dl>
 
 							<dl class="timelineMinor">
@@ -681,10 +690,7 @@
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="workshop11"><a><span>15:10</span> dotNet</a></dt>
-								<dd class="timelineEvent" id="workshop11EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
+								<dt id="workshop11"><a href="#dot-net"><span>15:10</span> dotNet</a></dt>
 							</dl>
 
 							<dl class="timelineMinor">
@@ -695,7 +701,7 @@
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="workshop13"><a><span>16:40</span> MySQL</a></dt>
+								<dt id="workshop13"><a href="#mysql"><span>16:40</span> MySQL</a></dt>
 								<dd class="timelineEvent" id="workshop13EX" style="display: none; ">
 									<p>Content about the other event.</p>
 								</dd>
@@ -709,7 +715,7 @@
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="workshop15"><a><span>17:40</span> SCALA</a></dt>
+								<dt id="workshop15"><a href="#scala"><span>17:40</span> SCALA</a></dt>
 								<dd class="timelineEvent" id="workshop15EX" style="display: none; ">
 									<p>Content about the other event.</p>
 								</dd>
@@ -778,9 +784,10 @@
 				</div>
 
 				<div class="row">
-
+						<a class="anchor" id="ruby-mvd"></a>
 						<div class="span6">
 							<div class="row-fluid">
+								
 								<div class="span4">
 									<img src="./images/workshop/ruby.png">
 								</div>
@@ -799,7 +806,9 @@
 						</div>
 
 						<div class="span6">
+							<a class="anchor" id="php-mvd"></a>
 							<div class="row-fluid">
+								
 								<div class="span4">
 									<img src="./images/workshop/php.png">
 								</div>
@@ -821,6 +830,7 @@
 					</div>
 					<div class="row">
 						<div class="span6">
+							<a class="anchor" id="mysql"></a>
 							<div class="row-fluid">
 								<div class="span4">
 									<img src="./images/workshop/mysql.png">
@@ -839,6 +849,7 @@
 							</div>
 						</div>
 						<div class="span6">
+							<a class="anchor" id="dot-net"></a>
 							<div class="row-fluid">
 								<div class="span4">
 									<img src="./images/workshop/dotnet.png">
@@ -857,6 +868,7 @@
 					
 					<div class="row">
 						<div class="span6">
+							<a class="anchor" id="scala"></a>
 							<div class="row-fluid">
 								<div class="span4">
 									<img src="./images/workshop/scala.png">
@@ -876,6 +888,7 @@
 							</div>
 						</div>
 						<div class="span6">
+							<a class="anchor" id="agile-uy"></a>
 							<div class="row-fluid">
 								<div class="span4 text-center">
 									<i class="icon-retweet icon-8x"></i>
