@@ -457,8 +457,6 @@
 				<div class="row">
 					<div class="span12 text-center">
 						<h2>La agenda</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc id lobortis diam, vel lobortis ipsum.<br> Nulla auctor, lectus a consectetur ornare, tortor dui pellentesque orci.</p>
-						<br>
 					</div>
 				</div>
 				<div class="row">
