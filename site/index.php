@@ -595,18 +595,15 @@
 							<dl class="timelineMinor">
 								<dt id="event16"><a><span>18:15</span> Delivery continuo, kaizen y lunes como la gente</a></dt>
 								<dd class="timelineEvent" id="event16EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
-							</dl>
-
-							<dl class="timelineMinor">
-								<dt id="event17"><a><span>18:50</span> Cierre</a></dt>
-								<dd class="timelineEvent" id="event17EX" style="display: none; ">
 									<p>
 										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones, es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero artesano de software. Porque al fin y al cabo, ¿de qué sirve toda esta conferencia si los lunes siguen apestando? 
 										- <a href="#alan-cyment">Alan Cyment</a>
 									</p>
 								</dd>
+							</dl>
+
+							<dl class="timelineMinor">
+								<dt id="event17"><a><span>18:50</span> Cierre</a></dt>
 							</dl>
 
 							<dl class="timelineMinor">
