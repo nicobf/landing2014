@@ -606,9 +606,6 @@
 
 							<dl class="timelineMinor">
 								<dt id="event18"><a class="fixed-font"><span>19:00</span>{{ DRINKUP }}</a></dt>
-								<dd class="timelineEvent" id="event18EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
 							</dl>
 
 						</div>
@@ -629,9 +626,7 @@
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>09:30</span></a></dt>
-								<dd class="timelineEvent" id="" style="display: none; ">
-									<!-- <p>Content about the other event.</p> -->
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
@@ -640,23 +635,17 @@
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>10:30</span> </a> </dt>
-								<dd class="timelineEvent" id="" style="display: none; ">
-									<!-- <p>Content about the other event.</p> -->
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop05"><a href="#php-mvd"><span>11:05</span> PHP MVD</a></dt>
-								<dd class="timelineEvent" id="workshop05EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop06"><a class="fixed-font"><span>11:10</span>{{ BREAK #1 }}</a></dt>
-								<dd class="timelineEvent" id="workshop06EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
@@ -665,23 +654,17 @@
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>12:40</span> </a></dt>
-								<dd class="timelineEvent" id="" style="display: none; ">
-									<!-- <p>Content about the other event.</p> -->
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop09"><a class="fixed-font"><span>13:15</span>{{ ALMUERZO }}</a></dt>
-								<dd class="timelineEvent" id="workshop09EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>14:35</span></a></dt>
-								<dd class="timelineEvent" id="" style="display: none; ">
-									<!-- <p>Content about the other event.</p> -->
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
@@ -690,51 +673,37 @@
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>16:10</span></a></dt>
-								<dd class="timelineEvent" id="" style="display: none; ">
-									<!-- <p>Content about the other event.</p> -->
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop13"><a href="#mysql"><span>16:40</span> MySQL</a></dt>
-								<dd class="timelineEvent" id="workshop13EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>17:05</span></a></dt>
-								<dd class="timelineEvent" id="" style="display: none; ">
-									<!-- <p>Content about the other event.</p> -->
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop15"><a href="#scala"><span>17:40</span> SCALA</a></dt>
-								<dd class="timelineEvent" id="workshop15EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>18:15</span><a></dt>
-								<dd class="timelineEvent" id="" style="display: none; ">
-									<!-- <p>Content about the other event.</p> -->
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id=""><a class="fixed-font"><span>18:50</span></a></dt>
-								<dd class="timelineEvent" id="" style="display: none; ">
-									<!-- <p>Content about the other event.</p> -->
-								</dd>
+								
 							</dl>
 
 							<dl class="timelineMinor">
 								<dt id="workshop18"><a class="fixed-font"><span>19:00</span>{{ DRINKUP }}</a></dt>
-								<dd class="timelineEvent" id="workshop18EX" style="display: none; ">
-									<p>Content about the other event.</p>
-								</dd>
+								
 							</dl>							
 
 						</div><!-- /.timelineMajor -->
