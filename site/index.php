@@ -821,6 +821,13 @@
 								<div class="span7">
 									<h4>Azure Cloud App Development with Windows 8.1 and Windows Phone 8</h4>
 									<p>Vení a probar lo último en desarrollo de apps que Microsoft tiene para ofrecerte. Vamos a utilizar Windows Azure Mobile Services para manejo de notificaciones en nuestras apps, mostrando todo en un sitio Azure Website. Para interactuar con el mismo vamos a desarrollar dos apps: una para Windows 8.1 y otra para Windows Phone 8. ¡No te lo podés perder!
+									<br>
+									Requerimientos:
+									<ul>
+										<li><a href="http://technet.microsoft.com/en-US/evalcenter/hh699156.aspx" target="_blank">Windows 8</a> (no virtual machine)</li>
+										<li><a href="http://www.microsoft.com/visualstudio/eng/downloads#d-express-windows-8">VS 2013 express p/ desarrollar app Win8</a></li>
+										<li><a href="http://www.microsoft.com/en-us/download/details.aspx?id=35471">SDK p/ desarrollar app Windows Phone 8</a></li>
+									</ul>
 									<ul class="inline unstyled">
 										<li><i class="icon-link"></i> <a href="http://dotnet.meetup.uy" target="_blank">by .NetUY</a></li>
 									</ul>
