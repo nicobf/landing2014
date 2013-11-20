@@ -763,3 +763,8 @@ border-radius: 500px;
 .organizadores .span2 {
 	text-align: center;
 }
+div.paragraph {
+	color: rgba(34, 42, 49, 0.7);
+	letter-spacing: 0;
+	margin: 0 0 20px;
+}
