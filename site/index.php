@@ -761,6 +761,12 @@
 										Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby con <a href="http://rubyonrails.org/" target="_blank">Rails</a>.
 										A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad. 
 										Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !
+										<br>
+										Requisitos:
+										<ul>
+											<li>Experiencia en desarrollo web de 1-2 años.</li>
+											<li>No es necesario haber trabajado con Ruby</li>
+										</ul>
 										<ul class="inline unstyled">
 											<li><i class="icon-link"></i> <a href="http://ruby.meetup.uy" target="_blank">by Ruby MVD</a></li>
 										</ul>
@@ -782,6 +788,17 @@
 									<a href="http://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a>  y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!! 
 									Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar 
 									la calidad de nuestro código.
+									<br>
+									Requisitos:
+									<ul>
+										<li>Experiencia en desarrollo web de 1-2 años.</li>
+										<li>Notebook con:</li>
+										<ul>
+											<li>PHP 5.4.x</li>
+											<li><a href="http://getcomposer.org/" target="_blank">composer</a></li>
+											<li><a href="http://vagrantup.com/" target="_blank">Vagrant</a></li>
+										</ul>
+									</ul>
 									<ul class="inline unstyled">
 										<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
 										<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
