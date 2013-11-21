@@ -560,7 +560,7 @@
 							</dl>
 
 							<dl class="timelineMinor">
-								<dt id="event12"><a><span>16:10</span> Lighting Talks</a></dt>
+								<dt id="event12"><a><span>16:10</span> Lightning Talks</a></dt>
 								<dd class="timelineEvent" id="event12EX" style="display: none; ">
 									<p>Tenés 5 minutos para hablar de lo que quieras. Inscribite en el hall y move la votación.</p>
 								</dd>
