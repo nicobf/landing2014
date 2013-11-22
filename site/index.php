@@ -988,6 +988,7 @@
                                 <li><a href="http://python.meetup.uy" target="_blank">The Montevideo Python Meetup Group</a></li>
                                 <li><a href="http://www.meetup.com/AutomationUY/" target="_blank">Automation UY</a></li>
                                 <li><a href="http://www.meetup.com/Interaction-design-Uruguay" target="_blank">IxDA Montevideo</a></li>
+                                <li><a href="http://gdg.uy/" target="_blank">GDG Uruguay</a></li>
 
     						</ul>
     						<p>
