@@ -819,6 +819,11 @@
 										trabajando en ejercicios prácticos de optimización, para luego ver cómo integrar otras tecnologías con MySQL (Redis, memcached, NoSQL, etc)
 										para escalar la aplicación. La primer parte se enfocará en trabajo práctico como optimización de consultas, etcétera, y luego pasaremos
 										a un enfoque mas teórico sobre escalabilidad.
+										<br>
+										<div style="margin: 4px 0px 8px">Requisitos:</div>
+										<ul>
+											<li>Vagrant. Leer instrucciones <a href="https://github.com/fipar/vagrant_mysql_workshop_2013/" target="_blank">aquí</a></li>
+										</ul>
 										<ul style='margin-top: 8px' class="inline unstyled">
 											<li><i class="icon-link"></i> <a href="http://mysql.meetup.uy" target="_blank">by MySQL Meetup Group</a></li>
 										</ul>
