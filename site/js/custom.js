@@ -4,12 +4,14 @@ jQuery(document).ready(function ($){
 	TM.init();
 
     jQuery('.navbar .nav > li > a, .footer-nav > li > a, .timelineMinor a:not(.fixed-font)').click(function(){
+        
         jQuery.scrollTo( $(this).attr("href"), {
 			duration: 1000,
 			easing:'easeInOutExpo',
 			offset:-100
 		});
-		return false;
+		
+		// return false;
     });
 });
 
