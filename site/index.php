@@ -131,7 +131,7 @@
 									<a target="_blank" href="http://twitter.com/mapagella" id="andres-pagella"><img class="img-circle" src="/images/speakers/mpagella.png" alt="Andrés Pagella" /></a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - Resolviendo problemas imposibles</p>
+									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - <a href="#">Resolviendo problemas imposibles</a></p>
 									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos
 									soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios.
 									En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es
@@ -142,6 +142,7 @@
 											<li><a target="_blank" href="https://github.com/andrespagella"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/pagella"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://www.andrespagella.com/"><i class="icon-link"></i></a></li>
+											<li></li>
 										</ul>
 									</p>
 									<!--
@@ -157,7 +158,7 @@
 									<a target="_blank" href="http://twitter.com/luguedesde" id="lucia-guedes"><img class="img-circle" src="/images/speakers/luguedesde.png" alt="Lucía Guedes" /></a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/luguedesde"><strong>Lucía Guedes</strong></a> - Diseño para desarrolladores</p>
+									<p><a target="_blank" href="http://twitter.com/luguedesde"><strong>Lucía Guedes</strong></a> - <a href="http://bit.ly/luciaguedes-diseno-para-desarrolladores" target="_blank">Diseño para desarrolladores</a></p>
 									<p>¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el d
 									esarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador?
 
@@ -165,6 +166,7 @@
 											<li><a target="_blank" href="http://twitter.com/luguedesde"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/luciaguedes"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://pasequeestaabierto.tumblr.com/"><i class="icon-link"></i></a></li>
+											<li><a href="http://bit.ly/luciaguedes-diseno-para-desarrolladores" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -182,7 +184,7 @@
 									<a target="_blank" href="http://twitter.com/cuerbot" id="bruno-aguirre"><img class="img-circle" src="/images/speakers/cuerbot.png" alt="Bruno Aguirre" /></a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/cuerbot"><strong>Bruno Aguirre</strong></a> - Skynet son los padres</p>
+									<p><a target="_blank" href="http://twitter.com/cuerbot"><strong>Bruno Aguirre</strong></a> - <a href="http://bit.ly/cuervo-skynet-son-los-padres" target="_blank">Skynet son los padres</a></p>
 									<p>Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a
 									día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando
 									técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware.
@@ -190,6 +192,7 @@
 											<li><a target="_blank" href="http://twitter.com/cuerbot"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="https://github.com/elcuervo"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://elcuervo.co/"><i class="icon-link"></i></a></li>
+											<li><a href="http://bit.ly/cuervo-skynet-son-los-padres" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -207,7 +210,7 @@
 									<a target="_blank" href="http://twitter.com/guilespi" id="guillermo-winkler"><img class="img-circle" src="/images/speakers/guilespi.png" alt="Guillermo Winkler" /></a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - Sistemas Distribuidos Observables.</p>
+									<p><a target="_blank" href="http://twitter.com/guilespi"><strong>Guillermo Winkler</strong></a> - <a href="http://bit.ly/winkler-sistemas-distribuidos-observables" target="_blank">Sistemas Distribuidos Observables.</a></p>
 									<p>Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo
 									mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta.
 									Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a
@@ -218,6 +221,7 @@
 											<li><a target="_blank" href="http://www.github.com/guilespi"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://uy.linkedin.com/in/guilespi"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://resume.guillermowinkler.com/"><i class="icon-link"></i></a></li>
+											<li><a href="http://bit.ly/winkler-sistemas-distribuidos-observables" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -242,7 +246,7 @@
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/fernickk"><strong>Fernando Pardo</strong></a> - Redis: la herramienta indicada</p>
+									<p><a target="_blank" href="http://twitter.com/fernickk"><strong>Fernando Pardo</strong></a> - <a href="http://bit.ly/fernickk-redis" target="_blank">Redis: la herramienta indicada</a></p>
 									<p>Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo,
 									todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata
 									sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además
@@ -251,6 +255,7 @@
 											<li><a target="_blank" href="http://twitter.com/fernickk"><i class="icon-twitter"></i></a></li>
 											<!-- <li><a href="#"><i class="icon-github-sign"></i></a></li> -->
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/fernando-pardo/78/109/447"><i class="icon-linkedin"></i></a></li>
+											<li><a href="http://bit.ly/fernickk-redis" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -299,7 +304,7 @@
 									</a>
 								</div>
 								<div class="span8">
-									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale" id="pablo-de-natale">Pablo De Natale</a></strong> - Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre..</p>
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale" id="pablo-de-natale">Pablo De Natale</a></strong> - <a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank">Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre.</a></p>
 									<p>
 										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
 										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
@@ -311,6 +316,7 @@
 										<ul style='float:left' class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/dhcabrera"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/diegocabrera"><i class="icon-linkedin"></i></a></li>
+											<li><a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 										<!--
 										<p class="bio">
@@ -329,6 +335,7 @@
 										<ul style='float:right' class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/pdenatale"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/pablodenatale"><i class="icon-linkedin"></i></a></li>
+											<li><a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 										<div class="clearfix"></div>
 										<!--
@@ -359,13 +366,14 @@
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - Viviendo en las nubes.</p>
+									<p><a target="_blank" href="http://twitter.com/mauro_fcib"><strong>Mauro Flores</strong></a> - <a href="http://bit.ly/mauro-viviendo-en-las-nubes" target="_blank">Viviendo en las nubes.</a></p>
 									<p>
 										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad
 										que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en
 										este contexto.
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/mauro_fcib"><i class="icon-twitter"></i></a></li>
+											<li><a href="http://bit.ly/mauro-viviendo-en-las-nubes" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -385,7 +393,7 @@
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - Simplemente REST.</p>
+									<p><a target="_blank" href="http://twitter.com/gabrielfagundez"><strong>Gabriel Fagúndez</strong></a> - <a href="http://bit.ly/gabriel-simplemente-rest" target="_blank">Simplemente REST.</a></p>
 									<p>
 										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo.
 										Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los
@@ -397,6 +405,7 @@
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/gabrielfagundez"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/gabrielfagundez"><i class="icon-linkedin"></i></a></li>
+											<li><a href="http://bit.ly/gabriel-simplemente-rest" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -423,7 +432,7 @@
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/acyment"><strong>Alan Cyment</strong></a> - Delivery continuo, kaizen y lunes como la gente.</p>
+									<p><a target="_blank" href="http://twitter.com/acyment"><strong>Alan Cyment</strong></a> - <a href="http://bit.ly/alan-cyment-kaizen-delivery-continuo" target="_blank">Delivery continuo, kaizen y lunes como la gente.</a></p>
 									<p>
 										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en
 										producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones,
@@ -432,6 +441,7 @@
 										<ul class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/acyment"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://ar.linkedin.com/pub/alan-cyment/2/213/142/"><i class="icon-linkedin"></i></a></li>
+											<li><a href="http://bit.ly/alan-cyment-kaizen-delivery-continuo" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
