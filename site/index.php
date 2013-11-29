@@ -720,14 +720,12 @@
 
 
 
-
+				<!--
 				<div class="bannercontainer row" style="margin-top:30px">
 					<div class="banner botones span12" >
                             <a style="color:#FFF" class="btn btn-large  uppercase btn-warning" href="https://eventioz.com.ar/e/techmeetupuy-2013" target="_blank">Quedan pocos lugares, registrate (USD20)</a>
-                            <!-- <a style="color:#FFF" class="btn btn-large  uppercase btn-success" href="http://bit.ly/techmeetup2013-beca" target="_blank">¡¡Solicita una Beca!!</a> -->
-						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
 					</div>
-				</div><!-- .bannercontainer -->
+				</div> -->
 
 			</div>
 		</section>
