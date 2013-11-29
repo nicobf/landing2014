@@ -52,7 +52,6 @@
 						<div class="nav-collapse collapse">
 							<ul class="nav pull-right">
 								<!-- <li><a href="#row1">Inicio</a></li> -->
-								<li><a href="#intro" style="color: #22CB6E;">Regístrate</a></li>
 								<li><a href="#speakers">Speakers</a></li>
 								<li><a href="#agenda">Agenda</a></li>
 								<li><a href="#organizacion">Organiza</a></li>
@@ -93,6 +92,7 @@
 				<div class="row">
 					<div class="span12 text-center">
 						<hgroup>
+							<br><br>
 							<h2>techMeetup UY es una conferencia anual creada para y por desarrolladores de Uruguay</h2>
 
 							<h3><div>OBJETIVOS: Potenciar comunidades locales. Impulsar a los estudiantes de IT.</div>
@@ -101,15 +101,6 @@
 						</hgroup>
 					</div>
 				</div>
-
-				<!-- Slider -->
-				<div class="bannercontainer row">
-					<div class="banner botones span12" >
-                            <a style="color:#FFF" class="btn btn-large  uppercase btn-warning" href="https://eventioz.com.ar/e/techmeetupuy-2013" target="_blank">Regístrate y Compra tu entrada (USD20)</a>
-                            <!-- <a style="color:#FFF" class="btn btn-large  uppercase btn-success" href="http://bit.ly/techmeetup2013-beca" target="_blank">¡¡Solicita una Beca!!</a> -->
-						<!-- <div class="tp-bannertimer tp-bottom"></div> -->
-					</div>
-				</div><!-- .bannercontainer -->
 			</div>
 		</section>
 
@@ -142,7 +133,6 @@
 											<li><a target="_blank" href="https://github.com/andrespagella"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/pagella"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://www.andrespagella.com/"><i class="icon-link"></i></a></li>
-											<li></li>
 										</ul>
 									</p>
 									<!--
@@ -274,7 +264,7 @@
 									</a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/marpo60"><strong>Marcelo Dominguez</strong></a> - Un sprint con Git</p>
+									<p><a target="_blank" href="http://twitter.com/marpo60"><strong>Marcelo Dominguez</strong></a> - <a href="http://bit.ly/marcelo-spint-con-git" target="_blank">Un sprint con Git</a></p>
 									<p>Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación
 									va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint.
 									Vení a conocer todo lo que pasará en este sprint!
@@ -282,6 +272,7 @@
 											<li><a target="_blank" href="http://twitter.com/marpo60"><i class="icon-twitter"></i></a></li>
 											<li><a harget="_blank" ref="https://github.com/marpo60"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/marcelo-dominguez/72/54a/247"><i class="icon-linkedin"></i></a></li>
+											<li><a href="http://bit.ly/marcelo-spint-con-git" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
