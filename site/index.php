@@ -122,7 +122,7 @@
 									<a target="_blank" href="http://twitter.com/mapagella" id="andres-pagella"><img class="img-circle" src="/images/speakers/mpagella.png" alt="Andrés Pagella" /></a>
 								</div>
 								<div class="span10">
-									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - <a href="#">Resolviendo problemas imposibles</a></p>
+									<p><a target="_blank" href="http://twitter.com/mapagella"><strong>Andrés Pagella</strong></a> - <a href="http://www.slideshare.net/fokker1/resolviendo-problemas-imposibles" target="_blank">Resolviendo problemas imposibles</a></p>
 									<p>Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos
 									soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios.
 									En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es
@@ -133,6 +133,7 @@
 											<li><a target="_blank" href="https://github.com/andrespagella"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/pagella"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://www.andrespagella.com/"><i class="icon-link"></i></a></li>
+											<li><a href="http://www.slideshare.net/fokker1/resolviendo-problemas-imposibles" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -487,7 +488,7 @@
 								<dd class="timelineEvent" id="event03EX" style="display: none; ">
 									<p>
 										La charla No se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes, cache de Objetos, Balanceadores de Carga, etc). Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8 centros de desarrollo en Latam.
-										- <a href="#diego-cabrera">Diego Cabrera</a> y <a href="#pablo-de-natale">Pablo De Natale</a>
+										- <a href="#diego-cabrera">Diego Cabrera</a> y <a href="#pablo-de-natale">Pablo De Natale</a> <a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -497,7 +498,7 @@
 								<dd class="timelineEvent" id="event04EX" style="display: none; ">
 									<p>
 										Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo, todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además de una introducción a su modo de uso, se explica por qué es ideal para algunas tareas, y como es mejor dejar otras para otras alternativas..
-										- <a href="#fernando-pardo">Fernando Pardo</a>
+										- <a href="#fernando-pardo">Fernando Pardo</a> <a href="http://bit.ly/fernickk-redis" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -507,7 +508,7 @@
 								<dd class="timelineEvent" id="event05EX" style="display: none; ">
 									<p>
 										¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el d esarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador?
-										- <a href="#lucia-guedes">Lucía Guedes</a>
+										- <a href="#lucia-guedes">Lucía Guedes</a>  <a href="http://bit.ly/luciaguedes-diseno-para-desarrolladores" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -521,7 +522,7 @@
 								<dd class="timelineEvent" id="event07EX" style="display: none; ">
 									<p>
 										Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta. Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda.
-										- <a href="#guillermo-winkler">Guillermo Winkler</a>
+										- <a href="#guillermo-winkler">Guillermo Winkler</a> <a href="http://bit.ly/winkler-sistemas-distribuidos-observables" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -531,7 +532,7 @@
 								<dd class="timelineEvent" id="event08EX" style="display: none; ">
 									<p>
 										Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. Vení a conocer todo lo que pasará en este sprint!
-										- <a href="#marcelo-dominguez">Marcelo Dominguez</a>
+										- <a href="#marcelo-dominguez">Marcelo Dominguez</a> <a href="http://bit.ly/marcelo-spint-con-git" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -545,7 +546,7 @@
 								<dd class="timelineEvent" id="event10EX" style="display: none; ">
 									<p>
 										Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware.
-										- <a href="#bruno-aguirre">Bruno Aguirre</a>
+										- <a href="#bruno-aguirre">Bruno Aguirre</a> <a href="http://bit.ly/cuervo-skynet-son-los-padres" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -555,7 +556,7 @@
 								<dd class="timelineEvent" id="event11EX" style="display: none; ">
 									<p>
 										Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado.
-										- <a href="#andres-pagella">Andrés Pagella</a>
+										- <a href="#andres-pagella">Andrés Pagella</a> <a href="http://www.slideshare.net/fokker1/resolviendo-problemas-imposibles" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -576,7 +577,7 @@
 								<dd class="timelineEvent" id="event14EX" style="display: none; ">
 									<p>
 										Hablemos de los principales problemas de seguridad asociados a la información que ponemos en la nube y las medidas de seguridad que se deberían considerar a la hora del diseño e implementación de aplicaciones que van a manejar información sensible en este contexto.
-										- <a href="#mauro-flores">Mauro Flores</a>
+										- <a href="#mauro-flores">Mauro Flores</a> <a href="http://bit.ly/mauro-viviendo-en-las-nubes" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -586,7 +587,7 @@
 								<dd class="timelineEvent" id="event15EX" style="display: none; ">
 									<p>
 										Internet hoy en día, es un sistema muy grande, distribuido, y con piezas en cada uno de los rincones del mundo. Conectar cada uno de los componentes no es una tarea fácil, ni mucho menos sencilla. En esta charla hablaremos de los beneficios que la arquitectura de diseño REST le trajo a la web, mostrando ejemplos concretos sobre su uso, y casos de éxito. Además, realizaremos una introducción de los conceptos básicos, y mostraremos una serie de pasos y consejos para crear aplicaciones REST, y entender aquellas que se ofrecen a lo largo de la web. Finalmente, dedicaremos un momento a comentar sobre los principales agregados que tiene REST, que hacen de la arquitectura algo mejor y más completo. Hablaremos de autenticación y seguridad, paginado, manejo de errores, y más.
-										- <a href="#gabriel-fagundez">Gabriel Fagúndez</a>
+										- <a href="#gabriel-fagundez">Gabriel Fagúndez</a> <a href="http://bit.ly/gabriel-simplemente-rest" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -596,7 +597,7 @@
 								<dd class="timelineEvent" id="event16EX" style="display: none; ">
 									<p>
 										El delivery continuo es, cuando lo hacemos en serio, la expresión más perfecta de un verdadero desarrollo orgánico. Amazon pone código en producción cada 11 segundos ¿Estás ahí ya? Y si no, ¿qué vas a hacer al respecto este lunes? Kaizen, en cualquiera de sus expresiones, es el secreto para sacudirnos de la modorra en la que todos terminamos cayendo y empezar a caminar a paso firme la ruta del verdadero artesano de software. Porque al fin y al cabo, ¿de qué sirve toda esta conferencia si los lunes siguen apestando?
-										- <a href="#alan-cyment">Alan Cyment</a>
+										- <a href="#alan-cyment">Alan Cyment</a> <a href="http://bit.ly/alan-cyment-kaizen-delivery-continuo" target="_blank"><i class="icon-th-large"></i></a>
 									</p>
 								</dd>
 							</dl>
