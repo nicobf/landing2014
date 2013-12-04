@@ -296,7 +296,10 @@
 									</a>
 								</div>
 								<div class="span8">
-									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale" id="pablo-de-natale">Pablo De Natale</a></strong> - <a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank">Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre.</a></p>
+									<p><a target="_blank" href="http://twitter.com/dhcabrera"><strong>Diego Cabrera</strong></a> y <strong><a href="https://twitter.com/pdenatale" id="pablo-de-natale">Pablo De Natale</a></strong> - <a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank">Estructura, Infra. y Método para Desarrollo Ágil en MercadoLibre.</a>
+										<a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a>
+										<a href="https://www.youtube.com/watch?v=6GWwLEMFJJo&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=3" target="_blank"><i class="icon-play"></i></a>
+									</p>
 									<p>
 										La charla <strong>No</strong> se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias
 										para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes,
@@ -308,7 +311,6 @@
 										<ul style='float:left' class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/dhcabrera"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/diegocabrera"><i class="icon-linkedin"></i></a></li>
-											<li><a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 										<!--
 										<p class="bio">
@@ -327,7 +329,6 @@
 										<ul style='float:right' class="inline unstyled">
 											<li><a target="_blank" href="http://twitter.com/pdenatale"><i class="icon-twitter"></i></a></li>
 											<li><a target="_blank" href="http://www.linkedin.com/in/pablodenatale"><i class="icon-linkedin"></i></a></li>
-											<li><a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a></li>
 										</ul>
 										<div class="clearfix"></div>
 										<!--
@@ -488,7 +489,7 @@
 								<dd class="timelineEvent" id="event03EX" style="display: none; ">
 									<p>
 										La charla No se va a centrar sobre metodologías ágiles, sino sobre decisiones de Estructura organizacional y Herramientas de Infraestructura que son necesarias para que el ciclo de desarrollo sea realmente ágil: provisioning de HW virtualizado y componentes As a Service (DB, Colas de Mensajes, cache de Objetos, Balanceadores de Carga, etc). Hablaremos sobre estos 2 aspectos que posibilitan eliminar los costos de instalación de HW y SW, como también poder tener un sistema de toma de decisiones descentralizado que permita avanzar en forma ágil con un equipo de 250 desarrolladores distribuidos en 8 centros de desarrollo en Latam.
-										- <a href="#diego-cabrera">Diego Cabrera</a> y <a href="#pablo-de-natale">Pablo De Natale</a> <a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a>
+										- <a href="#diego-cabrera">Diego Cabrera</a> y <a href="#pablo-de-natale">Pablo De Natale</a> <a href="http://bit.ly/mlb-infraestrcutura-agil" target="_blank"><i class="icon-th-large"></i></a> <a href="https://www.youtube.com/watch?v=6GWwLEMFJJo&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=3" target="_blank"><i class="icon-play"></i></a>
 									</p>
 								</dd>
 							</dl>
