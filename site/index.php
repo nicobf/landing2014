@@ -158,6 +158,7 @@
 											<li><a target="_blank" href="http://www.linkedin.com/in/luciaguedes"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://pasequeestaabierto.tumblr.com/"><i class="icon-link"></i></a></li>
 											<li><a href="http://bit.ly/luciaguedes-diseno-para-desarrolladores" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="http://www.youtube.com/watch?v=DCJW6lHdNwU&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -247,6 +248,7 @@
 											<!-- <li><a href="#"><i class="icon-github-sign"></i></a></li> -->
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/fernando-pardo/78/109/447"><i class="icon-linkedin"></i></a></li>
 											<li><a href="http://bit.ly/fernickk-redis" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="http://www.youtube.com/watch?v=M8lPr5Rf290&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -500,6 +502,7 @@
 									<p>
 										Con el advenimiento del NoSQL y la rebeldía contra las bases de datos relacionales, como dice el dicho, "cuando tu herramienta es un martillo, todos los problemas parecen clavos". Muchas veces resulta tentador tomar una solución y usarla para todo lo que puede hacer. Esta charla trata sobre Redis, una NoSQL DB con cierta popularidad, que dado su almacenamiento en memoria permite lecturas y escrituras a gran velocidad. Además de una introducción a su modo de uso, se explica por qué es ideal para algunas tareas, y como es mejor dejar otras para otras alternativas..
 										- <a href="#fernando-pardo">Fernando Pardo</a> <a href="http://bit.ly/fernickk-redis" target="_blank"><i class="icon-th-large"></i></a>
+										<a href="http://www.youtube.com/watch?v=M8lPr5Rf290&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je" target="_blank"><i class="icon-play"></i></a>
 									</p>
 								</dd>
 							</dl>
@@ -510,6 +513,7 @@
 									<p>
 										¿Cuáles son los elementos esenciales del diseño que un desarrollador puede aprender a manejar? ¿Cómo puede mejorar y optimizar el d esarrollo de sus proyectos simplemente mejorando la forma de comunicarse con su diseñador?
 										- <a href="#lucia-guedes">Lucía Guedes</a>  <a href="http://bit.ly/luciaguedes-diseno-para-desarrolladores" target="_blank"><i class="icon-th-large"></i></a>
+										<a href="http://www.youtube.com/watch?v=DCJW6lHdNwU&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je" target="_blank"><i class="icon-play"></i></a>
 									</p>
 								</dd>
 							</dl>
