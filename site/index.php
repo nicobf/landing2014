@@ -134,6 +134,7 @@
 											<li><a target="_blank" href="http://www.linkedin.com/in/pagella"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://www.andrespagella.com/"><i class="icon-link"></i></a></li>
 											<li><a href="http://www.slideshare.net/fokker1/resolviendo-problemas-imposibles" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="http://www.youtube.com/watch?v=YFheBztojZA&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=9" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -569,7 +570,9 @@
 								<dd class="timelineEvent" id="event11EX" style="display: none; ">
 									<p>
 										Muchas veces en nuestra profesión se nos pide solucionar problemas con pocos recursos, en extremadamente poco tiempo y se espera que presentemos soluciones brillantes que no sólo funcionen, sino que también dejen impresionados tanto a jefes como a nuestros clientes y/o usuarios. En esta colección de anécdotas, tanto propias como ajenas, discutiremos que muchas veces llegar a la conclusión de que un problema es imposible de resolver, es que se ha intentado resolver el problema equivocado.
-										- <a href="#andres-pagella">Andrés Pagella</a> <a href="http://www.slideshare.net/fokker1/resolviendo-problemas-imposibles" target="_blank"><i class="icon-th-large"></i></a>
+										- <a href="#andres-pagella">Andrés Pagella</a> 
+										<a href="http://www.slideshare.net/fokker1/resolviendo-problemas-imposibles" target="_blank"><i class="icon-th-large"></i></a> 
+										<a href="http://www.youtube.com/watch?v=YFheBztojZA&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=9" target="_blank"><i class="icon-play"></i></a>
 									</p>
 								</dd>
 							</dl>
