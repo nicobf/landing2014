@@ -185,6 +185,7 @@
 											<li><a target="_blank" href="https://github.com/elcuervo"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://elcuervo.co/"><i class="icon-link"></i></a></li>
 											<li><a href="http://bit.ly/cuervo-skynet-son-los-padres" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="http://www.youtube.com/watch?v=b9Vm6gH6d1o&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=7" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -554,7 +555,9 @@
 								<dd class="timelineEvent" id="event10EX" style="display: none; ">
 									<p>
 										Crecimos en un mundo donde Terminator y las maquinas de Matrix eran algo de ficción. Hoy la robótica y la domótica son algo del día a día pero sólo con buena programación y suficiente maldad vamos a poder lograr que nuestro ejercito robótico se levante. Un viaje mostrando técnicas y tecnologías para utilizar nuestras habilidades de programación fuera del software y darle vida al hardware.
-										- <a href="#bruno-aguirre">Bruno Aguirre</a> <a href="http://bit.ly/cuervo-skynet-son-los-padres" target="_blank"><i class="icon-th-large"></i></a>
+										- <a href="#bruno-aguirre">Bruno Aguirre</a> 
+										<a href="http://bit.ly/cuervo-skynet-son-los-padres" target="_blank"><i class="icon-th-large"></i></a> 
+										<a href="http://www.youtube.com/watch?v=b9Vm6gH6d1o&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=7" target="_blank"><i class="icon-play"></i></a>
 									</p>
 								</dd>
 							</dl>
