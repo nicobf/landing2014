@@ -278,6 +278,7 @@
 											<li><a harget="_blank" ref="https://github.com/marpo60"><i class="icon-github-sign"></i></a></li>
 											<li><a target="_blank" href="http://uy.linkedin.com/pub/marcelo-dominguez/72/54a/247"><i class="icon-linkedin"></i></a></li>
 											<li><a href="http://bit.ly/marcelo-spint-con-git" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="http://www.youtube.com/watch?v=IgV4Xu3rKcg&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=8" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -541,7 +542,8 @@
 								<dd class="timelineEvent" id="event08EX" style="display: none; ">
 									<p>
 										Debido a la popularidad que Git ha tomado en este último tiempo, utilizarlo de forma painless es cada vez más importante. Esta presentación va a mostrarte gráficamente cómo resolver eficientemente las situaciones que se presentan desde el principio hasta el final del sprint. Vení a conocer todo lo que pasará en este sprint!
-										- <a href="#marcelo-dominguez">Marcelo Dominguez</a> <a href="http://bit.ly/marcelo-spint-con-git" target="_blank"><i class="icon-th-large"></i></a>
+										- <a href="#marcelo-dominguez">Marcelo Dominguez</a> <a href="http://bit.ly/marcelo-spint-con-git" target="_blank"><i class="icon-th-large"></i></a> 
+										<a href="http://www.youtube.com/watch?v=IgV4Xu3rKcg&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je&index=8" target="_blank"><i class="icon-play"></i></a>
 									</p>
 								</dd>
 							</dl>
