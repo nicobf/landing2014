@@ -214,6 +214,7 @@
 											<li><a target="_blank" href="http://uy.linkedin.com/in/guilespi"><i class="icon-linkedin"></i></a></li>
 											<li><a target="_blank" href="http://resume.guillermowinkler.com/"><i class="icon-link"></i></a></li>
 											<li><a href="http://bit.ly/winkler-sistemas-distribuidos-observables" target="_blank"><i class="icon-th-large"></i></a></li>
+											<li><a href="http://www.youtube.com/watch?v=QFGfIZ36OAk&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je" target="_blank"><i class="icon-play"></i></a></li>
 										</ul>
 									</p>
 									<!--
@@ -527,7 +528,9 @@
 								<dd class="timelineEvent" id="event07EX" style="display: none; ">
 									<p>
 										Todos quienes hemos puesto sistemas en producción que han dejado de funcionar un sábado a las 3 de la mañana, soñamos alguna vez con un oráculo mágico que nos diga qué está roto para poder volver a dormir, o para poder volver a la fiesta. Empezaré poniendo a todo el mundo a tiro con la idea que lograr sistemas que operen es un "estado mental", luego cubriremos los aspectos a considerar para monitorear tus sistemas de forma efectiva, cómo seleccionar indicadores, cómo agregarlos en ambientes distribuidos y qué combinación de tecnología y herramientas podes usar, sin tener que salir a reinventar la rueda.
-										- <a href="#guillermo-winkler">Guillermo Winkler</a> <a href="http://bit.ly/winkler-sistemas-distribuidos-observables" target="_blank"><i class="icon-th-large"></i></a>
+										- <a href="#guillermo-winkler">Guillermo Winkler</a> 
+										<a href="http://bit.ly/winkler-sistemas-distribuidos-observables" target="_blank"><i class="icon-th-large"></i></a> 
+										<a href="http://www.youtube.com/watch?v=QFGfIZ36OAk&list=PLgJwmkWpD_oOBH0PRudIDlaO3FL2Y88Je" target="_blank"><i class="icon-play"></i></a>
 									</p>
 								</dd>
 							</dl>
