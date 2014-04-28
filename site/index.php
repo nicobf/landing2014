@@ -163,11 +163,8 @@
 							<li>
 								<strong>Tel&eacute;fono:</strong>
 							</li>
-							 <li>+598 2 908 6408</li>
-							 <li>
-							 	<a href="./images/afiche_techmeetupuy.png">_</a>
-							 	<a href="./images/afiche_techmeetupuy.pdf">_</a>
-							 </li>
+							 <li>+598 2 707 8003</li>
+							 
 							</ul>
 						</div>
 						<div class="span6 text-right">
