@@ -1099,7 +1099,7 @@ or wrap each row of columns in a <div class="row"> */
   text-align: center;
   padding: 5px 20px 7px 20px;
   text-decoration: none;
-  color: white;
+  color: white !important;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
