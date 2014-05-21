@@ -1,0 +1,105 @@
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css' />
+    
+    <link rel="stylesheet" href="assets/css/screen.css">
+</head>
+<body>
+
+    <header>
+        
+        <div class="container">
+            <div class="header-menu sixteen columns clearfix">
+                <a href="#" class="three columns alpha logo-container">
+                    <img src="assets/images/2014/landing/logo.png" alt="">
+                </a>
+                <ul class="thirteen columns omega">
+                    <li><a href="#">Organiza</a></li>
+                    <li><a href="#">v13</a></li>
+                    <li><a href="#">v12</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="header-video">
+            <img src="assets/images/masthead.jpg" class="header-video--media" data-video-src="87701971" data-teaser-source="assets/images/masthead-teaser" data-provider="Vimeo" data-video-width="500" data-video-height="281">
+                        
+            <div class="container clearfix">
+                <div class="header-event sixteen columns">
+                    
+                    <div class="header-place eleven columns alpha">
+                        <span class="header-date">15 de Noviembre</span>
+                        <span class="header-divider">/</span>
+                        <span class="header-venue">Torre de las Telecomunicaciones de ANTEL</span>
+                    </div>
+                    
+                    <div class="header-button five columns omega" >
+                        <a href="http://vimeo.com/87701971" class="btn btn-yellows video-trigger" id="video-trigger">Ver video Edición 2013</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </header>
+
+    <div class="container">
+        <div class="sixteen columns">
+
+            <section class="section-intro">
+                <h1 class="twelve columns alpha omega">techMeetup UY es una conferencia anual creada para y por desarrolladores de Uruguay.</h1>
+                <hr />
+            </section>
+        </div>
+        
+        <div class="one-third column">
+            <h3 class="color-blue">Potenciar comunidades locales.</h3>
+            <p>Skeleton is a small collection of well-organized CSS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. It's based on a responsive grid, but also provides very basic CSS for typography, buttons, forms and media queries. Go ahead, resize this super basic page to see the grid in action.</p>
+        </div>
+        
+        <div class="one-third column">
+            <h3 class="color-blue">Impulsar a los estudiantes de IT.</h3>
+            <p>Skeleton is built on three core principles:</p>
+            <ul class="square">
+                <li><strong>A Responsive Grid Down To Mobile</strong>: Elegant scaling from a browser to tablets to mobile.</li>
+                <li><strong>Fast to Start</strong>: It's a tool for rapid development with best practices</li>
+                <li><strong>Style Agnostic</strong>: It provides the most basic, beautiful styles, but is meant to be overwritten.</li>
+            </ul>
+        </div>
+        <div class="one-third column">
+            <h3 class="color-blue">Ofrecer un día de actualización profesional y networking de la más alta calidad...</h3>
+            <p>The easiest way to really get started with Skeleton is to check out the full docs and info at <a href="http://www.getskeleton.com">www.getskeleton.com.</a>. Skeleton is also open-source and has a <a href="https://github.com/dhgamache/skeleton">project on git</a>, so check that out if you want to report bugs or create a pull request. If you have any questions, thoughts, concerns or feedback, please don't hesitate to email me at <a href="mailto:hi@getskeleton.com">hi@getskeleton.com</a>.</p>
+        </div>
+
+    </div><!-- container -->
+
+    <script src="assets/javascripts/jquery.min.js"></script>
+    <script src="assets/javascripts/modernizr.js"></script>
+    <script src="assets/javascripts/script.js"></script>
+
+    <script>
+        $(document).ready(function() {
+
+            HeaderVideo.init({
+                container     : $('.header-video'),
+                header        : $('.header-video--media'),
+                videoTrigger  : $("#video-trigger"),
+                autoPlayVideo : false
+            });
+
+        });
+    </script>
+
+</body>
+</html>

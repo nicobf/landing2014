@@ -1,0 +1,27 @@
+.btn{
+    border: 1px solid white;
+    text-align: center;
+    padding: 5px 20px 7px 20px;
+    text-decoration: none;
+    color: white;
+    @include border-radius(3px);
+
+    &:hover{
+        color: white;
+    }
+
+    &.btn-yellow{
+        color: $color_yellow;
+        border: 1px solid $color_yellow;
+
+        // &:hover{
+        //     color: $color_green;
+        //     border: 1px solid $color_green;    
+        // }
+    }
+    
+    &.btn-extra{
+        font-size: 30px;
+        padding: 20px 20px 24px 20px;
+    }
+}

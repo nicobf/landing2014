@@ -1,0 +1,28 @@
+.header-video{
+  position: relative;
+  overflow: hidden;
+  z-index: 100;
+}
+
+iframe, video{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+iframe{
+  height: 100%;
+  width: 100%;
+}
+
+.teaser-video{
+  width: 100%;
+  height: auto;
+}
+
+.header-video--media{
+  width: 100%;
+  height: auto;
+}
