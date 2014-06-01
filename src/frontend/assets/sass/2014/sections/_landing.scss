@@ -30,8 +30,12 @@ header{
           @include simple-animation(.18s);
 
           &:hover{
-            // text-decoration: underline;
             color: $color_yellow;
+          }
+
+          &.active{
+            color: $color_yellow;
+            cursor: default; 
           }
         }
       }

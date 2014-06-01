@@ -2,6 +2,15 @@
   position: relative;
   overflow: hidden;
   z-index: 100;
+  background: #fff;//url(/assets/images/2014/landing/white_wall_hash.png);
+
+  &.header-video-internal{
+    height: 250px;
+
+    img{
+      width: 100%;
+    }
+  }
 }
 
 iframe, video{

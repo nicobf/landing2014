@@ -1,10 +1,12 @@
 @import "base";
 @import "skeleton";
+@import "fontawesome";
 
 @import "modules/mixins";
 @import "modules/colors";
 @import "modules/buttons";
 @import "modules/fonts";
+@import "modules/speakers";
 
 @import "sections/landing";
 
@@ -25,7 +27,7 @@ body{
     font-size: 16px;
     line-height: 22px;
     color: #313140;
-    background: url(/assets/images/2014/landing/white_wall_hash.png)
+    background: url(/assets/images/2014/landing/white_wall_hash.png);
 }
 
 p{

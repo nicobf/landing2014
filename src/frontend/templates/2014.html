@@ -1,0 +1,128 @@
+<header>
+        
+    <div class="container">
+        <div class="header-menu sixteen columns clearfix">
+            <a href="#" class="three columns alpha logo-container">
+                <img src="assets/images/2014/landing/logo.png" alt="">
+            </a>
+            <ul class="thirteen columns omega">
+                <li><a href="#">Organiza</a></li>
+                <li><a href="#2013">v2013</a></li>
+                <li><a href="#2012">v2012</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="header-video">
+    <!-- tkuR03Gr3a4 -->
+        <img src="assets/images/2014.jpg" class="header-video--media" data-video-src="97064014" data-teaser-source="assets/images/masthead-teaser" data-provider="Vimeo" data-video-width="500" data-video-height="281">
+        <!-- <img src="assets/images/masthead.jpg" class="header-video--media" data-video-src="tkuR03Gr3a4" data-teaser-source="assets/images/masthead-teaser" data-provider="Youtube" data-video-width="538" data-video-height="316"> -->
+                    
+        <div class="container clearfix">
+            <div class="header-event sixteen columns">
+                
+                <div class="header-place eleven columns alpha">
+                    <span class="header-date">15 de Noviembre</span>
+                    <span class="header-divider">/</span>
+                    <span class="header-venue">Torre de las Telecomunicaciones de ANTEL</span>
+                </div>
+                
+                <div class="header-button five columns omega" >
+                    <a href="https://www.youtube.com/watch?v=Dd2Jbc73yNo" class="btn btn-yellows video-trigger" id="video-trigger">Ver video Edición 2013</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</header>
+
+<div class="container">
+    <div class="sixteen columns">
+        <section class="section-intro">
+            <h1 class="twelve columns alpha omega">techMeetup UY es una conferencia anual creada para y por desarrolladores de Uruguay.</h1>
+            <hr />
+        </section>
+    </div>
+    
+    <div class="one-third column">
+        <h3 class="color-blue">Potenciar comunidades locales.</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, voluptate, aperiam nisi porro qui quo perspiciatis sequi nostrum rem laudantium non pariatur perferendis et ipsum aliquid at optio itaque vero.</p>
+        <p>Itium voluptas. Voluptas, distinctio quae quia! Iure voluptate nihil ducimus adipisci nil ducimus adipisci nostrum illo a neque ea quam!</p>
+    </div>
+    
+    <div class="one-third column">
+        <h3 class="color-blue">Impulsar a los estudiantes de IT.</h3>
+        <p>Ansectetuas voluptatem facilis temporam laboriosam unde?:</p>
+        <ul class="square">
+            <li><strong>A Responsive Grid Down To Mobile</strong>: Elegant scaling from a browser to tablets to mobile.</li>
+            <li><strong>Fast to Start</strong>: It's a tool for rapid development with best practices</li>
+            <li><strong>Style Agnostic</strong>: It provides the most basic, beautiful styles, but is meant to be overwritten.</li>
+        </ul>
+    </div>
+    <div class="one-third column">
+        <h3 class="color-blue">Ofrecer un día de actualización profesional y networking de la más alta calidad...</h3>
+        <p>The easiest way to really get started with Skeleton is to check out the full docs and info at <a href="http://www.getskeleton.com">www.getskeleton.com.</a>. Skeleton is also open-source and has a <a href="https://github.com/dhgamache/skeleton">project on git</a>, so check that out if you want to report bugs or create a pull request. If you have any questions, thoughts, concerns or feedback, please don't hesitate to email me at <a href="mailto:hi@getskeleton.com">hi@getskeleton.com</a>.</p>
+    </div>
+
+</div><!-- container -->
+
+<div class="container" id="organiza">
+    <section class="sixteen columns organizers clearfix" ng-controller="organizers">
+
+    	<h1>Organiza</h1>
+    	
+    	<div class="one-third column omega organizer" ng-repeat="organizer in organizers">
+    		<img ng-src="assets/images/2014/landing/organizers/{{organizer.image}}" alt="{{organizer.name}}">
+			<h4>{{organizer.name}}</h4>
+			<a href="http://twitter.com/{{organizer.twitter}}" target="_blank">@{{organizer.twitter}}</a>
+		</div>
+
+	</section>
+</div>
+
+
+<div class="footer-wrapper">
+	<footer>
+		<div class="container">
+	        <section class="sixteen columns footer clearfix">
+	        	<div class="five columns alpha">
+	        		<h4>Información General</h4>
+	        		<p><a href="mailto:info@meetup.uy">info@meetup.uy</a></p>
+	        		
+	        		<h4>Organización</h4>
+	        		<p><a href="mailto:organizacion@meetup.uy">organizacion@meetup.uy</a></p>
+	        		
+	        		<h4>Teléfono</h4>
+	        		<p><a href="phone:+59827078003">+598 2 707 8003</a></p>
+
+	        	</div>
+	        	<div class="eleven columns omega">
+	        		<a href="/">
+	        			<img src="assets/images/2014/landing/logo-footer.png" alt="">
+	        		</a>
+	        		<p>“Ofrecer un día de actualización profesional<br/> y networking de la más alta calidad”</p>
+	        		<div class="made-with-love">made with <span class="heart">&#9829;</span> by <a target="_blank" href="http://twitter.com/trikanna">@trikanna</a></div>
+	        	</div>
+
+	        </section>
+	        
+	    </div>
+	    
+    </footer>
+    
+</div>
+
+	<!--
+	<script src="assets/javascripts/angular.min.js"></script>
+	<script src="assets/javascripts/angular-route.min.js"></script>
+	
+	
+    <script src="assets/javascripts/jquery.min.js"></script>
+    <script src="assets/javascripts/modernizr.js"></script>
+
+    <script src="assets/javascripts/plugins.js"></script>
+    <script src="assets/javascripts/script.js"></script>
+    <script src="assets/javascripts/application.js"></script>
+
+    -->
+   
