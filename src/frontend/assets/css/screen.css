@@ -1078,6 +1078,16 @@ or wrap each row of columns in a <div class="row"> */
   height: 0;
 }
 
+/* line 71, ../sass/2014/modules/_mixins.scss */
+.centered {
+  text-align: center;
+}
+
+/* line 75, ../sass/2014/modules/_mixins.scss */
+.ui-widget-header {
+  z-index: 100000;
+}
+
 /* line 5, ../sass/2014/modules/_colors.scss */
 .color-blue {
   color: #3497db !important;
@@ -1173,6 +1183,11 @@ header .header-menu ul li a {
   color: white;
   text-decoration: none;
   font-weight: bold;
+  -webkit-transition: all 0.18s;
+  -moz-transition: all 0.18s;
+  -ms-transition: all 0.18s;
+  -o-transition: all 0.18s;
+  transition: all 0.18s;
 }
 /* line 32, ../sass/2014/sections/_landing.scss */
 header .header-menu ul li a:hover {
@@ -1234,10 +1249,173 @@ section.section-intro {
 section.section-intro h1 {
   margin-bottom: 35px;
   color: #3497db;
+  text-shadow: 1px 1px white;
 }
-/* line 96, ../sass/2014/sections/_landing.scss */
+/* line 97, ../sass/2014/sections/_landing.scss */
 section.section-intro h2 {
   margin-bottom: 30px;
+  text-shadow: 1px 1px white;
+}
+/* line 103, ../sass/2014/sections/_landing.scss */
+section.organizers {
+  text-align: center;
+}
+/* line 107, ../sass/2014/sections/_landing.scss */
+section.organizers h1 {
+  margin-top: 50px;
+  margin-bottom: 70px;
+  color: #2ecc71;
+  text-shadow: 1px 1px white;
+}
+/* line 114, ../sass/2014/sections/_landing.scss */
+section.organizers .organizer {
+  margin-bottom: 40px;
+}
+/* line 117, ../sass/2014/sections/_landing.scss */
+section.organizers .organizer img {
+  cursor: pointer;
+  margin-bottom: 5px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s;
+}
+/* line 125, ../sass/2014/sections/_landing.scss */
+section.organizers .organizer img:hover {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+  opacity: 0.8;
+}
+/* line 130, ../sass/2014/sections/_landing.scss */
+section.organizers .organizer h4 {
+  margin: 0;
+  cursor: default;
+  text-shadow: 1px 1px white;
+}
+/* line 136, ../sass/2014/sections/_landing.scss */
+section.organizers .organizer a {
+  text-decoration: none;
+  color: #2ecc71;
+  text-shadow: 1px 1px white;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+/* line 142, ../sass/2014/sections/_landing.scss */
+section.organizers .organizer a:hover {
+  color: #3497db;
+}
+
+/* line 150, ../sass/2014/sections/_landing.scss */
+.blue-wrapper {
+  background: #3497db;
+}
+
+/* line 151, ../sass/2014/sections/_landing.scss */
+.green-wrapper {
+  background: #2ecc71;
+}
+
+/* line 152, ../sass/2014/sections/_landing.scss */
+.yellow-wrapper {
+  background: #f4c42c;
+}
+
+/* line 153, ../sass/2014/sections/_landing.scss */
+.silver-wrapper {
+  background: #eee;
+}
+
+/* line 155, ../sass/2014/sections/_landing.scss */
+.footer-wrapper {
+  border-top: 1px solid #eee;
+  margin-top: 80px;
+}
+
+/* line 160, ../sass/2014/sections/_landing.scss */
+.made-with-love {
+  margin-top: 100px;
+  font-size: 12px;
+  margin-right: 10px;
+  text-align: right;
+  color: #aaa;
+  position: relative;
+}
+/* line 168, ../sass/2014/sections/_landing.scss */
+.made-with-love a {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  color: #3497db;
+  -webkit-transition: all 0.18s;
+  -moz-transition: all 0.18s;
+  -ms-transition: all 0.18s;
+  -o-transition: all 0.18s;
+  transition: all 0.18s;
+}
+/* line 175, ../sass/2014/sections/_landing.scss */
+.made-with-love a:hover {
+  color: #2ecc71;
+}
+/* line 180, ../sass/2014/sections/_landing.scss */
+.made-with-love .heart {
+  color: #666;
+  font-size: 16px;
+  position: relative;
+  top: 2px;
+  left: 0px;
+}
+
+/* line 189, ../sass/2014/sections/_landing.scss */
+footer {
+  margin-top: 1px;
+  padding: 30px 0 50px 0;
+  background: #fff;
+  border-top: 1px solid #ddd;
+  color: white;
+}
+/* line 196, ../sass/2014/sections/_landing.scss */
+footer h4 {
+  margin-bottom: 0px;
+  color: #3497db;
+}
+/* line 201, ../sass/2014/sections/_landing.scss */
+footer p {
+  margin-bottom: 20px;
+}
+/* line 204, ../sass/2014/sections/_landing.scss */
+footer p a {
+  text-decoration: none;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+/* line 208, ../sass/2014/sections/_landing.scss */
+footer p a:hover {
+  color: #2ecc71;
+}
+/* line 214, ../sass/2014/sections/_landing.scss */
+footer .eleven.columns {
+  text-align: right;
+}
+/* line 217, ../sass/2014/sections/_landing.scss */
+footer .eleven.columns p {
+  margin-top: 10px;
+  margin-right: 7px;
+  color: #888;
+  font-size: 15px;
+  line-height: 17px;
 }
 
 /* line 1, ../sass/2014/_headervideo.scss */
@@ -1274,7 +1452,7 @@ iframe {
   height: auto;
 }
 
-/* line 12, ../sass/2014/_2014.scss */
+/* line 13, ../sass/2014/_2014.scss */
 * {
   margin: 0;
   padding: 0;
@@ -1283,17 +1461,17 @@ iframe {
   box-sizing: border-box;
 }
 
-/* line 20, ../sass/2014/_2014.scss */
+/* line 21, ../sass/2014/_2014.scss */
 body {
   font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 22px;
   color: #313140;
-  background: #fff;
+  background: url(/assets/images/2014/landing/white_wall_hash.png);
 }
 
-/* line 30, ../sass/2014/_2014.scss */
+/* line 31, ../sass/2014/_2014.scss */
 p {
   margin-bottom: 1em;
 }

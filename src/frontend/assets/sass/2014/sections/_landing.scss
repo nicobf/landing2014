@@ -26,8 +26,8 @@ header{
           // text-transform: uppercase;
           color: white;
           text-decoration: none;
-          // font-size: 16px;
           font-weight: bold;
+          @include simple-animation(.18s);
 
           &:hover{
             // text-decoration: underline;
@@ -91,23 +91,135 @@ section{
     h1{
       margin-bottom: 35px;
       color: $color_blue;
+      text-shadow: 1px 1px white;
     }
 
     h2{
-      margin-bottom: 30px
+      margin-bottom: 30px;
+      text-shadow: 1px 1px white;
+    }
+  }
+
+  &.organizers{
+    
+    text-align: center;
+
+    h1{
+      margin-top: 50px;
+      margin-bottom: 70px;
+      color: $color_green;
+      text-shadow: 1px 1px white;
+    }
+
+    .organizer{
+      margin-bottom: 40px;      
+      
+      img{
+        cursor: pointer;
+        margin-bottom: 5px;
+        
+        @include opacity(1);
+        @include border-radius(50%);
+        @include simple-animation(.3s);
+
+        &:hover{
+          @include opacity(0.8);  
+        }
+      }
+
+      h4{
+        margin: 0;
+        cursor: default;
+        text-shadow: 1px 1px white;
+      }
+
+      a{
+        text-decoration: none;
+        color: $color_green;
+        text-shadow: 1px 1px white;
+        @include simple-animation(.2s);
+
+        &:hover{
+          color: $color_blue;
+        }
+      }
     }
   }
 }
 
+.blue-wrapper   { background: $color_blue;   }
+.green-wrapper  { background: $color_green;  }
+.yellow-wrapper { background: $color_yellow; }
+.silver-wrapper { background: #eee;          }
 
+.footer-wrapper{
+  border-top: 1px solid #eee;
+  margin-top: 80px;
+}
 
+.made-with-love{
+  margin-top: 100px;
+  font-size: 12px;
+  margin-right: 10px;
+  text-align: right;
+  color: #aaa;
+  position: relative;
 
+  a{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: $color_blue;
+    @include simple-animation(.18s);
 
+    &:hover{
+      color: $color_green;
+    }
+  }
 
+  .heart{
+    color: #666;
+    font-size: 16px;
+    position: relative;
+    top: 2px;
+    left:0px;
+  }
+}
 
+footer{
+  margin-top: 1px;
+  padding: 30px 0 50px 0;
+  background: #fff;
+  border-top:1px solid #ddd;
+  color: white;
 
+  h4{
+    margin-bottom: 0px;
+    color: $color_blue;
+  }
 
+  p{
+    margin-bottom: 20px;
 
-// .container{
-//   outline: 1px dashed blue;
-// }
+    a{
+      text-decoration: none;
+      @include simple-animation(.2s);
+
+      &:hover{
+        color: $color_green;
+      }
+    }
+  }
+
+  .eleven.columns{
+    text-align: right;
+
+    p{
+      margin-top: 10px;
+      margin-right: 7px;
+      color: #888;
+      font-size: 15px;
+      line-height: 17px;
+    }
+  }
+}
