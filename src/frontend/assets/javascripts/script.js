@@ -65,7 +65,7 @@ var HeaderVideo = (function ($, document) {
     var appendTeaserVideo = function() {
         if(Modernizr.video && !isMobile()) {
             var source = videoDetails.teaser,
-                html = '<video autoplay="true" loop="loop" muted id="teaser-video" class="teaser-video"><source src="'+source+'.mp4" type="video/mp4"><source src="'+source+'.ogv" type="video/ogg"></video>';
+                html = '<video autoplay="false" loop="loop" muted id="teaser-video" class="teaser-video"><source src="'+source+'.mp4" type="video/mp4"><source src="'+source+'.ogv" type="video/ogg"></video>';
             settings.container.append(html);
         }
     };
@@ -84,10 +84,12 @@ var HeaderVideo = (function ($, document) {
     };
 
     var appendFrame = function() {
-        settings.header.hide();
+        // settings.header.hide();
+        settings.header.fadeOut(100);
         settings.container.append(createFrame());
         removePlayButton();
-        $('#teaser-video').hide();
+        // $('#teaser-video').hide();
+        $('#teaser-video').fadeOut(100);
     };
 
     var removePlayButton = function () {

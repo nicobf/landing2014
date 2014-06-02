@@ -24,7 +24,7 @@ header{
 
         a{
           // text-transform: uppercase;
-          color: white;
+          color: $color_blue;
           text-decoration: none;
           font-weight: bold;
           @include simple-animation(.18s);
@@ -46,7 +46,7 @@ header{
 .header-event{
   z-index:1000;
   position: absolute;
-  bottom: 80px;
+  bottom: 180px;
   color: white;
   margin-bottom: 40px;
 
@@ -54,10 +54,12 @@ header{
     position: relative;
 
     .header-date{
-      font-size: 60px;
+      font-size: 70px;
       position: absolute;
-      top: 0;
+      top: -10px;
       left: 0;
+      color: $color_yellow;
+      // text-shadow: 1px 1px #777;
     }
     .header-divider{
       font-size: 90px;
@@ -65,6 +67,7 @@ header{
       position: relative;
       top: 10px;
       left: 570px;
+      color: transparent;
     }
     .header-venue{
       font-size: 28px;
@@ -72,6 +75,8 @@ header{
       position: absolute;
       top: 44px;
       left: 25px;
+      color: $color_yellow;
+      // text-shadow: 1px 1px black;
     }
   }
 

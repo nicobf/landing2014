@@ -44,7 +44,7 @@ techmeetup.controller('main', function($scope, $route, $routeParams, $location){
 
 	$scope.$on('$viewContentLoaded', function() {
 
-		console.log("HeaderVideo.init()");
+		return;
 
 		try{
 			HeaderVideo.init({

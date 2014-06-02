@@ -21,7 +21,6 @@
 }
 
 body{
-    // font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -30,23 +29,75 @@ body{
     background: url(/assets/images/2014/landing/white_wall_hash.png);
 }
 
-p{
-    // font-size: 1.2em;
-    margin-bottom: 1em;
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  // body{
+  //   background: yellow;
+  // }
+
+  .header-event{ bottom: 90px; }
+  .header-event .header-place .header-date  { font-size: 50px; }
+  .header-event .header-place .header-venue { font-size: 23px; }
+  .header-event .header-button .btn.btn-blue{ font-size: 19px!important;}
+  h1.twelve.columns.alpha.omega { font-size: 42px; line-height: 50px; margin-bottom: 38px; }
 }
 
-// h1, h2, h3, h4 {
-//     margin-bottom: 0.35em;
-//     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-//     font-weight: 400;
-// }
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  // body{
+  //   background: red;
+  // }
+}
 
-// h1{
-//     font-size: 3em;
-//     line-height: 1;
-// }
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  // body{
+  //   background: blue;
+  // }
 
-// h2{
-//     font-size: 2em;
-//     margin-top: 1em;
-// }
+  .header-event{ bottom: 30px; }
+  .header-event .header-place .header-date  { font-size: 40px; }
+  .header-event .header-place .header-venue { font-size: 20px; top: 30px;}
+  .header-event .header-button .btn.btn-blue { font-size: 20px; margin-top: 25px; }
+  .header-menu .container .three.columns {width:100px;}
+  a.three.columns.alpha.logo-container {width:100px;}
+  .header-menu .thirteen.columns.omega {width: 320px;float: left;margin-top: 35px;}
+  div.header-button.five.columns.omega {text-align: right;}
+  h1.twelve.columns.alpha.omega { font-size: 32px; line-height: 36px; margin-bottom: 38px; }
+
+  div.eleven.columns.omega a {display:block;text-align: center;}
+  div.eleven.columns.omega a img{width: 250px}
+  div.eleven.columns.omega p {text-align: center;margin-top: 20px;}
+  div.eleven.columns.omega .made-with-love {text-align: center;}
+  div.eleven.columns.omega .made-with-love a {display:inline;}
+  footer {text-align: center; }
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+  // body{
+  //   background: green;
+  // }
+
+  .header-event{ top: -70px; }
+  .header-event .header-place .header-date  { font-size: 20px; }
+  .header-event .header-place .header-venue { font-size: 14px; top: 20px;}
+  .header-event .header-button .btn.btn-blue { font-size: 20px; position:absolute;top: -30px;right: 5px; font-size:13px; font-weight: bold; padding: 1px 6px;}
+  a.three.columns.alpha.logo-container {width:50px;}
+  a.three.columns.alpha.logo-container img {width:100%;}
+  ul.thirteen.columns.omega {width:240px;margin-top: 20px;}
+  ul.thirteen.columns.omega li {margin-left: 20px;}
+  h1.twelve.columns.alpha.omega { font-size: 32px; line-height: 30px; margin-bottom: 38px; }
+  div.eleven.columns.omega a {display:block;text-align: center;}
+  div.eleven.columns.omega a img{width: 250px}
+  div.eleven.columns.omega p {text-align: center;margin-top: 20px;}
+  div.eleven.columns.omega .made-with-love {text-align: center;}
+  div.eleven.columns.omega .made-with-love a {display:inline;}
+  footer {text-align: center; }
+}

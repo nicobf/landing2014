@@ -3,21 +3,32 @@
     text-align: center;
     padding: 5px 20px 7px 20px;
     text-decoration: none;
-    color: white!important;
+    color: white;
+    @include opacity(1);
+    @include simple-animation(.18s);
     @include border-radius(3px);
 
     &:hover{
-        color: white;
+      @include opacity(0.8);
     }
 
     &.btn-yellow{
-        color: $color_yellow;
+        color: $color_yellow!important;
         border: 1px solid $color_yellow;
+    }
 
-        // &:hover{
-        //     color: $color_green;
-        //     border: 1px solid $color_green;    
-        // }
+    &.btn-blue{
+        color: $color_blue;
+        border: 1px solid $color_blue;
+        &:hover{
+          background: $color_blue;
+          color: white;
+        }
+    }
+
+    &.btn-green{
+        color: $color_green!important;
+        border: 1px solid $color_green;
     }
     
     &.btn-extra{
