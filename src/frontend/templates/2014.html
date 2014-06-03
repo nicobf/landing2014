@@ -6,9 +6,11 @@
                 <img src="assets/images/2014/landing/logo.png" alt="">
             </a>
             <ul class="thirteen columns omega">
-                <li><a href="#">Organiza</a></li>
+                <li><a href="" scroll-to="organizadores">Organiza</a></li>
+                <!-- 
                 <li><a href="#2013">v2013</a></li>
                 <li><a href="#2012">v2012</a></li>
+                -->
             </ul>
         </div>
     </div>
@@ -40,7 +42,7 @@
 <div class="container">
     <div class="sixteen columns">
         <section class="section-intro">
-            <h1 class="twelve columns alpha omega">techMeetup UY es una conferencia anual creada para y por desarrolladores de Uruguay.</h1>
+            <h1 class="sixteen columns alpha omega">techMeetup UY es una conferencia anual creada para y por desarrolladores de Uruguay.</h1>
             <hr />
         </section>
     </div>
@@ -70,12 +72,14 @@
 <div class="container" id="organiza">
     <section class="sixteen columns organizers clearfix" ng-controller="organizers">
 
-    	<h1>Organiza</h1>
+    	<h1 id="organizadores">Organiza</h1>
     	
-    	<div class="one-third column omega organizer" ng-repeat="organizer in organizers">
-    		<img ng-src="assets/images/2014/landing/organizers/{{organizer.image}}" alt="{{organizer.name}}">
-			<h4>{{organizer.name}}</h4>
-			<a href="http://twitter.com/{{organizer.twitter}}" target="_blank">@{{organizer.twitter}}</a>
+    	<div class="center clearfix">
+	    	<div class="three columns organizer" ng-repeat="organizer in organizers">
+	    		<img ng-src="assets/images/2014/landing/organizers/{{organizer.image}}" alt="{{organizer.name}}">
+				<h4>{{organizer.name}}</h4>
+				<a href="http://twitter.com/{{organizer.twitter}}" target="_blank">@{{organizer.twitter}}</a>
+			</div>
 		</div>
 
 	</section>

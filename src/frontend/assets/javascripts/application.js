@@ -23,7 +23,7 @@ $(document).ready(function() {
 *
 * Description
 */
-var techmeetup = angular.module('techmeetup', ['ngRoute'])
+var techmeetup = angular.module('techmeetup', ['ngRoute', 'ngScrollTo'])
 	.config(function($routeProvider){
 		$routeProvider.
 			when('/', 		{templateUrl : 'templates/2014.html'}).
@@ -40,7 +40,7 @@ techmeetup.run(function($rootScope, $templateCache) {
     });
 });
 
-techmeetup.controller('main', function($scope, $route, $routeParams, $location){	
+techmeetup.controller('main', function($scope, $route, $routeParams, $location, $anchorScroll){
 
 	$scope.$on('$viewContentLoaded', function() {
 
