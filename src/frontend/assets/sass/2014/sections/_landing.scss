@@ -20,7 +20,7 @@ header{
 
       li{
         display: inline-block;
-        margin-left: 40px;
+        margin-left: 20px;
 
         a{
           // text-transform: uppercase;
@@ -34,7 +34,7 @@ header{
           }
 
           &.active{
-            color: $color_yellow;
+            color: $color_yellow!important;
             cursor: default; 
           }
         }
@@ -182,13 +182,47 @@ section{
       display: inline-block;
     }
 
-    margin-bottom: 35px;
+    margin-bottom: 30px;
+  }
+
+  &.anterior{
+    text-align: center;
+
+    h1{
+      margin-top: 50px;
+      margin-bottom: 60px;
+      color: white;
+      text-shadow: 1px 1px 2px 3px black;
+    }
+
+    p{
+      color: white;
+      font-size: 20px;
+      line-height: 22px;
+      width: 80%;
+      margin: 0 auto;
+      margin-bottom: 30px;
+      text-shadow: 1px 1px 2px 3px black;
+    }
+
+    h3{
+      color: $color_yellow;
+      text-shadow: 1px 1px 2px 3px black;
+      margin-bottom: 35px;
+      font-weight: 700;
+    }
+
+    .btn{
+      display: inline-block;
+      padding: 10px 18px 13px 18px;
+      font-size: 26px;
+      width: 230px;
+    }
   }
 
   &.sponsors{
 
     text-align: center;
-
 
     h1{
       margin-top: 50px;
@@ -224,6 +258,7 @@ section{
         margin-bottom: 5px;
         will-change: opacity;
         @include opacity(1);
+        @include border-radius(3px);
         @include simple-animation(.3s);
 
         &:hover{
@@ -239,6 +274,16 @@ section{
 .yellow-wrapper { background: $color_yellow; }
 .silver-wrapper { background: #eee;          }
 .white-wrapper  { background: white;         }
+.wrapper-2013   { 
+  background: red url(/assets/images/2013.jpg) no-repeat; 
+  height: 540px; 
+  overflow: hidden;
+  background-size: cover;
+
+  .anterior{
+    height: 540px;
+  }
+}
 
 .footer-wrapper{
   border-top: 1px solid #eee;

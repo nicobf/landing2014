@@ -2,6 +2,7 @@
 
 // animations
 @mixin simple-animation($time) {
+    will-change: all;
     -webkit-transition:   all $time;
     -moz-transition:      all $time;
     -ms-transition:       all $time;
@@ -10,6 +11,7 @@
 }
 
 @mixin flat-animation($time) {
+    will-change: all;
     -webkit-transition:   all $time linear;
     -moz-transition:      all $time linear;
     -ms-transition:       all $time linear;

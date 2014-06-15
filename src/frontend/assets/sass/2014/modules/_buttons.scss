@@ -15,6 +15,11 @@
     &.btn-yellow{
         color: $color_yellow!important;
         border: 1px solid $color_yellow;
+
+        &:hover{
+          background: $color_yellow;
+          color: #333!important;
+        }
     }
 
     &.btn-white{

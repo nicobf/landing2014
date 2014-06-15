@@ -8,10 +8,11 @@
             <ul class="thirteen columns omega">
                 <li><a href="" scroll-to="sponsors">Sponsors</a></li>
                 <li><a href="" scroll-to="speakers">Speakers</a></li>
+                <li><a href="" scroll-to="edicion2013">Ver Video</a></li>
                 <li><a href="" scroll-to="organizadores">Organiza</a></li>
                 
-                <li><a href="./v2013">v2013</a></li>
-                <li><a href="./v2012">v2012</a></li>
+                <li><a class="color-green" href="./v2013">v2013</a></li>
+                <li><a class="color-green" href="./v2012">v2012</a></li>
                 
             </ul>
         </div>
@@ -33,7 +34,7 @@
                 </div>
                 
                 <div class="header-button five columns omega" >
-                    <a href="http://vimeo.com/97064014" target="_blank" class="btn btn-blue video-trigger" id="video-trigger">Ver video Edición 2013</a>
+                    <a href="http://vimeo.com/97064014" target="_blank" class="btn btn-blue video-trigger" scroll-to="edicion2013">Ver video Edición 2013</a>
                 </div>
             </div>
         </div>
@@ -88,10 +89,10 @@
 
 
 
-<div class="container container-with-margin">
+<div class="container container-with-margin" id="sponsors">
     <section class="sixteen columns sponsors clearfix" ng-controller="sponsors">
 
-        <h1 id="sponsors">Sponsors</h1>
+        <h1 >Sponsors</h1>
         
         <div class="center clearfix">
             <h2>Si querés apoyar la conferencia contáctanos a <a href="mailto:info@meetup.uy">info@meetup.uy</a></h2>
@@ -112,22 +113,55 @@
 
 
 
-<div class="yellow-wrapper">
-<div class="container container-with-margin">
-    <section class="sixteen columns speakers clearfix">
 
-        <h1 id="speakers">Speakers</h1>
-        
-        <div class="center clearfix">
-            <h2>Tenés algo interesante que contar?</h2>
-            <a class="btn btn-white" href="#" target="_blank">Inscríbite</a>
-        </div>
+<div class="yellow-wrapper" id="speakers">
+    <div class="container container-with-margins">
+        <section class="sixteen columns speakers clearfix">
 
-        <br/><br/>
+            <h1 >Speakers</h1>
+            
+            <div class="center clearfix">
+                <h2>Tenés algo interesante que contar?</h2>
+                <a class="btn btn-white" href="#" target="_blank">Inscríbite</a>
+            </div>
 
-    </section>
+            <br/><br/>
+
+        </section>
+    </div>
 </div>
+
+
+
+
+<div class="blue-wrapper wrapper-2013" id="edicion2013">
+
+    <div class="container container-with-margin">
+
+        <section class="sixteen columns anterior clearfix">
+
+            <h1 id="speakers">Lo que pasó en 2013</h1>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            <h3>Te lo vas a perder?</h3>
+
+            <a href="http://vimeo.com/97064014" target="_blank" class="btn btn-white video-trigger" >Ver video</a>
+            
+            <div class="header-video-2013">
+                <img _src="assets/images/2013.jpg" class="header-video--media-2013" data-video-src="97064014" data-teaser-source_="assets/images/2013" data-provider="Vimeo" data-video-width="500" data-video-height="281">
+            </div>
+            
+
+        </section>
+    </div>
 </div>
+
 
 
 

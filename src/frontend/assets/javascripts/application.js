@@ -44,13 +44,13 @@ techmeetup.controller('main', function($scope, $route, $routeParams, $location, 
 
 	$scope.$on('$viewContentLoaded', function() {
 
-		return;
+		//return;
 
 		try{
 			HeaderVideo.init({
-		        container     : $('.header-video'),
-		        header        : $('.header-video--media'),
-		        videoTrigger  : $("#video-trigger"),
+		        container     : $('.header-video-2013'),
+		        header        : $('.header-video--media-2013'),
+		        videoTrigger  : $(".video-trigger"),
 		        autoPlayVideo : false
 		    });
 		}catch(e){}
