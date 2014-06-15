@@ -42,7 +42,7 @@ body{
   // }
 
   .header-event{ bottom: 90px; }
-  .header-event .header-place .header-date  { font-size: 50px; }
+  .header-event .header-place .header-date  { font-size: 48px; }
   .header-event .header-place .header-venue { font-size: 23px; }
   .header-event .header-button .btn.btn-blue{ font-size: 19px!important;}
   h1.sixteen.columns.alpha.omega { font-size: 42px; line-height: 50px; margin-bottom: 38px; }
@@ -92,7 +92,7 @@ body{
   .header-event{ top: -70px; }
   .header-event .header-place .header-date  { font-size: 20px; }
   .header-event .header-place .header-venue { font-size: 14px; top: 20px;}
-  .header-event .header-button .btn.btn-blue { font-size: 20px; position:absolute;top: -30px;right: 5px; font-size:13px; font-weight: bold; padding: 1px 6px;}
+  .header-event .header-button .btn.btn-blue { font-size: 20px; position:absolute;top: -9px;right: 5px; font-size:13px; font-weight: bold; padding: 1px 6px;}
   a.three.columns.alpha.logo-container {width:50px;}
   a.three.columns.alpha.logo-container img {width:100%;}
   ul.thirteen.columns.omega {width:240px;margin-top: 20px;}
@@ -103,8 +103,11 @@ body{
   div.eleven.columns.omega p {text-align: center;margin-top: 20px;}
   div.eleven.columns.omega .made-with-love {text-align: center;}
   div.eleven.columns.omega .made-with-love a {display:inline;}
-
+  #claim{font-size: 22px;line-height: 24px;margin-bottom: 20px;}
   section.anterior h1{margin-bottom: 20px;}
   section.anterior p{font-size: 15px;line-height:17px;margin-bottom:15px;width:90%;}
+
+  .header-menu ul li{margin: 0;}
+  .header-menu ul li a {font-size: 10px;}
   footer {text-align: center; }
 }

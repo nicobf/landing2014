@@ -4312,7 +4312,7 @@ body {
 
   /* line 45, ../sass/2014/_2014.scss */
   .header-event .header-place .header-date {
-    font-size: 50px;
+    font-size: 48px;
   }
 
   /* line 46, ../sass/2014/_2014.scss */
@@ -4453,7 +4453,7 @@ body {
   .header-event .header-button .btn.btn-blue {
     font-size: 20px;
     position: absolute;
-    top: -30px;
+    top: -9px;
     right: 5px;
     font-size: 13px;
     font-weight: bold;
@@ -4515,6 +4515,13 @@ body {
     display: inline;
   }
 
+  /* line 106, ../sass/2014/_2014.scss */
+  #claim {
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+
   /* line 107, ../sass/2014/_2014.scss */
   section.anterior h1 {
     margin-bottom: 20px;
@@ -4528,7 +4535,17 @@ body {
     width: 90%;
   }
 
-  /* line 109, ../sass/2014/_2014.scss */
+  /* line 110, ../sass/2014/_2014.scss */
+  .header-menu ul li {
+    margin: 0;
+  }
+
+  /* line 111, ../sass/2014/_2014.scss */
+  .header-menu ul li a {
+    font-size: 10px;
+  }
+
+  /* line 112, ../sass/2014/_2014.scss */
   footer {
     text-align: center;
   }
