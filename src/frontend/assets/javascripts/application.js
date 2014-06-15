@@ -89,3 +89,29 @@ techmeetup.controller('organizers', function ($scope) {
 		}
 	];
 });
+
+techmeetup.controller('sponsors', function ($scope) {
+
+	$scope.sponsors = [
+		{
+			'name'  	: 'CASE',
+    		'image' 	: 'case.png',
+    		'url' 		: 'http://www.case-inc.com/?ref=tech.meetup.uy'
+		},
+		{
+			'name'  	: 'guruhub',
+    		'image' 	: 'guruhub.png',
+    		'url' 		: 'http://guruhub.com.uy/?ref=tech.meetup.uy'
+		},
+		{
+			'name'  	: 'moove-it',
+    		'image' 	: 'moove-it.png',
+    		'url' 		: 'http://moove-it.com/?ref=tech.meetup.uy'
+		},
+		{
+			'name'  	: 'default',
+    		'image' 	: 'default.png',
+    		'url' 		: 'http://default.com'
+		}
+	];
+});
