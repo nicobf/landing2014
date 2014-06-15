@@ -3956,34 +3956,60 @@ section.organizers .organizer a {
 section.organizers .organizer a:hover {
   color: #3497db;
 }
+/* line 163, ../sass/2014/sections/_landing.scss */
+section.sponsors {
+  text-align: center;
+}
+/* line 168, ../sass/2014/sections/_landing.scss */
+section.sponsors h1 {
+  margin-top: 50px;
+  margin-bottom: 70px;
+  color: #2ecc71;
+  text-shadow: 1px 1px white;
+}
+/* line 177, ../sass/2014/sections/_landing.scss */
+section.sponsors h2 a {
+  color: #3497db;
+  text-decoration: none;
+  will-change: color;
+  -webkit-transition: all 0.18s;
+  -moz-transition: all 0.18s;
+  -ms-transition: all 0.18s;
+  -o-transition: all 0.18s;
+  transition: all 0.18s;
+}
+/* line 183, ../sass/2014/sections/_landing.scss */
+section.sponsors h2 a:hover {
+  color: #2ecc71;
+}
 
-/* line 164, ../sass/2014/sections/_landing.scss */
+/* line 191, ../sass/2014/sections/_landing.scss */
 .blue-wrapper {
   background: #3497db;
 }
 
-/* line 165, ../sass/2014/sections/_landing.scss */
+/* line 192, ../sass/2014/sections/_landing.scss */
 .green-wrapper {
   background: #2ecc71;
 }
 
-/* line 166, ../sass/2014/sections/_landing.scss */
+/* line 193, ../sass/2014/sections/_landing.scss */
 .yellow-wrapper {
   background: #f4c42c;
 }
 
-/* line 167, ../sass/2014/sections/_landing.scss */
+/* line 194, ../sass/2014/sections/_landing.scss */
 .silver-wrapper {
   background: #eee;
 }
 
-/* line 169, ../sass/2014/sections/_landing.scss */
+/* line 196, ../sass/2014/sections/_landing.scss */
 .footer-wrapper {
   border-top: 1px solid #eee;
   margin-top: 80px;
 }
 
-/* line 174, ../sass/2014/sections/_landing.scss */
+/* line 201, ../sass/2014/sections/_landing.scss */
 .made-with-love {
   margin-top: 100px;
   font-size: 12px;
@@ -3992,7 +4018,7 @@ section.organizers .organizer a:hover {
   color: #aaa;
   position: relative;
 }
-/* line 182, ../sass/2014/sections/_landing.scss */
+/* line 209, ../sass/2014/sections/_landing.scss */
 .made-with-love a {
   padding: 0;
   margin: 0;
@@ -4004,11 +4030,11 @@ section.organizers .organizer a:hover {
   -o-transition: all 0.18s;
   transition: all 0.18s;
 }
-/* line 189, ../sass/2014/sections/_landing.scss */
+/* line 216, ../sass/2014/sections/_landing.scss */
 .made-with-love a:hover {
   color: #2ecc71;
 }
-/* line 194, ../sass/2014/sections/_landing.scss */
+/* line 221, ../sass/2014/sections/_landing.scss */
 .made-with-love .heart {
   color: #666;
   font-size: 16px;
@@ -4017,7 +4043,7 @@ section.organizers .organizer a:hover {
   left: 0px;
 }
 
-/* line 203, ../sass/2014/sections/_landing.scss */
+/* line 230, ../sass/2014/sections/_landing.scss */
 footer {
   margin-top: 1px;
   padding: 30px 0 50px 0;
@@ -4025,16 +4051,16 @@ footer {
   border-top: 1px solid #ddd;
   color: white;
 }
-/* line 210, ../sass/2014/sections/_landing.scss */
+/* line 237, ../sass/2014/sections/_landing.scss */
 footer h4 {
   margin-bottom: 0px;
   color: #3497db;
 }
-/* line 215, ../sass/2014/sections/_landing.scss */
+/* line 242, ../sass/2014/sections/_landing.scss */
 footer p {
   margin-bottom: 20px;
 }
-/* line 218, ../sass/2014/sections/_landing.scss */
+/* line 245, ../sass/2014/sections/_landing.scss */
 footer p a {
   text-decoration: none;
   -webkit-transition: all 0.2s;
@@ -4043,15 +4069,15 @@ footer p a {
   -o-transition: all 0.2s;
   transition: all 0.2s;
 }
-/* line 222, ../sass/2014/sections/_landing.scss */
+/* line 249, ../sass/2014/sections/_landing.scss */
 footer p a:hover {
   color: #2ecc71;
 }
-/* line 228, ../sass/2014/sections/_landing.scss */
+/* line 255, ../sass/2014/sections/_landing.scss */
 footer .eleven.columns {
   text-align: right;
 }
-/* line 231, ../sass/2014/sections/_landing.scss */
+/* line 258, ../sass/2014/sections/_landing.scss */
 footer .eleven.columns p {
   margin-top: 10px;
   margin-right: 7px;
@@ -4060,7 +4086,7 @@ footer .eleven.columns p {
   line-height: 17px;
 }
 
-/* line 242, ../sass/2014/sections/_landing.scss */
+/* line 269, ../sass/2014/sections/_landing.scss */
 .center {
   text-align: center;
   margin: 0 auto;
