@@ -188,19 +188,23 @@ section{
   &.anterior{
     text-align: center;
 
+    $color_green : $color_yellow;
+
     h1{
       margin-top: 50px;
       margin-bottom: 60px;
       color: white;
-      text-shadow: 1px 1px black;
+      // text-shadow: 1px 1px 2px black;
+      color: $color_green;
+      
 
       a{
         text-decoration: none;
-        color: $color_yellow;
+        color: $color_green;
         position: relative;
 
         span{
-          background: $color_yellow;
+          background: $color_green;
           color: black;
           display: inline-block;
           text-shadow: none;
@@ -211,30 +215,38 @@ section{
           position: absolute;
           top: 22px;
           right: -53px;
-          box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+          // box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+          will-change: all;
           @include border-radius(2px);
+          @include simple-animation(.18s);
+          @include opacity(0.8);
+
+          &:hover{
+            @include opacity(1);
+          }
         }
       }
     }
 
     p{
       color: white;
+      color: $color_green;
       font-size: 22px;
       line-height: 24px;
       width: 85%;
       margin: 0 auto;
       margin-bottom: 30px;
-      text-shadow: 1px 1px black;
+      // text-shadow: 1px 1px 2px black;
 
       strong{
-        color: $color_yellow;
+        color: $color_green;
         font-size: 24px;
-        text-shadow: 1px 1px black;
+        // text-shadow: 1px 1px black;
       }
     }
 
     h3{
-      color: $color_yellow;
+      color: $color_green;
       text-shadow: 1px 1px 2px 3px black;
       margin-bottom: 35px;
       font-weight: 700;
