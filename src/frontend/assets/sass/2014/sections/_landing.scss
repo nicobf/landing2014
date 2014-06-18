@@ -188,23 +188,20 @@ section{
   &.anterior{
     text-align: center;
 
-    $color_green : $color_yellow;
+    $section_color : $color_yellow;
 
     h1{
       margin-top: 50px;
       margin-bottom: 60px;
       color: white;
-      // text-shadow: 1px 1px 2px black;
-      color: $color_green;
-      
 
       a{
         text-decoration: none;
-        color: $color_green;
+        color: $section_color;
         position: relative;
 
         span{
-          background: $color_green;
+          background: $section_color;
           color: black;
           display: inline-block;
           text-shadow: none;
@@ -215,7 +212,6 @@ section{
           position: absolute;
           top: 22px;
           right: -53px;
-          // box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
           will-change: all;
           @include border-radius(2px);
           @include simple-animation(.18s);
@@ -230,23 +226,20 @@ section{
 
     p{
       color: white;
-      color: $color_green;
       font-size: 22px;
       line-height: 24px;
       width: 85%;
       margin: 0 auto;
       margin-bottom: 30px;
-      // text-shadow: 1px 1px 2px black;
 
       strong{
-        color: $color_green;
+        color: $section_color;
         font-size: 24px;
-        // text-shadow: 1px 1px black;
       }
     }
 
     h3{
-      color: $color_green;
+      color: $section_color;
       text-shadow: 1px 1px 2px 3px black;
       margin-bottom: 35px;
       font-weight: 700;
@@ -372,7 +365,7 @@ footer{
   }
 
   p{
-    margin-bottom: 20px;
+    margin-bottom: 19px;
 
     a{
       text-decoration: none;
@@ -384,7 +377,7 @@ footer{
     }
   }
 
-  .eleven.columns{
+  .nine.columns{
     text-align: right;
 
     p{
@@ -405,4 +398,52 @@ footer{
 
 .container-with-margin{
   margin-bottom: 30px;
+}
+
+.social-icons{
+
+  ul{
+    margin: 0;
+    padding: 0;
+
+    li{
+      display: inline-block;
+      margin-right: 20px;
+      
+      a{
+        text-decoration: none;
+        display: block;
+        color: #666;
+        font-size: 11px;
+        @include simple-animation(.2s);
+        will-change: all;
+        height: 20px;
+        line-height: 16px;
+        position: relative;
+        @include opacity(.8);
+        text-indent: 22px;
+
+        i{
+          font-size: 20px;  
+          color: $color_blue;
+          position: absolute;
+          top: -1px;
+          text-indent: 0px;
+          display: block;
+          @include simple-animation(.2s);
+          will-change: all;
+        }
+
+        &:hover{
+          @include opacity(1);
+          color: $color_green;
+
+          i{
+            color: $color_green;
+          }
+          
+        }
+      }
+    }
+  }
 }
