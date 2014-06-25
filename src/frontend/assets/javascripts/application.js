@@ -10,8 +10,16 @@ var tm = function($){
 		    });
 		},
 
+		handleScrollTo : function(){
+			$('.header-menu .scrollable').click(function(e){
+				e.preventDefault();
+				$.scrollTo( this.hash, 1000, { easing:'easeOutQuart' });
+			});
+		},
+
 		initialize : function(){
 			app.prepareVideo();
+			app.handleScrollTo();
 		}
 	};
 
