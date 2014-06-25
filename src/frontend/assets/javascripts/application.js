@@ -15,6 +15,11 @@ var tm = function($){
 				e.preventDefault();
 				$.scrollTo( this.hash, 1000, { easing:'easeOutQuart' });
 			});
+
+			$('.header-button').click(function(e){
+				e.preventDefault();
+				$.scrollTo( '#edicion2013', 1000, { easing:'easeOutQuart' });
+			});
 		},
 
 		initialize : function(){
