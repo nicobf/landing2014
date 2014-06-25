@@ -307,7 +307,7 @@ section{
 .silver-wrapper { background: #eee;          }
 .white-wrapper  { background: white;         }
 .wrapper-2013   { 
-  background: red url(/assets/images/2013.jpg) no-repeat; 
+  background: url(/assets/images/2013.jpg) no-repeat; 
   height: 540px; 
   overflow: hidden;
   background-size: cover;
