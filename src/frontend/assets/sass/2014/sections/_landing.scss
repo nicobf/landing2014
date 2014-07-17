@@ -446,3 +446,21 @@ footer{
     }
   }
 }
+
+#sponsors-pdf{
+  display: block;
+  margin: 45px 0 25px 0;
+  @include flat-animation(.18s);
+  @include opacity(1);
+  will-change: opacity;
+
+  &:hover{
+    
+    @include opacity(0.6);
+  }
+
+  img{
+    width: 70%;
+    height: auto;
+  }
+}
