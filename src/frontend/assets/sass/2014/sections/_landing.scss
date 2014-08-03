@@ -59,7 +59,7 @@ header{
       top: -10px;
       left: 0;
       color: $color_yellow;
-      // text-shadow: 1px 1px #777;
+      letter-spacing: -0.09em;
     }
     .header-divider{
       font-size: 90px;
@@ -76,7 +76,7 @@ header{
       top: 44px;
       left: 25px;
       color: $color_yellow;
-      // text-shadow: 1px 1px black;
+      letter-spacing: -1px;
     }
   }
 
@@ -86,8 +86,9 @@ header{
 
     .btn{
       display: inline-block;
-      padding: 10px 18px 13px 18px;
-      font-size: 26px;
+      padding: 10px 13px 13px 13px;
+      font-size: 24px;
+      letter-spacing: -0.05em;
     }
   }
 }
