@@ -288,7 +288,10 @@ section{
     }
 
     .sponsor{
-      margin-bottom: 10px; 
+
+      a{
+        display: block;
+      }
       
       img{
         cursor: pointer;
@@ -296,10 +299,10 @@ section{
         width: 100%;
         height: auto;
         margin: 0 auto;
-        margin-bottom: 5px;
+        // margin-bottom: 5px;
         will-change: opacity;
         @include opacity(1);
-        @include border-radius(3px);
+        @include border-radius(2px);
         @include simple-animation(.3s);
 
         &:hover{
@@ -334,7 +337,7 @@ section{
 a.hostedby{
   text-decoration: none;
   display: block;
-  margin-top: 50px;
+  margin-top: 121px;
   margin-right: 6px;
 
   p{
@@ -376,7 +379,7 @@ a.hostedby{
 
 footer{
   margin-top: 1px;
-  padding: 30px 0 50px 0;
+  padding: 30px 0 25px 0;
   background: #fff;
   border-top:1px solid #ddd;
   color: white;
@@ -485,5 +488,24 @@ footer{
   img{
     width: 70%;
     height: auto;
+  }
+}
+
+
+.sponsor-type{
+  height:      20px;
+  line-height: 20px;
+  padding: 0 10px;
+  color: white;
+  font-size: 12px;
+  margin-bottom: 30px; 
+  text-transform: uppercase;
+  @include border-radius(2px);
+
+  &.sponsor-type-green{
+    background: $color_green;
+  }
+  &.sponsor-type-blue{
+    background: $color_blue;
   }
 }
