@@ -1,4 +1,4 @@
-
+<?php include('data.php'); ?>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -22,7 +22,7 @@
         
 	    <div class="container">
 	        <div class="header-menu sixteen columns clearfix">
-	            <a href="index.html" class="three columns alpha logo-container">
+	            <a href="index.php" class="three columns alpha logo-container">
 	                <img src="assets/images/2014/landing/logo.png" alt="">
 	            </a>
 	            <ul class="thirteen columns omega">
@@ -33,7 +33,7 @@
 	                
 	                <li><a class="color-green" href="./v2013">v2013</a></li>
 	                <li><a class="color-green" href="./v2012">v2012</a></li>
-	                <li><a class="" href="eng.html">[en]</a></li>
+	                <li><a class="" href="eng.php">[en]</a></li>
 	                
 	            </ul>
 	        </div>
@@ -109,29 +109,40 @@
 	            <h2>Si querés apoyar la conferencia contáctanos a <a href="mailto:info@meetup.uy">info@meetup.uy</a></h2>
 	        </div>
 
-	        <h1 style="display:none">Apoyan</h1>
+	        <h1>Apoyan</h1>
 
-	        <div style="display:none" class="center clearfix">
-	            
-	            <div class="one-third column sponsor alpha">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/case.png" alt="CASE">
-	                </a>
-	            </div>
-
-	            <div class="one-third column sponsor">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/case.png" alt="CASE">
-	                </a>
-	            </div>
-	            
-	            <div class="one-third column sponsor omega">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/case.png" alt="CASE">
-	                </a>
-	            </div>
-
-	        </div>
+	        <div class="center clearfix">
+            <?php 
+            $i = 1;
+            foreach ($sponsors as $sponsor):
+                if($i==1){
+                    $css = 'alpha';
+                } elseif ($i == 2){
+                    $css = '';
+                } else {
+                    $css = 'omega';
+                }
+                if(!is_file('./assets/images/2014/landing/sponsors/'.$sponsor['img'])){
+                    $sponsor['img'] = 'default.png';
+                }
+            ?>
+            <div class="one-third column sponsor <?= $css ?>">
+                <a href="<?= $sponsor['url'];?>?ref=techmeetup.uy" target="_blank">
+                    <img src="assets/images/2014/landing/sponsors/<?= $sponsor['img'];?>" alt="<?= $sponsor['alt'];?>">
+                </a>
+                <div class="sponsor-type sponsor-type-<?= $sponsor['type'];?>">
+                    <?= $sponsor['type'];?> sponsor
+                </div>
+            </div>
+            <?php
+                
+                if($i == 3){
+                    $i=0;
+                }
+                $i++;
+            endforeach;
+            ?>
+        	</div>
 
 	    </section>
 	</div>
@@ -275,6 +286,9 @@
 		        		
 		        		<h4>Organización</h4>
 		        		<p><a href="mailto:organizacion@meetup.uy">organizacion@meetup.uy</a></p>
+
+		        		<h4>Comunicación</h4>
+		        		<p><a href="mailto:comunicacion@meetup.uy">comunicacion@meetup.uy</a></p>
 		        		
 		        		<h4>Teléfono</h4>
 		        		<p><a href="phone:+59827078003">+598 2 707 8003</a></p>
