@@ -1,133 +1,4 @@
-        <?php
-	    $sponsors = [
-            [
-                'alt' => 'CASE',
-                'url' => 'http://case-inc.com',
-                'img' => 'case.png',
-                'type' => 'green'	            
-            ],
-            [
-                'alt' => 'Moove-it',
-                'url' => 'http://moove-it.com',
-                'img' => 'moove-it.png',
-                'type' => 'green'
-            ],
-            [
-                'alt' => 'Mercaro Libre',
-                'url' => 'http://www.mercadolibre.com.uy',
-                'img' => 'mercadolibre.png',
-                'type' => 'green'
-            ],
-            [
-                'alt' => 'Guruhub',
-                'url' => 'http://guruhub.com',
-                'img' => 'guruhub.png',
-                'type' => 'blue'
-            ],
-            [
-                'alt' => 'Grupo Jordan',
-                'url' => '#',
-                'img' => 'grupo-jordan.png',
-                'type' => 'blue'
-            ],
-            [
-                'alt' => 'wyeworks',
-                'url' => 'http://www.wyeworks.com',
-                'img' => 'wyeworks.png',
-                'type' => 'blue'
-            ],
-	        [
-	           'alt' => 'tryolabs',
-                'url' => 'http://www.tryolabs.com/',
-                'img' => 'tryolabs.png',
-                'type' => 'blue'
-            ],
-	        [
-    	        'alt' => 'PedidosYa',
-    	        'url' => 'http://www.pedidosya.com.uy/',
-    	        'img' => 'pedidosya.png',
-    	        'type' => 'blue'
-	        ],
-	        [
-    	        'alt' => 'NEON ROOTS',
-    	        'url' => 'http://www.neonroots.com/',
-    	        'img' => 'neon-roots.png',
-    	        'type' => 'blue'
-	        ],
-	        [
-    	        'alt' => 'Rootstrap',
-    	        'url' => 'http://rootstrap.it/',
-    	        'img' => 'rootstrap.png',
-    	        'type' => 'blue'
-	        ],
-	        [
-                'alt' => 'Abstracta',
-                'url' => 'http://www.abstracta.com.uy/',
-                'img' => 'abstracta.png',
-                'type' => 'blue'
-            ],
-	        [
-    	        'alt' => 'Netsuite',
-    	        'url' => 'http://www.netsuite.com/',
-    	        'img' => 'netsuite.png',
-	            'type' => 'blue'
-            ], 
-	        [
-                'alt' => 'InfUY',
-	            'url' => 'http://www.infuy.com/',
-    	        'img' => 'infuy.png',
-    	        'type' => 'blue'
-	        ],
-	        [
-	            'alt' => 'kleer',
-	            'url' => 'http://www.kleer.la/',
-	            'img' => 'kleer.png',
-	            'type' => 'blue'
-	        ],
-	        [
-	            'alt' => 'Pyxis',
-                'url' => 'http://www.pyxisportal.com/',
-                'img' => 'pyxis.png',
-                'type' => 'blue'
-            ],
-	        [
-	            'alt' => 'aqua it',
-	            'url' => 'http://www.aquait.biz/',
-                'img' => 'aquait.png',
-                'type' => 'blue'
-            ],
-	        [
-	            'alt' => 'El Pais',
-	            'url' => 'http://www.elpais.com.uy/',
-	            'img' => 'elpais.png',
-	            'type' => 'blue'
-	        ],
-	        [
-                'alt' => 'Antel',
-                'url' => 'http://www.antel.com.uy',
-                'img' => 'antel.png',
-                'type' => 'blue'
-            ],
-	        [
-                'alt' => 'ANII',
-                'url' => 'http://www.anii.org.uy/web/',
-                'img' => 'anii.png',
-                'type' => 'blue'
-            ],
-	        [
-	           'alt' => 'Pepsi',
-	           'url' => '#',
-	           'img' => 'pepsi.png',
-	           'type' => 'blue'
-	        ],
-	        [
-	           'alt' => 'Zillertal',
-               'url' => '#',
-               'img' => 'zillertal.png',
-               'type' => 'blue'
-            ],
-	    ];  
-		?>
+<?php $sponsors = include('data.php'); ?>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -162,7 +33,7 @@
 	                
 	                <li><a class="color-green" href="./v2013">v2013</a></li>
 	                <li><a class="color-green" href="./v2012">v2012</a></li>
-	                <li><a class="" href="eng.html">[en]</a></li>
+	                <li><a class="" href="eng.php">[en]</a></li>
 	                
 	            </ul>
 	        </div>
@@ -260,6 +131,7 @@
                     <img src="assets/images/2014/landing/sponsors/<?= $sponsor['img'];?>" alt="<?= $sponsor['alt'];?>">
                 </a>
                 <div class="sponsor-type sponsor-type-<?= $sponsor['type'];?>">
+                    <?= $sponsor['type'];?> sponsor
                 </div>
             </div>
             <?php

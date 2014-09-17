@@ -1,4 +1,4 @@
-
+<?php $sponsors = include('data.php'); ?>
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -33,7 +33,7 @@
 	                
 	                <li><a class="color-green" href="./v2013">v2013</a></li>
 	                <li><a class="color-green" href="./v2012">v2012</a></li>
-	                <li><a class="" href="index.html">[es]</a></li>
+	                <li><a class="" href="index.php">[es]</a></li>
 	                
 	            </ul>
 	        </div>
@@ -110,81 +110,40 @@
 	            <h2>If you want to support the conference please contact us at <a href="mailto:info@meetup.uy">info@meetup.uy</a></h2>
 	        </div>
 
-	        <h1>Apoyan</h1>
+	        <h1>Are supporting</h1>
 
 	        <div class="center clearfix">
-	            
-	            <div class="one-third column sponsor alpha">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/case.png" alt="CASE">
-	                </a>
-	                <div class="sponsor-type sponsor-type-green">green sponsor</div>
-	            </div>
-
-	            <div class="one-third column sponsor">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/moove-it.png" alt="´Moove-it">
-	                </a>
-	                <div class="sponsor-type sponsor-type-green">green sponsor</div>
-	            </div>
-	            
-	            <div class="one-third column sponsor omega">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/default.png" alt="PedidosYa">
-	                </a>
-	                <div class="sponsor-type sponsor-type-green">green sponsor</div>
-	            </div>
-
-	            <div class="one-third column sponsor alpha">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/wyeworks.png" alt="WyeWork">
-	                </a>
-	                <div class="sponsor-type sponsor-type-blue">green sponsor</div>
-	            </div>
-
-	            <div class="one-third column sponsor">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/anii.png" alt="ANII">
-	                </a>
-	                <div class="sponsor-type sponsor-type-blue">green sponsor</div>
-	            </div>
-
-	            <div class="one-third column sponsor omega">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/tryo.png" alt="Tryolabs">
-	                </a>
-	                <div class="sponsor-type sponsor-type-green">green sponsor</div>
-	            </div>
-
-	            <div class="one-third column sponsor alpha">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/antel.png" alt="Antel">
-	                </a>
-	                <div class="sponsor-type sponsor-type-blue">green sponsor</div>
-	            </div>
-
-	            <div class="one-third column sponsor">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/pepsi.png" alt="Pepsi">
-	                </a>
-	                <div class="sponsor-type sponsor-type-green">green sponsor</div>
-	            </div>
-
-	            <div class="one-third column sponsor omega">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/zillertal.png" alt="Zillertal">
-	                </a>
-	                <div class="sponsor-type sponsor-type-green">green sponsor</div>
-	            </div>
-
-	            <div class="one-third column sponsor alpha">
-	                <a href="http://www.case-inc.com/?ref=tech.meetup.uy" target="_blank">
-	                    <img src="assets/images/2014/landing/sponsors/default.png" alt="El Pais">
-	                </a>
-	                <div class="sponsor-type sponsor-type-green">green sponsor</div>
-	            </div>
-
-	        </div>
+            <?php 
+            $i = 1;
+            foreach ($sponsors as $sponsor):
+                if($i==1){
+                    $css = 'alpha';
+                } elseif ($i == 2){
+                    $css = '';
+                } else {
+                    $css = 'omega';
+                }
+                if(!is_file('./assets/images/2014/landing/sponsors/'.$sponsor['img'])){
+                    $sponsor['img'] = 'default.png';
+                }
+            ?>
+            <div class="one-third column sponsor <?= $css ?>">
+                <a href="<?= $sponsor['url'];?>?ref=techmeetup.uy" target="_blank">
+                    <img src="assets/images/2014/landing/sponsors/<?= $sponsor['img'];?>" alt="<?= $sponsor['alt'];?>">
+                </a>
+                <div class="sponsor-type sponsor-type-<?= $sponsor['type'];?>">
+                    <?= $sponsor['type'];?> sponsor
+                </div>
+            </div>
+            <?php
+                
+                if($i == 3){
+                    $i=0;
+                }
+                $i++;
+            endforeach;
+            ?>
+        	</div>
 
 	    </section>
 	</div>
