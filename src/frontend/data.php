@@ -1,5 +1,5 @@
 <?php
-return [
+$sponsors =  [
     [
         'alt' => 'CASE',
         'url' => 'http://case-inc.com',
