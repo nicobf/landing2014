@@ -25,6 +25,12 @@ $sponsors =  array(
         'type' => 'green'
     ),
     array(
+        'alt' => 'Netsuite',
+        'url' => 'http://www.netsuite.com/',
+        'img' => 'netsuite.png',
+        'type' => 'green'
+    ),
+    array(
         'alt' => 'Guruhub',
         'url' => 'http://guruhub.com',
         'img' => 'guruhub.png',
@@ -72,12 +78,7 @@ $sponsors =  array(
         'img' => 'abstracta.png',
         'type' => 'blue'
     ),
-    array(
-        'alt' => 'Netsuite',
-        'url' => 'http://www.netsuite.com/',
-        'img' => 'netsuite.png',
-        'type' => 'blue'
-    ),
+
     array(
         'alt' => 'InfUY',
         'url' => 'http://www.infuy.com/',
