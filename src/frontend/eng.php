@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title></title>
+    <title>TechMeetup 2014</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
@@ -279,10 +279,11 @@
 
 		        	</div>
 		        	<div class="nine columns alpha omega">
-		        		<a href="/">
+		        		<a href="eng.php">
 		        			<img src="assets/images/2014/landing/logo-footer.png" alt="">
 		        		</a>
 		        		<p>“A day of professional upgrade and networking of the highest quality.”</p>
+		        		<a href="code_of_conduct.php" class="code-of-conduct btn btn-blue">Code of Conduct</a>
 		        		<a STYLE="VISIBILITY:HIDDEN" class="hostedby" href="http://servergrove.com/" target="_blank">
 		        			<p><small>Hosted by</small></p>
 		        			<img src="assets/images/2014/landing/sg230x35_g.png" alt="Hosted by ServerGrove">

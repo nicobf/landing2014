@@ -337,7 +337,7 @@ section{
 a.hostedby{
   text-decoration: none;
   display: block;
-  margin-top: 121px;
+  margin-top: 37px;
   margin-right: 6px;
 
   p{
@@ -346,6 +346,17 @@ a.hostedby{
   }
 
   img{}
+}
+
+a.code-of-conduct{
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 21px;
+  margin-right: 6px;
+  color: #3497db;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 30px;
 }
 
 .made-with-love{
