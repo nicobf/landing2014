@@ -304,15 +304,16 @@
 
 		        	</div>
 		        	<div class="nine columns alpha omega">
-		        		<a href="/">
+		        		<a href="index.php">
 		        			<img src="assets/images/2014/landing/logo-footer.png" alt="">
 		        		</a>
 		        		<p>“Un día de actualización profesional y Networking de la más alta calidad.”</p>
+		        		<a href="codigo_de_conducta.php" class="code-of-conduct btn btn-blue">Código de Conducta</a>
 		        		<a STYLE="VISIBILITY:HIDDEN" class="hostedby" href="http://servergrove.com/" target="_blank">
 		        			<p><small>Hosted by</small></p>
 		        			<img src="assets/images/2014/landing/sg230x35_g.png" alt="Hosted by ServerGrove">
 		        		</a>
-		        		<div class="made-with-love">made with <span class="heart">&#9829;</span> by <a target="_blank" href="http://twitter.com/trikanna">@trikanna</a></div>
+		        		<div class="made-with-love">hecho con <span class="heart">&#9829;</span> por <a target="_blank" href="http://twitter.com/trikanna">@trikanna</a></div>
 		        	</div>
 
 	                <div class="clear"></div>
@@ -335,7 +336,6 @@
     <script src="assets/javascripts/script.js"></script>
     <script src="assets/javascripts/application.js"></script>
 
-    <!-- 
     <script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -346,6 +346,5 @@
 	  ga('send', 'pageview');
 	
 	</script>
-	 -->
 </body>
 </html>

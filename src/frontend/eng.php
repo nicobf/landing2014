@@ -279,10 +279,11 @@
 
 		        	</div>
 		        	<div class="nine columns alpha omega">
-		        		<a href="/">
+		        		<a href="eng.php">
 		        			<img src="assets/images/2014/landing/logo-footer.png" alt="">
 		        		</a>
 		        		<p>“A day of professional upgrade and networking of the highest quality.”</p>
+		        		<a href="code_of_conduct.php" class="code-of-conduct btn btn-blue">Code of Conduct</a>
 		        		<a STYLE="VISIBILITY:HIDDEN" class="hostedby" href="http://servergrove.com/" target="_blank">
 		        			<p><small>Hosted by</small></p>
 		        			<img src="assets/images/2014/landing/sg230x35_g.png" alt="Hosted by ServerGrove">
