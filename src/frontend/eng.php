@@ -93,7 +93,7 @@
 
 
 
-	<div class="orange-wrapper">
+	<div class="yellow-wrapper">
 		<div class="container container-with-margin" id="compra">
 		    <section class="sixteen columns compra clearfix">
 
@@ -101,14 +101,28 @@
 		        <p>Book your place at the 2014 TechMeetup now!</p>
 		        
 				<br>
-				
-		        <a class="eventbrite-button" href="http://bit.ly/techmeetup-entrada-2014" target="_blank">
-		        	<img src="/assets/images/2014/landing/eventbrite_logo.png" alt="">
-		        </a>
 
-		        <p>
-		        	<img src="/assets/images/2014/landing/credit_cards.png" alt="">
-		        </p>		        
+				<div style="width:100%; text-align:left;height:300px" >
+					
+					<iframe style="position: relative!important;" src="//eventbrite.com/tickets-external?eid=12222121695&ref=etckt" 
+						frameborder="0" 
+						height="247" 
+						width="100%" 
+						vspace="0" 
+						hspace="0" 
+						marginheight="5" 
+						marginwidth="5" 
+						scrolling="auto" 
+						allowtransparency="true" >
+					</iframe>
+
+				</div>
+
+				<div style="font-size:15px; padding:5px 0 5px; margin:2px; width:100%; text-align:center;" >
+					<a style="color:black; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Online ticket sale</a> <span style="color:black;">via</span> <a style="color:black; text-decoration:none;font-weight:bold;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a>
+				</div>
+
+				<br>
 
 		    </section>
 		</div>
@@ -120,8 +134,7 @@
 	    <section class="sixteen columns sponsors clearfix">
 
 	        <h1 >Sponsors</h1>
-	        <p>techMeetupUY is possible thanks to our amazing sponsors. We are very grateful to each of the companies that have been supportive and helped to make this conference possible. Join us and improve Uruguay's IT community!
-</p>
+	        <p>techMeetupUY is possible thanks to our amazing sponsors. We are very grateful to each of the companies that have been supportive and helped to make this conference possible. Join us and improve Uruguay's IT community!</p>
 
 			<a id="sponsors-pdf" href="docs/tech.meetup.uy.sponsorship.v2014.pdf" target="_blank">
 				<img src="assets/images/2014/landing/sponsors.png" alt="">
