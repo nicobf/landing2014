@@ -55,7 +55,9 @@
 	                </div>
 	                
 	                <div class="header-button five columns omega" >
-	                    <a href="http://vimeo.com/97064014" target="_blank" class="btn btn-blue video-trigger">Ver video Edición 2013</a>
+	                    <a href="http://vimeo.com/97064014" target="_blank">
+	                    	<img src="/assets/images/2014/landing/compra_ahora.png" alt="">
+	                    </a>
 	                </div>
 	            </div>
 	        </div>
@@ -89,6 +91,29 @@
 	    </div>
 	</div><!-- container -->
 
+
+	
+
+	<div class="orange-wrapper">
+		<div class="container container-with-margin" id="compra">
+		    <section class="sixteen columns compra clearfix">
+
+		        <h1>Comprá tu Entrada</h1>
+		        <p>Reservá tu lugar en la TechMeetup 2014 ahora!</p>
+		        
+				<br>
+				
+		        <a class="eventbrite-button" href="http://bit.ly/techmeetup-entrada-2014" target="_blank">
+		        	<img src="/assets/images/2014/landing/eventbrite_logo.png" alt="">
+		        </a>
+
+		        <p>
+		        	<img src="/assets/images/2014/landing/credit_cards.png" alt="">
+		        </p>		        
+
+		    </section>
+		</div>
+	</div>
 
 
 
