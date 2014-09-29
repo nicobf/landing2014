@@ -34,11 +34,21 @@ body{
 ================================================== */
 
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) {}
+@media only screen and (max-width: 959px) {
+  // body{
+  //   background:cyan;
+  // }
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-  .header-event{ bottom: 90px; }
+  // body{
+  //   background:yellow;
+  // }
+  .header-event{ 
+    bottom: 30px; 
+    left: 10px;
+  }
   .header-event .header-place .header-date  { font-size: 48px; }
   .header-event .header-place .header-venue { font-size: 23px; }
   .header-event .header-button .btn.btn-blue{ font-size: 19px!important;}
@@ -69,15 +79,65 @@ body{
   //   background: blue;
   // }
 
-  .header-event{ bottom: 30px; }
+  .header-video{
+    height: 400px;
+    background:red;
+
+    img{
+      height: 100%;
+      width: auto;
+    }
+  }
+
+  .header-event{ 
+    bottom: 50px; 
+    left: 20px;
+
+    .header-button{
+      margin-top: 20px;
+      text-align: center;
+
+      a{
+        margin-top: 0px;
+        margin-bottom: 0;
+        text-align: center;
+        display: block;
+
+        img{
+          margin-left: -40px;
+          margin-top: 20px;
+        }
+      }
+    }
+  }
   .header-event .header-place .header-date  { font-size: 40px; }
   .header-event .header-place .header-venue { font-size: 20px; top: 30px;}
   .header-event .header-button .btn.btn-blue { font-size: 20px; margin-top: 25px; }
   .header-menu .container .three.columns {width:100px;}
-  a.three.columns.alpha.logo-container {width:100px;}
-  .header-menu .thirteen.columns.omega {width: 320px;float: left;margin-top: 35px;}
+  
+  a.three.columns.alpha.logo-container {
+    width: 65px;
+    margin-top: 20px;
+
+    img{
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .header-menu .thirteen.columns.omega {
+    width: 350px;
+    float: left;
+    margin-top: 33px;
+  }
+
   div.header-button.five.columns.omega {text-align: right;}
-  h1.sixteen.columns.alpha.omega { font-size: 32px; line-height: 36px; margin-bottom: 38px; }
+  
+  h1.sixteen.columns.alpha.omega { 
+    font-size: 32px; 
+    line-height: 36px; 
+    margin-bottom: 38px; 
+  }
 
   div.nine.columns.omega a {display:block;text-align: center;}
   div.nine.columns.omega a img{width: 250px}
@@ -112,11 +172,46 @@ body{
   //   background: green;
   // }
 
-  .header-event{ top: -70px; }
+  .header-video{
+    height: 270px;
+    background:red;
+
+    img{
+      height: 100%;
+      width: auto;
+    }
+  }
+
+  .header-event{ 
+    bottom: 30px; 
+    left: 30px;
+
+    .header-button{
+      margin-top: 0px;
+      text-align: center;
+
+      a{
+        margin-top: 0;
+        margin-bottom: 0;
+        text-align: center;
+        display: block;
+        margin-left: 45px;
+        width: 150px;
+
+        img{
+          width: 100%;
+          height: auto;
+          margin-top: 10px;
+        }
+      }
+    }
+  }
+
+  // .header-event{ top: -70px; }
   .header-event .header-place .header-date  { font-size: 20px; }
   .header-event .header-place .header-venue { font-size: 14px; top: 20px;}
   .header-event .header-button .btn.btn-blue { font-size: 20px; position:absolute;top: -9px;right: 5px; font-size:13px; font-weight: bold; padding: 1px 6px;}
-  a.three.columns.alpha.logo-container {width:50px;}
+  a.three.columns.alpha.logo-container {width:50px;margin-top: 10px;}
   a.three.columns.alpha.logo-container img {width:100%;}
   ul.thirteen.columns.omega {width:240px;margin-top: 20px;}
   ul.thirteen.columns.omega li {margin-left: 20px;}

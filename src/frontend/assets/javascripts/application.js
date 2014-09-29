@@ -18,7 +18,7 @@ var tm = function($){
 
 			$('.header-button').click(function(e){
 				e.preventDefault();
-				$.scrollTo( '#edicion2013', 1000, { easing:'easeOutQuart' });
+				$.scrollTo( '#compra', 1000, { easing:'easeOutQuart' });
 			});
 		},
 
