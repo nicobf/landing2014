@@ -140,3 +140,58 @@ $sponsors =  array(
         'type' => 'blue'
     )
 );  
+
+
+
+$apoyan =  array(
+    array(
+        'alt' => 'Universidad de Montevideo',
+        'url' => 'http://url.com',
+        'img' => 'universidad_montevideo.png'
+    ),
+    array(
+        'alt' => 'Universidad ORT',
+        'url' => 'http://url.com',
+        'img' => 'universidad_ort.png'
+    ),
+    array(
+        'alt' => 'Universidad Católica del Uruguay',
+        'url' => 'http://url.com',
+        'img' => 'universidad_catolica.png'
+    ),
+    array(
+        'alt' => 'Montevideo Valley',
+        'url' => 'http://url.com',
+        'img' => 'montevideo_valley.png'
+    ),
+    array(
+        'alt' => 'Cuti',
+        'url' => 'http://url.com',
+        'img' => 'cuti.png'
+    ),
+    array(
+        'alt' => 'Facultad de Ingeniería',
+        'url' => 'http://url.com',
+        'img' => 'facultad_ingenieria.png'
+    ),
+    array(
+        'alt' => 'Empower U',
+        'url' => 'http://url.com',
+        'img' => 'empower_u.png'
+    ),
+    array(
+        'alt' => 'Ministerio de Educación y Cultura',
+        'url' => 'http://url.com',
+        'img' => 'mec.png'
+    ),
+    array(
+        'alt' => 'Universidad de la Empresa',
+        'url' => 'http://url.com',
+        'img' => 'ude.png'
+    ),
+    array(
+        'alt' => 'Escuela de Sistemas y Tecnologías BIOS',
+        'url' => 'http://url.com',
+        'img' => 'bios.png'
+    )
+);  

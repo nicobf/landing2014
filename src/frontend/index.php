@@ -144,6 +144,43 @@
             ?>
         	</div>
 
+        	
+
+        	<h1>Apoyan en la Comunicación</h1>
+
+	        <div class="center clearfix">
+            <?php 
+            $i = 1;
+            foreach ($apoyan as $sponsor):
+                if($i==1){
+                    $css = 'alpha';
+                } elseif ($i == 2){
+                    $css = '';
+                } elseif ($i == 3){
+                    $css = '';
+                } else {
+                    $css = 'omega';
+                }
+                if(!is_file('./assets/images/2014/landing/sponsors/'.$sponsor['img'])){
+                    $sponsor['img'] = 'default.png';
+                }
+            ?>
+            <div class="four columns sponsor <?= $css ?>">
+                <a href="<?= $sponsor['url'];?>?ref=techmeetup.uy" target="_blank">
+                    <img src="assets/images/2014/landing/sponsors/<?= $sponsor['img'];?>" alt="<?= $sponsor['alt'];?>">
+                </a>
+                
+            </div>
+            <?php
+                
+                if($i == 4){
+                    $i=0;
+                }
+                $i++;
+            endforeach;
+            ?>
+        	</div>
+
 	    </section>
 	</div>
 
