@@ -94,7 +94,7 @@
 
 	
 
-	<div class="orange-wrapper">
+	<div class="yellow-wrapper">
 		<div class="container container-with-margin" id="compra">
 		    <section class="sixteen columns compra clearfix">
 
@@ -102,14 +102,28 @@
 		        <p>Reservá tu lugar en la TechMeetup 2014 ahora!</p>
 		        
 				<br>
-				
-		        <a class="eventbrite-button" href="http://bit.ly/techmeetup-entrada-2014" target="_blank">
-		        	<img src="/assets/images/2014/landing/eventbrite_logo.png" alt="">
-		        </a>
 
-		        <p>
-		        	<img src="/assets/images/2014/landing/credit_cards.png" alt="">
-		        </p>		        
+				<div style="width:100%; text-align:left;height:300px" >
+					
+					<iframe style="position: relative!important;" src="//eventbrite.com/tickets-external?eid=12222121695&ref=etckt" 
+						frameborder="0" 
+						height="247" 
+						width="100%" 
+						vspace="0" 
+						hspace="0" 
+						marginheight="5" 
+						marginwidth="5" 
+						scrolling="auto" 
+						allowtransparency="true" >
+					</iframe>
+
+				</div>
+
+				<div style="font-size:15px; padding:5px 0 5px; margin:2px; width:100%; text-align:center;" >
+					<a style="color:black; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Venta de entradas en línea</a> <span style="color:black;">a través de</span> <a style="color:black; text-decoration:none;font-weight:bold;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a>
+				</div>
+
+				<br>
 
 		    </section>
 		</div>
