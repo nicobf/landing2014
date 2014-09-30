@@ -110,6 +110,12 @@ $sponsors =  array(
         'type' => 'blue'
     ),
     array(
+        'alt' => 'Intraway Corporation',
+        'url' => 'http://www.intraway.com/',
+        'img' => 'intraway.png',
+        'type' => 'blue'
+    ),
+    array(
         'alt' => 'El Pais',
         'url' => 'http://www.elpais.com.uy/',
         'img' => 'elpais.png',
