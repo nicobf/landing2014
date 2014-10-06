@@ -116,6 +116,12 @@ $sponsors =  array(
         'type' => 'blue'
     ),
     array(
+        'alt' => 'Vivid Cortex',
+        'url' => 'https://vividcortex.com/',
+        'img' => 'vivid.png',
+        'type' => 'blue'
+    ),
+    array(
         'alt' => 'El Pais',
         'url' => 'http://www.elpais.com.uy/',
         'img' => 'elpais.png',
