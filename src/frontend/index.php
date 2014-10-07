@@ -55,7 +55,9 @@
 	                </div>
 	                
 	                <div class="header-button five columns omega" >
-	                    <a href="http://vimeo.com/97064014" target="_blank" class="btn btn-blue video-trigger">Ver video Edición 2013</a>
+	                    <a href="http://vimeo.com/97064014" target="_blank">
+	                    	<img src="/assets/images/2014/landing/compra_ahora.png" alt="">
+	                    </a>
 	                </div>
 	            </div>
 	        </div>
@@ -90,6 +92,43 @@
 	</div><!-- container -->
 
 
+	
+
+	<div class="yellow-wrapper">
+		<div class="container container-with-margin" id="compra">
+		    <section class="sixteen columns compra clearfix">
+
+		        <h1>Comprá tu Entrada</h1>
+		        <p>Reservá tu lugar en la TechMeetup 2014 ahora!</p>
+		        
+				<br>
+
+				<div style="width:100%; text-align:left;height:300px" >
+					
+					<iframe style="position: relative!important;" src="//eventbrite.com/tickets-external?eid=12222121695&ref=etckt" 
+						frameborder="0" 
+						height="247" 
+						width="100%" 
+						vspace="0" 
+						hspace="0" 
+						marginheight="5" 
+						marginwidth="5" 
+						scrolling="auto" 
+						allowtransparency="true" >
+					</iframe>
+
+				</div>
+
+				<div style="font-size:15px; padding:5px 0 5px; margin:2px; width:100%; text-align:center;" >
+					<a style="color:black; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Venta de entradas en línea</a> <span style="color:black;">a través de</span> <a style="color:black; text-decoration:none;font-weight:bold;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a>
+				</div>
+
+				<br>
+
+		    </section>
+		</div>
+	</div>
+
 
 
 
@@ -97,17 +136,9 @@
 	    <section class="sixteen columns sponsors clearfix">
 
 	        <h1 >Sponsors</h1>
-	        <p>techMeetupUY es posible gracias a nuestros increíbles sponsors. Estamos muy agradecidos a cada una de las empresas que han apoyado y ayudado a hacer esta conferencia posible. Únete a nosotros y potencia la comunidad IT de Uruguay.</p>
-			
-			<a id="sponsors-pdf" href="docs/tech.meetup.uy.sponsors.v2014.pdf" target="_blank">
-				<img src="assets/images/2014/landing/sponsors.png" alt="">
-			</a>
-
-			<div class="clear"></div>
-
-	        <div class="center clearfix">
-	            <h2>Si querés apoyar la conferencia contáctanos a <a href="mailto:info@meetup.uy">info@meetup.uy</a></h2>
-	        </div>
+	        <p>TechMeetupUY es posible gracias a nuestros increíbles sponsors. Estamos muy agradecidos a cada una de las empresas que han apoyado y ayudado a hacer esta conferencia posible. Únete a nosotros y potencia la comunidad IT de Uruguay.</p>
+	            <h2><a id="sponsors-pdf" href="docs/tech.meetup.uy.sponsors.v2014.pdf" target="_blank">Descarga el documento con los paquetes de apoyo</a></h2>
+	            <p>Estamos abiertos a otras formas de apoyo, envíanos tu idea a <a href="mailto:info@meetup.uy">info@meetup.uy</a></p>
 
 	        <h1>Apoyan</h1>
 

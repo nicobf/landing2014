@@ -46,7 +46,9 @@ header{
 .header-event{
   z-index:1000;
   position: absolute;
-  bottom: 180px;
+  // bottom: 180px;
+  bottom: 130px;
+  left: 40px;
   color: white;
   margin-bottom: 40px;
 
@@ -81,14 +83,14 @@ header{
   }
 
   .header-button{
-    text-align: left;
-    margin-top: 5px;
+    img{
+      @include simple-animation(.4s);
+      @include opacity(1); 
 
-    .btn{
-      display: inline-block;
-      padding: 10px 13px 13px 13px;
-      font-size: 24px;
-      letter-spacing: -0.05em;
+      &:hover{
+         
+        @include opacity(.8);
+      }  
     }
   }
 }
@@ -189,6 +191,53 @@ section{
       width: 230px;
       font-size: 26px;
       display: inline-block;
+    }
+
+    margin-bottom: 30px;
+  }
+
+  &.compra{
+
+    text-align: center;
+
+    h1{
+      margin-top: 50px;
+      margin-bottom: 40px;
+      color: black;
+    }
+
+    h2{
+      margin-bottom: 55px;
+      color: black;
+    }
+
+    p{
+      color: black;
+      font-size: 16px;
+
+      img{
+        max-width: 100%;
+      }
+    }
+
+    a{
+      color: $color_green;
+    }
+
+    .eventbrite-button{
+      display: block;
+      margin-bottom: 50px;
+
+      img{
+        width: 50%;
+        height: auto;
+        @include simple-animation(.5s);
+        @include opacity(.7);
+
+        &:hover{
+          @include opacity(1);  
+        }
+      }
     }
 
     margin-bottom: 30px;
@@ -313,11 +362,13 @@ section{
   }
 }
 
-.blue-wrapper   { background: $color_blue;   }
-.green-wrapper  { background: $color_green;  }
-.yellow-wrapper { background: $color_yellow; }
-.silver-wrapper { background: #eee;          }
-.white-wrapper  { background: white;         }
+.blue-wrapper   { background: $color_blue;        }
+.green-wrapper  { background: $color_green;       }
+.yellow-wrapper { background: $color_yellow;      }
+.silver-wrapper { background: #eee;               }
+.white-wrapper  { background: white;              }
+.orange-wrapper { background: $eventbrite_color;  }
+
 .wrapper-2013   { 
   background: url(/assets/images/2013.jpg) no-repeat; 
   height: 540px; 
