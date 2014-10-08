@@ -331,6 +331,12 @@
 					<a href="http://twitter.com/martinloy" target="_blank">@martinloy</a>
 				</div>
 
+				<div class="one-third column organizer">
+		    		<img src="assets/images/2014/landing/organizers/fabian.jpg" alt="Martín Loy">
+					<h4>Fabián Fernandez</h4>
+					<a href="http://twitter.com/fabifernandez23" target="_blank">@fabifernandez23</a>
+				</div>
+
 				<div class="one-third column organizer omega">
 		    		<img src="assets/images/2014/landing/organizers/nicolasb.jpg" alt="Nicolás Bianchi">
 					<h4>Nicolás Bianchi</h4>
