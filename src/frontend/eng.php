@@ -181,6 +181,45 @@
             ?>
         	</div>
 
+
+
+        	<h1>Support in Communication</h1>
+
+	        <div class="center clearfix">
+            <?php 
+            $i = 1;
+            foreach ($apoyan as $apoya):
+                if($i==1){
+                    $css = 'alpha';
+                } elseif ($i == 2){
+                    $css = '';
+                } elseif ($i == 3){
+                    $css = '';
+                } else {
+                    $css = 'omega';
+                }
+                if(!is_file('./assets/images/2014/landing/apoya/'.$apoya['img'])){
+                    $apoya['img'] = 'default.jpg';
+                }
+            ?>
+            <div class="four columns apoya <?= $css ?>">
+                <a href="<?= $apoya['url'];?>?ref=techmeetup.uy" target="_blank">
+                    <img src="assets/images/2014/landing/apoya/<?= $apoya['img'];?>" alt="<?= $apoya['alt'];?>">
+                </a>
+                
+            </div>
+            <?php
+                
+                if($i == 4){
+                    $i=0;
+                }
+                $i++;
+            endforeach;
+            ?>
+        	</div>
+
+        	<br><br>
+
 	    </section>
 	</div>
 

@@ -182,7 +182,7 @@
 	        <div class="center clearfix">
             <?php 
             $i = 1;
-            foreach ($apoyan as $sponsor):
+            foreach ($apoyan as $apoya):
                 if($i==1){
                     $css = 'alpha';
                 } elseif ($i == 2){
@@ -192,13 +192,13 @@
                 } else {
                     $css = 'omega';
                 }
-                if(!is_file('./assets/images/2014/landing/sponsors/'.$sponsor['img'])){
-                    $sponsor['img'] = 'default.png';
+                if(!is_file('./assets/images/2014/landing/apoya/'.$apoya['img'])){
+                    $apoya['img'] = 'default.jpg';
                 }
             ?>
-            <div class="four columns sponsor <?= $css ?>">
-                <a href="<?= $sponsor['url'];?>?ref=techmeetup.uy" target="_blank">
-                    <img src="assets/images/2014/landing/sponsors/<?= $sponsor['img'];?>" alt="<?= $sponsor['alt'];?>">
+            <div class="four columns apoya <?= $css ?>">
+                <a href="<?= $apoya['url'];?>?ref=techmeetup.uy" target="_blank">
+                    <img src="assets/images/2014/landing/apoya/<?= $apoya['img'];?>" alt="<?= $apoya['alt'];?>">
                 </a>
                 
             </div>
@@ -211,6 +211,8 @@
             endforeach;
             ?>
         	</div>
+
+        	<br><br>
 
 	    </section>
 	</div>

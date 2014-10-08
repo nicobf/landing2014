@@ -158,52 +158,52 @@ $sponsors =  array(
 $apoyan =  array(
     array(
         'alt' => 'Universidad de Montevideo',
-        'url' => 'http://url.com',
-        'img' => 'universidad_montevideo.png'
+        'url' => 'http://www.um.edu.uy/',
+        'img' => 'universidad_montevideo.jpg'
     ),
     array(
         'alt' => 'Universidad ORT',
-        'url' => 'http://url.com',
-        'img' => 'universidad_ort.png'
+        'url' => 'http://www.ort.edu.uy/',
+        'img' => 'universidad_ort.jpg'
     ),
     array(
         'alt' => 'Universidad Católica del Uruguay',
-        'url' => 'http://url.com',
-        'img' => 'universidad_catolica.png'
+        'url' => 'http://www.ucu.edu.uy/',
+        'img' => 'universidad_catolica.jpg'
     ),
     array(
         'alt' => 'Montevideo Valley',
-        'url' => 'http://url.com',
-        'img' => 'montevideo_valley.png'
+        'url' => 'http://montevideovalley.uy/',
+        'img' => 'montevideo_valley.jpg'
     ),
     array(
         'alt' => 'Cuti',
-        'url' => 'http://url.com',
-        'img' => 'cuti.png'
+        'url' => 'http://www.cuti.org.uy/',
+        'img' => 'cuti.jpg'
     ),
     array(
         'alt' => 'Facultad de Ingeniería',
-        'url' => 'http://url.com',
-        'img' => 'facultad_ingenieria.png'
+        'url' => 'http://www.fing.edu.uy/',
+        'img' => 'facultad_ingenieria.jpg'
     ),
     array(
         'alt' => 'Empower U',
-        'url' => 'http://url.com',
-        'img' => 'empower_u.png'
+        'url' => 'http://www.empower.edu.uy/',
+        'img' => 'empower_u.jpg'
     ),
     array(
         'alt' => 'Ministerio de Educación y Cultura',
-        'url' => 'http://url.com',
-        'img' => 'mec.png'
+        'url' => 'http://www.mec.gub.uy/',
+        'img' => 'mec.jpg'
     ),
     array(
         'alt' => 'Universidad de la Empresa',
-        'url' => 'http://url.com',
-        'img' => 'ude.png'
+        'url' => 'http://ude.edu.uy/',
+        'img' => 'ude.jpg'
     ),
     array(
         'alt' => 'Escuela de Sistemas y Tecnologías BIOS',
-        'url' => 'http://url.com',
-        'img' => 'bios.png'
+        'url' => 'http://www.biosportal.com/sistemas_tecnologias/',
+        'img' => 'bios.jpg'
     )
 );  

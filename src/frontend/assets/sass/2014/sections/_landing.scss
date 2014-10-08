@@ -359,6 +359,30 @@ section{
         }
       }
     }
+
+    .apoya{
+      margin-bottom: 20px;
+
+      a{
+        display: block;
+        cursor: pointer;
+      }
+      
+      img{
+        cursor: pointer;
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        will-change: opacity;
+        @include opacity(1);
+        @include border-radius(3px);
+        @include simple-animation(.3s);
+
+        &:hover{
+          @include opacity(0.5);  
+        }
+      }
+    }
   }
 }
 
