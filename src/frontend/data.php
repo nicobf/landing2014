@@ -215,60 +215,36 @@ $apoyan =  array(
 $speakers =  array(
     array(
     	'flag' 		=> 'uy',
-    	'name' 		=> 'Santiago Camelo 1',
-    	'title' 	=> 'Director of Technology Microsoft Latin America',
-    	'picture'   => 'santiagocamelo.jpg',
-        'twitter' 	=> 'trikanna',
-        'linkedin' 	=> 'http://uy.linkedin.com/pub/santiago-camelo/14/143/846'
+    	'name' 		=> 'Alvaro Videla',
+    	'title' 	=> 'Developer Advocate para RabbitMQ / Pivotal',
+    	'picture'   => 'alvaro.jpg',
+        'twitter' 	=> 'old_sound',
+        'linkedin' 	=> 'https://www.linkedin.com/in/alvarovidela'
     ),
 
     array(
-    	'flag' 		=> 'ar',
-    	'name' 		=> 'Speaker Name 2',
-    	'title' 	=> 'Speaker Description',
-    	'picture'   => '',
-        'twitter' 	=> 'speaker',
-        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    	'flag' 		=> 'uy',
+    	'name' 		=> 'Victoria Alonsoperez',
+    	'title' 	=> 'Co-Founder IEETECH, co-Chair @SGAC, Electronic Engineer, Entrepreneur, Space Geek',
+    	'picture'   => 'victoria.jpg',
+        'twitter' 	=> 'vic_alonsoperez',
+        'linkedin' 	=> 'http://uy.linkedin.com/pub/victoria-alonsoperez/18/91/a43'
     ),
     array(
-    	'flag' 		=> 'us',
-    	'name' 		=> 'Speaker Name 3',
-    	'title' 	=> 'Director of Technology Microsoft Latin America And Latam Agencies with Very Long Title',
-    	'picture'   => '',
-        'twitter' 	=> 'speaker',
-        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    	'flag' 		=> 'uy',
+    	'name' 		=> 'Guillermo Moncecchi',
+    	'title' 	=> 'Investigador en Procesamiento de Lenguaje Natural y Machine Learning en la <a href="http://www.universidad.edu.uy/">UDELAR</a> y en <a href="https://twitter.com/pedeciba">@pedeciba</a>.',
+    	'picture'   => 'guillermo.jpg',
+        'twitter' 	=> 'gmonce',
+        'linkedin' 	=> ''
     ),
     array(
-    	'flag' 		=> 'ca',
-    	'name' 		=> 'Speaker Name 4',
-    	'title' 	=> 'Speaker Description',
-    	'picture'   => '',
-        'twitter' 	=> 'speaker',
-        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    	'flag' 		=> 'uy',
+    	'name' 		=> 'Diego Cibils',
+    	'title' 	=> 'Fundador de <a href="http://konacloud.io/" target="_blank">KonaCloud</a>',
+    	'picture'   => 'diego.jpg',
+        'twitter' 	=> 'aspekt',
+        'linkedin' 	=> 'http://www.linkedin.com/in/diegocibils'
     ),
-    array(
-    	'flag' 		=> 'es',
-    	'name' 		=> 'Speaker Name 5',
-    	'title' 	=> 'Speaker Description',
-    	'picture'   => '',
-        'twitter' 	=> 'speaker',
-        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
-    ),
-    array(
-    	'flag' 		=> 'ar',
-    	'name' 		=> 'Speaker Name',
-    	'title' 	=> 'Speaker Description',
-    	'picture'   => '',
-        'twitter' 	=> 'speaker',
-        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
-    ),
-    array(
-    	'flag' 		=> 'ar',
-    	'name' 		=> 'Speaker Name',
-    	'title' 	=> 'Speaker Description',
-    	'picture'   => '',
-        'twitter' 	=> 'speaker',
-        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
-    )
 
 );  
