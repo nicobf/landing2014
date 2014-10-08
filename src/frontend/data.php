@@ -152,3 +152,58 @@ $sponsors =  array(
         'type' => 'blue'
     )
 );  
+
+
+
+$apoyan =  array(
+    array(
+        'alt' => 'Universidad de Montevideo',
+        'url' => 'http://www.um.edu.uy/',
+        'img' => 'universidad_montevideo.jpg'
+    ),
+    array(
+        'alt' => 'Universidad ORT',
+        'url' => 'http://www.ort.edu.uy/',
+        'img' => 'universidad_ort.jpg'
+    ),
+    array(
+        'alt' => 'Universidad Católica del Uruguay',
+        'url' => 'http://www.ucu.edu.uy/',
+        'img' => 'universidad_catolica.jpg'
+    ),
+    array(
+        'alt' => 'Montevideo Valley',
+        'url' => 'http://montevideovalley.uy/',
+        'img' => 'montevideo_valley.jpg'
+    ),
+    array(
+        'alt' => 'Cuti',
+        'url' => 'http://www.cuti.org.uy/',
+        'img' => 'cuti.jpg'
+    ),
+    array(
+        'alt' => 'Facultad de Ingeniería',
+        'url' => 'http://www.fing.edu.uy/',
+        'img' => 'facultad_ingenieria.jpg'
+    ),
+    array(
+        'alt' => 'Empower U',
+        'url' => 'http://www.empower.edu.uy/',
+        'img' => 'empower_u.jpg'
+    ),
+    array(
+        'alt' => 'Ministerio de Educación y Cultura',
+        'url' => 'http://www.mec.gub.uy/',
+        'img' => 'mec.jpg'
+    ),
+    array(
+        'alt' => 'Universidad de la Empresa',
+        'url' => 'http://ude.edu.uy/',
+        'img' => 'ude.jpg'
+    ),
+    array(
+        'alt' => 'Escuela de Sistemas y Tecnologías BIOS',
+        'url' => 'http://www.biosportal.com/sistemas_tecnologias/',
+        'img' => 'bios.jpg'
+    )
+);  
