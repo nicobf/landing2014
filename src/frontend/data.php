@@ -207,3 +207,68 @@ $apoyan =  array(
         'img' => 'bios.jpg'
     )
 );  
+
+
+
+
+
+$speakers =  array(
+    array(
+    	'flag' 		=> 'uy',
+    	'name' 		=> 'Santiago Camelo 1',
+    	'title' 	=> 'Director of Technology Microsoft Latin America',
+    	'picture'   => 'santiagocamelo.jpg',
+        'twitter' 	=> 'trikanna',
+        'linkedin' 	=> 'http://uy.linkedin.com/pub/santiago-camelo/14/143/846'
+    ),
+
+    array(
+    	'flag' 		=> 'ar',
+    	'name' 		=> 'Speaker Name 2',
+    	'title' 	=> 'Speaker Description',
+    	'picture'   => '',
+        'twitter' 	=> 'speaker',
+        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    ),
+    array(
+    	'flag' 		=> 'us',
+    	'name' 		=> 'Speaker Name 3',
+    	'title' 	=> 'Director of Technology Microsoft Latin America And Latam Agencies with Very Long Title',
+    	'picture'   => '',
+        'twitter' 	=> 'speaker',
+        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    ),
+    array(
+    	'flag' 		=> 'ca',
+    	'name' 		=> 'Speaker Name 4',
+    	'title' 	=> 'Speaker Description',
+    	'picture'   => '',
+        'twitter' 	=> 'speaker',
+        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    ),
+    array(
+    	'flag' 		=> 'es',
+    	'name' 		=> 'Speaker Name 5',
+    	'title' 	=> 'Speaker Description',
+    	'picture'   => '',
+        'twitter' 	=> 'speaker',
+        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    ),
+    array(
+    	'flag' 		=> 'ar',
+    	'name' 		=> 'Speaker Name',
+    	'title' 	=> 'Speaker Description',
+    	'picture'   => '',
+        'twitter' 	=> 'speaker',
+        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    ),
+    array(
+    	'flag' 		=> 'ar',
+    	'name' 		=> 'Speaker Name',
+    	'title' 	=> 'Speaker Description',
+    	'picture'   => '',
+        'twitter' 	=> 'speaker',
+        'linkedin' 	=> 'http://uy.linkedin.com/pub/speaker'
+    )
+
+);  
