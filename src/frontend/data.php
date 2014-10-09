@@ -225,7 +225,7 @@ $speakers =  array(
     array(
     	'flag' 		=> 'uy',
     	'name' 		=> 'Victoria Alonsoperez',
-    	'title' 	=> 'Co-Founder IEETECH, co-Chair @SGAC, Electronic Engineer, Entrepreneur, Space Geek',
+    	'title' 	=> 'Co-Founder IEETECH, co-Chair <a href="https://twitter.com/SGAC" target="_blank">@SGAC</a>, Electronic Engineer, Entrepreneur, Space Geek',
     	'picture'   => 'victoria.jpg',
         'twitter' 	=> 'vic_alonsoperez',
         'linkedin' 	=> 'http://uy.linkedin.com/pub/victoria-alonsoperez/18/91/a43'
@@ -233,7 +233,7 @@ $speakers =  array(
     array(
     	'flag' 		=> 'uy',
     	'name' 		=> 'Guillermo Moncecchi',
-    	'title' 	=> 'Investigador en Procesamiento de Lenguaje Natural y Machine Learning en la <a href="http://www.universidad.edu.uy/">UDELAR</a> y en <a href="https://twitter.com/pedeciba">@pedeciba</a>.',
+    	'title' 	=> 'Investigador en Procesamiento de Lenguaje Natural y Machine Learning en la <a href="http://www.universidad.edu.uy/" target="_blank">UDELAR</a> y en <a href="https://twitter.com/pedeciba" target="_blank">@pedeciba</a>.',
     	'picture'   => 'guillermo.jpg',
         'twitter' 	=> 'gmonce',
         'linkedin' 	=> ''

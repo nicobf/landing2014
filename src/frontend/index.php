@@ -136,8 +136,8 @@
             endforeach;
             ?>
 
-
         </div>
+        <br>
     </div>
 	
 

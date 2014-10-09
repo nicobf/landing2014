@@ -183,6 +183,15 @@ header{
         line-height: 15px;
         color: white;
         height: 45px;
+
+        a{
+          color: $color_yellow;
+          text-decoration: none;
+
+          &:hover{
+            color: $color_green;
+          }
+        }
       }
     }
 
