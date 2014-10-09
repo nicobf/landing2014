@@ -1,4 +1,7 @@
 <?php
+
+$default_tracking = 'utm_source=tech.meetup.uy&utm_medium=web&utm_campaign=landing2014';
+
 $sponsors =  array(
     array(
         'alt' => 'CASE',
@@ -119,7 +122,8 @@ $sponsors =  array(
         'alt' => 'Vivid Cortex',
         'url' => 'https://vividcortex.com/',
         'img' => 'vivid.png',
-        'type' => 'blue'
+        'type' => 'blue',
+        'tracking' => 'utm_source=conf&utm_medium=tm'
     ),
     array(
         'alt' => 'Percona',
