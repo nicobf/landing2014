@@ -123,7 +123,7 @@ $sponsors =  array(
         'url' => 'https://vividcortex.com/',
         'img' => 'vivid.png',
         'type' => 'blue',
-        'tracking_link' => 'utm_source=conf&utm_medium=tm'
+        'tracking' => 'utm_source=conf&utm_medium=tm'
     ),
     array(
         'alt' => 'Percona',
