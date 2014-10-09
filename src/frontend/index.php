@@ -280,7 +280,7 @@
 
 	        <section class="sixteen columns anterior clearfix">
 
-	            <h1 id="speakers">Lo que pasó en <a href="http://tech.meetup.uy/v2013/" target="_blank">2013 <span>ver</span></a></h1>
+	            <h1>Lo que pasó en <a href="http://tech.meetup.uy/v2013/" target="_blank">2013 <span>ver</span></a></h1>
 
 	            <p>La edición anterior fué un éxito rotundo, nos acompañaron más de <strong>320 personas</strong> provenientes de diferentes rubros relacionados con Tecnología. Tuvimos un track con 
 	            <strong>10 charlas</strong>, ejecutadas por <strong>11 excelentes oradores</strong>. En paralelo al track principal, las diferentes comunidades realizaron <strong>6 workshops</strong> que fueron un éxito en asistencia. Por último y no menos importantes nos apoyaron <strong>28 empresas</strong> a las cuales les debemos la realización de esta conferencia.</p>
