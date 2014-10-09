@@ -120,7 +120,7 @@
 				</div>
 
 				<div style="font-size:15px; padding:5px 0 5px; margin:2px; width:100%; text-align:center;" >
-					<a style="color:black; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Venta de entradas en línea</a> <span style="color:black;">a través de</span> <a style="color:black; text-decoration:none;font-weight:bold;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a>
+					<a style="color:black; text-decoration:none;" target="_blank" href="http://bit.ly/techmeetup14-beca">Si sos estudiante y querés solicitar una beca hace click <strong>aquí</strong></a> 
 				</div>
 
 				<br>
