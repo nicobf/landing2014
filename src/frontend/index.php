@@ -110,12 +110,13 @@
 
 
             <div class="four columns speaker <?= $css ?>">
-                
+                <?php if($speaker['twitter'] != ''){ ?>
                 <div class="handle twitter">
                 	<a href="https://twitter.com/<?= $speaker['twitter'];?>" target="_blank">
                 		<img src="/assets/images/2014/landing/speakers/handle_twitter.png" alt="">	
                 	</a>
                 </div>
+                <?php } ?>
                 <?php if ($speaker['linkedin'] != '') { ?>
                 <div class="handle linkedin">
                 	<a href="<?= $speaker['linkedin'];?>" target="_blank">
@@ -125,8 +126,12 @@
                 <?php } ?>
                 <img class="avatar" src="assets/images/2014/landing/speakers/<?= $speaker['picture'];?>">
                 
+                
                 <div class="speaker-info">
-                	<img src="/assets/images/2014/landing/speakers/flags/<?= $speaker['flag'];?>.png"><?= $speaker['name'];?>
+                	<?php if($speaker['flag'] != ''){ ?>
+                		<img src="/assets/images/2014/landing/speakers/flags/<?= $speaker['flag'];?>.png">
+                	<?php } ?>
+                	<?= $speaker['name'];?>
                 	<p><?= $speaker['title'];?></p>
                 </div>
                 

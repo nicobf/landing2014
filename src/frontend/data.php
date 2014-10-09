@@ -246,5 +246,13 @@ $speakers =  array(
         'twitter' 	=> 'aspekt',
         'linkedin' 	=> 'http://www.linkedin.com/in/diegocibils'
     ),
+     array(
+        'flag'      => '',
+        'name'      => 'Próximamente...',
+        'title'     => 'más anuncios.',
+        'picture'   => '',
+        'twitter'   => '',
+        'linkedin'  => ''
+    ),
 
 );  
