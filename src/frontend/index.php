@@ -299,19 +299,21 @@
 	    	
 	    	<div class="center clearfix">
 		    	
-		    	<div class="one-third column organizer alpha">
+		    	<div class="two columns organizer alpha"><!-- placeholder --></div>
+
+		    	<div class="four columns organizer ">
     	    		<img src="assets/images/2014/landing/organizers/diego_sapriza.jpg" alt="Diego Sapriza">
     				<h4>Diego Sapriza</h4>
     				<a href="http://twitter.com/AV4TAr" target="_blank">@AV4TAr</a>
 				</div>
 				
-				<div class="one-third column organizer">
+				<div class="four columns organizer">
 		    		<img src="assets/images/2014/landing/organizers/gustavo_armagno.jpg" alt="Gustavo Armagno">
 					<h4>Gustavo Armagno</h4>
 					<a href="http://twitter.com/GustavoArmagno" target="_blank">@GustavoArmagno</a>
 				</div>
 				
-				<div class="one-third column organizer omega">
+				<div class="four columns organizer omega">
 		    		<img src="assets/images/2014/landing/organizers/nacho_nin.jpg" alt="Ignacio Nin">
 					<h4>Ignacio Nin</h4>
 					<a href="http://twitter.com/nachexnachex" target="_blank">@nachexnachex</a>
@@ -319,25 +321,27 @@
 
 				<div class="clear"></div>
 				
-				<div class="one-third column organizer alpha">
+				<br>
+				
+				<div class="four columns organizer alpha">
 		    		<img src="assets/images/2014/landing/organizers/martinc.jpg" alt="Martín Cabrera">
 					<h4>Martín Cabrera</h4>
 					<a href="http://twitter.com/murtun" target="_blank">@murtun</a>
 				</div>
 
-				<div class="one-third column organizer">
+				<div class="four columns organizer">
 		    		<img src="assets/images/2014/landing/organizers/martin_loy.jpg" alt="Martín Loy">
 					<h4>Martín Loy</h4>
 					<a href="http://twitter.com/martinloy" target="_blank">@martinloy</a>
 				</div>
 
-				<div class="one-third column organizer">
+				<div class="four columns organizer">
 		    		<img src="assets/images/2014/landing/organizers/fabian.jpg" alt="Martín Loy">
 					<h4>Fabián Fernandez</h4>
 					<a href="http://twitter.com/fabifernandez23" target="_blank">@fabifernandez23</a>
 				</div>
 
-				<div class="one-third column organizer omega">
+				<div class="four columns organizer omega">
 		    		<img src="assets/images/2014/landing/organizers/nicolasb.jpg" alt="Nicolás Bianchi">
 					<h4>Nicolás Bianchi</h4>
 					<a href="http://twitter.com/nicobf" target="_blank">@nicobf</a>
