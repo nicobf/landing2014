@@ -122,6 +122,12 @@ $sponsors =  array(
         'type' => 'blue'
     ),
     array(
+        'alt' => 'Percona',
+        'url' => 'http://www.percona.com',
+        'img' => 'percona.png',
+        'type' => 'blue'
+    ),
+    array(
         'alt' => 'El Pais',
         'url' => 'http://www.elpais.com.uy/',
         'img' => 'elpais.png',
