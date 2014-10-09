@@ -98,7 +98,7 @@
 	    <div class="container container-with-margins">
 	        
 	        <section class="sixteen columns speaker-list clearfix">
-	            <h1>Speakers</h1>
+	            <h1 id="speakers">Oradores</h1>
 	        </section>
 
             <?php 
@@ -269,51 +269,6 @@
         	<br><br>
 
 	    </section>
-	</div>
-
-
-
-
-	<div class="blue-wrapper" id="speakers">
-	    <div class="container container-with-margins">
-	        <section class="sixteen columns speakers clearfix">
-	            <h1>Oradores</h1>
-	            <h2>Tenés algo interesante que contar?</h2>
-	        </section>
-
-            <section class="sixteen columns speakers clearfix">
-            	<a class="btn btn-white" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?usp=drive_web&formkey=dFppcTdWNXczZFQtRXJMWnYyeHNqLUE6MA#gid=24" target="_blank">Inscribite</a>
-            	<br/><br/><br/>
-            </section>
-
-	        <section class="speakers-description clearfix">
-
-	            <div class="one-third column">
-	                <h3 class="color-white">Formato de las charlas</h3>
-	                <p>Nuestras charlas consisten en exposiciones de 30 minutos, mas una sesión de preguntas de la audiencia de entre 5 y 10 minutos.</p>
-	                <p>Presentamos charlas que, sin redundar demasiado en algún punto particular como para volverse pesadas, sean buenas introducciones o historias sobre una tecnología o metodología, que inspiren al participante a interesarse y profundizar en el tema por sí mismo.</p>
-	                <p>Creemos en que una charla debe ser un impulso, una invitación a aprender, y buscamos que las charlas sean vehículos de aprendizaje tanto para el participante como para el expositor.</p>
-	            </div>
-	            
-	            <div class="one-third column">
-	                <h3 class="color-white">Público objetivo</h3>
-	                <p>Tenemos un público muy amplio: profesionales de la industria TI, estudiantes de diverso origen, entusiastas del software y cultura.</p>
-	                <p>Buscamos charlas que sean disfrutadas por la mayor parte de nuestra audiencia, incluso cuando el tema propuesto no caiga directamente bajo las áreas de interés típicas.</p>
-	                <p>También buscamos la actualización del participante, y que el venir sea valedero año a año, lejos de ser algo repetitivo.</p>
-	                <p>Junto a los oradores, desde la organización buscamos un balance para la conferencia tomada en su conjunto, y lograr cumplir los objetivos de los participantes.</p>
-	            </div>
-	            <div class="one-third column">
-	                <h3 class="color-white">Presentando tus ideas</h3>
-	                <p>Si ya tenés una charla preparada, o una idea muy formada de qué charla te gustaría exponer, hacenos llegar tu propuesta en formato de una descripción corta.</p>
-	                <p>Si tenés una idea de qué te gustaría presentar, pero aún no sabés qué formato darle a la charla, ¡te podemos ayudar a darle forma! Escribinos una propuesta, sea directamente en el formulario o bien por correo a charlas@meetup.uy, y te daremos una mano para lograr una buena e interesante charla.</p>
-	                <p>Muchos de nuestros oradores se estrenaron como tales en ediciones anteriores de Tech Meetup. <i>Uno de nuestros objetivos es formar oradores locales</i>. Si tenés una idea para la charla pero te cuesta preparar tu primer charla, ¡envianos la propuesta y te ayudaremos a crearla!</p>
-	            </div>
-
-
-
-            </section>
-
-	    </div>
 	</div>
 
 
