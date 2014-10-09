@@ -214,7 +214,7 @@
                 }
             ?>
             <div class="one-third column sponsor <?= $css ?>">
-                <a href="<?= $sponsor['url'];?>?ref=techmeetup.uy" target="_blank">
+                <a href="<?= $sponsor['url'];?>?utm_source=tech.meetup.uy&utm_medium=web&utm_campaign=landing2014" target="_blank">
                     <img src="assets/images/2014/landing/sponsors/<?= $sponsor['img'];?>" alt="<?= $sponsor['alt'];?>">
                 </a>
                 <div class="sponsor-type sponsor-type-<?= $sponsor['type'];?>">
@@ -253,7 +253,7 @@
                 }
             ?>
             <div class="four columns apoya <?= $css ?>">
-                <a href="<?= $apoya['url'];?>?ref=techmeetup.uy" target="_blank">
+                <a href="<?= $apoya['url'];?>?utm_source=tech.meetup.uy&utm_medium=web&utm_campaign=landing2014" target="_blank">
                     <img src="assets/images/2014/landing/apoya/<?= $apoya['img'];?>" alt="<?= $apoya['alt'];?>">
                 </a>
                 
