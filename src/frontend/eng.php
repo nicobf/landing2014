@@ -98,7 +98,7 @@
 	    <div class="container container-with-margins">
 	        
 	        <section class="sixteen columns speaker-list clearfix">
-	            <h1>Speakers</h1>
+	            <h1 id="speakers">Speakers</h1>
 	        </section>
 
             <?php 
@@ -271,26 +271,6 @@
         	<br><br>
 
 	    </section>
-	</div>
-
-
-
-
-	<div class="yellow-wrapper" id="speakers">
-	    <div class="container container-with-margins">
-	        <section class="sixteen columns speakers clearfix">
-
-	            <h1>Speakers</h1>
-	            
-	            <div class="center clearfix">
-	                <h2>Do you have anything interesting to share?</h2>
-	                <a class="btn btn-white" href="https://docs.google.com/a/centra.com.uy/spreadsheet/viewform?usp=drive_web&formkey=dFppcTdWNXczZFQtRXJMWnYyeHNqLUE6MA#gid=24" target="_blank">Sign up</a>
-	            </div>
-
-	            <br/><br/>
-
-	        </section>
-	    </div>
 	</div>
 
 
