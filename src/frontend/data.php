@@ -32,7 +32,7 @@ $sponsors =  array(
     ),
     array(
         'alt' => 'Guruhub',
-        'url' => 'http://guruhub.com',
+        'url' => 'http://guruhub.com.uy',
         'img' => 'guruhub.png',
         'type' => 'blue'
     ),
