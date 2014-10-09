@@ -116,13 +116,13 @@
                 		<img src="/assets/images/2014/landing/speakers/handle_twitter.png" alt="">	
                 	</a>
                 </div>
-
+                <?php if ($speaker['linkedin'] != '') { ?>
                 <div class="handle linkedin">
                 	<a href="<?= $speaker['linkedin'];?>" target="_blank">
                 		<img src="/assets/images/2014/landing/speakers/handle_linkedin.png" alt="">	
                 	</a>
                 </div>
-
+                <?php } ?>
                 <img class="avatar" src="assets/images/2014/landing/speakers/<?= $speaker['picture'];?>">
                 
                 <div class="speaker-info">
