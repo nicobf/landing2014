@@ -69,6 +69,15 @@
 
 
 	<div class="container container-with-margin">
+      <section class="section-intro clearfix">
+        <h1 class="center">Ready for thirds?</h1>
+      </section>
+
+       <div class="sixteen columns">
+         <h4>A new edition of the meet-ups conference is coming, and we're ready to show you how <span class="color-blue">we've grown yet again this year</span>!</h4>
+         <h3><span class="color-blue">Friday the 14th: Workshops</span>&nbsp;Following the success of the workshops at the <b>v2013 edition</b>, this time we're doing a full day -- so to bring you <span class="color-blue">more quality and more dedication</span>.</h3>
+         <h3><span class="color-blue">Saturday the 15th: Talks track</span>&nbsp;Our standard talks track, always searching for <span class="color-blue">excellence in quality,</span> as you already know!</h3>
+       </div>
 	    <div class="sixteen columns">
 	        <section class="section-intro">
 	            <h1 class="sixteen columns alpha omega">Our objectives:</h1>
