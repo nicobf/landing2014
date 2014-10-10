@@ -1,4 +1,7 @@
 <?php
+
+$default_tracking = 'utm_source=tech.meetup.uy&utm_medium=web&utm_campaign=landing2014';
+
 $sponsors =  array(
     array(
         'alt' => 'CASE',
@@ -32,7 +35,7 @@ $sponsors =  array(
     ),
     array(
         'alt' => 'Guruhub',
-        'url' => 'http://guruhub.com',
+        'url' => 'http://guruhub.com.uy',
         'img' => 'guruhub.png',
         'type' => 'blue'
     ),
@@ -119,6 +122,13 @@ $sponsors =  array(
         'alt' => 'Vivid Cortex',
         'url' => 'https://vividcortex.com/',
         'img' => 'vivid.png',
+        'type' => 'blue',
+        'tracking' => 'utm_source=conf&utm_medium=tm'
+    ),
+    array(
+        'alt' => 'Percona',
+        'url' => 'http://www.percona.com',
+        'img' => 'percona.png',
         'type' => 'blue'
     ),
     array(
@@ -241,7 +251,7 @@ $speakers =  array(
     array(
     	'flag' 		=> 'uy',
     	'name' 		=> 'Diego Cibils',
-    	'title' 	=> 'Fundador de <a href="http://konacloud.io/" target="_blank">KonaCloud</a>',
+    	'title' 	=> 'Co-Fundador &amp; CEO de <a href="http://konacloud.io/" target="_blank">KONA Cloud</a>',
     	'picture'   => 'diego.jpg',
         'twitter' 	=> 'aspekt',
         'linkedin' 	=> 'http://www.linkedin.com/in/diegocibils'
