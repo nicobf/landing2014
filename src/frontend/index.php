@@ -69,6 +69,16 @@
 
 
 	<div class="container container-with-margin">
+      <section class="section-intro clearfix">
+        <h1 class="center">&iquest;Preparado para la tercera edici&oacute;n?</h1>
+      </section>
+
+       <div class="sixteen columns">
+         <h4>Se viene una nueva edici&oacute;n de la conferencia de meetups de Uruguay, y tenemos todo listo para mostrarte c&oacute;mo nuevamente <span class="color-blue">crecimos este a&ntilde;o</span>.</h4>
+         <h3><span class="color-blue">Viernes 14: Workshops</span>&nbsp;Tras el &eacute;xito de los workshops en la <b>v2013</b>, queremos dedicarle un d&iacute;a entero a esta modalidad de trabajo, para brindarte <span class="color-blue">mas cantidad y dedicaci&oacute;n</span>.</h3>
+         <h3><span class="color-blue">S&aacute;bado 15: Charlas</span>&nbsp;Nuestro tradicional track de charlas, siempre buscando la <span class="color-blue">excelente calidad</span> que conoc&eacute;s</h3>.
+       </div>
+    
 	    <div class="sixteen columns">
 	        <section class="section-intro">
 	            <h1 class="sixteen columns alpha omega">Nuestros objetivos:</h1>
