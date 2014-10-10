@@ -251,7 +251,7 @@ $speakers =  array(
     array(
     	'flag' 		=> 'uy',
     	'name' 		=> 'Diego Cibils',
-    	'title' 	=> 'Fundador de <a href="http://konacloud.io/" target="_blank">KonaCloud</a>',
+    	'title' 	=> 'Co-Fundador &amp; CEO de <a href="http://konacloud.io/" target="_blank">KONA Cloud</a>',
     	'picture'   => 'diego.jpg',
         'twitter' 	=> 'aspekt',
         'linkedin' 	=> 'http://www.linkedin.com/in/diegocibils'
