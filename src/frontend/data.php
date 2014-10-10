@@ -34,6 +34,30 @@ $sponsors =  array(
         'type' => 'green'
     ),
     array(
+        'alt' => 'Softlayer',
+        'url' => 'http://www.softlayer.com/',
+        'img' => 'softlayer.png',
+        'type' => 'green'
+    ),
+    array(
+        'alt' => 'Bluemix',
+        'url' => 'http://www.bluemix.net/',
+        'img' => 'bluemix.png',
+        'type' => 'green'
+    ),
+    array(
+        'alt' => 'Microsoft',
+        'url' => 'http://www.microsoft.com/',
+        'img' => 'microsoft.png',
+        'type' => 'green'
+    ),
+    array(
+        'alt' => 'TopTier Labs',
+        'url' => 'http://www.toptierlabs.com/',
+        'img' => 'toptier.png',
+        'type' => 'green'
+    ),
+    array(
         'alt' => 'Guruhub',
         'url' => 'http://guruhub.com.uy',
         'img' => 'guruhub.png',
@@ -129,6 +153,12 @@ $sponsors =  array(
         'alt' => 'Percona',
         'url' => 'http://www.percona.com',
         'img' => 'percona.png',
+        'type' => 'blue'
+    ),
+    array(
+        'alt' => 'Solcre',
+        'url' => 'http://www.solcre.com',
+        'img' => 'solcre.png',
         'type' => 'blue'
     ),
     array(
