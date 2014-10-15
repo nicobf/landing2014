@@ -28,7 +28,7 @@
 	            <ul class="thirteen columns omega">
 	                <li><a class="scrollable" href="#sponsors"      >Sponsors</a></li>
 	                <li><a class="scrollable" href="#speakers"      >Oradores</a></li>
-	                <li><a class="scrollable" href="#edicion2013"   >Ver Video</a></li>
+	                <li><a class="scrollable" href="#workshops"     >Workshops</a></li>
 	                <li><a class="scrollable" href="#organizadores" >Organiza</a></li>
 	                
 	                <li><a class="color-green" href="./v2013">v2013</a></li>
@@ -191,6 +191,181 @@
 
 		    </section>
 		</div>
+	</div>
+
+
+
+
+	<div class="white-wrapper">
+	<div class="container container-with-margin" id="workshops">
+	    <section class="sixteen columns workshops clearfix">
+
+	        <h1>Workshops</h1>
+	        <h3>Estos son los workshops que presentarán las diferentes <a href="http://meetup.uy" target="_blank">comunidades</a>.<br/>Serán sesiones técnicas de una hora,<br/>donde verás lo último en cada una de las disciplinas.</h3>
+			<h4>En breve te enterarás cómo podrás inscribirte. ¡SOLO <strong>30 cupos</strong> para cada workshop!</h4>
+
+			<br>
+
+			<div class="row">
+
+				<div class="eight columns alpha">
+
+					<div class="three columns alpha">
+						<img src="/assets/images/2014/landing/workshops/ruby.png" alt="">
+					</div>
+
+					<div class="five columns omega">
+						
+						<h3>Desarrollando una aplicación real con Ruby on Rails</h3>
+						
+						<div class="paragraph">
+							<p>Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby con <a href="http://rubyonrails.org/" target="_blank">Rails</a>.</p>
+							<p>A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad.</p>
+							<p>Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !</p>
+							
+							<p><strong>Requisitos</strong></p>
+
+							<ul>
+								<li>Experiencia en desarrollo web de 1-2 años.</li>
+								<li>No es necesario haber trabajado con Ruby</li>
+							</ul>
+
+							<ul class="inline unstyled">
+								<li><i class="icon-link"></i> <a href="http://ruby.meetup.uy" target="_blank">by Ruby MVD</a></li>
+							</ul>
+
+						</div>
+						<!-- .paragraph end -->
+
+					</div>
+
+				</div>
+
+
+
+				<div class="eight columns omega">
+					
+					<div class="three columns alpha">
+						<img src="/assets/images/2014/landing/workshops/php.png" alt="">
+					</div>
+
+					<div class="five columns omega">
+						<h3>Tranquilo, este cambio no debería de afectar nada.</h3>
+						
+						<div class="paragraph">
+							<p>La idea de este “espacio” es introducirnos en el universo de <a href="http://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank">BDD</a> y <a href="http://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a>  y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!!</p>
+							<p>Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado? Y en consecuencia mejorar la calidad de nuestro código.</p>
+							
+							<p><strong>Requisitos</strong></p>
+
+							<ul>
+								<li>Experiencia en desarrollo web de 1-2 años.</li>
+								<li>Notebook con:</li>
+								<ul>
+									<li>PHP 5.4.x</li>
+									<li><a href="http://getcomposer.org/" target="_blank">composer</a></li>
+									<li><a href="http://vagrantup.com/" target="_blank">Vagrant</a></li>
+								</ul>
+							</ul>
+
+							<ul class="inline unstyled">
+								<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
+								<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
+								<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">by PHP MVD</a></li>
+							</ul>
+						</div>
+						<!-- .paragraph end -->
+
+					</div>
+				</div>
+
+			</div>
+			<!-- row end -->
+
+			
+
+
+
+
+
+			<div class="row">
+
+				<div class="eight columns alpha">
+
+					<div class="three columns alpha">
+						<img src="/assets/images/2014/landing/workshops/mysql.png" alt="">
+					</div>
+
+					<div class="five columns omega">
+						
+						<h3>Desarrollando una aplicación real con Ruby on Rails</h3>
+						
+						<div class="paragraph">
+							<p>Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby con <a href="http://rubyonrails.org/" target="_blank">Rails</a>.</p>
+							<p>A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad.</p>
+							<p>Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !</p>
+							
+							<p><strong>Requisitos</strong></p>
+
+							<ul>
+								<li>Experiencia en desarrollo web de 1-2 años.</li>
+								<li>No es necesario haber trabajado con Ruby</li>
+							</ul>
+
+							<ul class="inline unstyled">
+								<li><i class="icon-link"></i> <a href="http://ruby.meetup.uy" target="_blank">by Ruby MVD</a></li>
+							</ul>
+						</div>
+						<!-- .paragraph end -->
+
+					</div>
+
+				</div>
+
+
+
+				<div class="eight columns omega">
+					
+					<div class="three columns alpha">
+						<img src="/assets/images/2014/landing/workshops/dotnet.png" alt="">
+					</div>
+
+					<div class="five columns omega">
+						<h3>Tranquilo, este cambio no debería de afectar nada.</h3>
+						
+						<div class="paragraph">
+							<p>La idea de este “espacio” es introducirnos en el universo de <a href="http://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank">BDD</a> y <a href="http://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a>  y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!!</p>
+							<p>Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar la calidad de nuestro código.</p>
+							
+							<p><strong>Requisitos</strong></p>
+
+							<ul>
+								<li>Experiencia en desarrollo web de 1-2 años.</li>
+								<li>Notebook con:</li>
+								<ul>
+									<li>PHP 5.4.x</li>
+									<li><a href="http://getcomposer.org/" target="_blank">composer</a></li>
+									<li><a href="http://vagrantup.com/" target="_blank">Vagrant</a></li>
+								</ul>
+							</ul>
+
+							<ul class="inline unstyled">
+								<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
+								<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
+								<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">by PHP MVD</a></li>
+							</ul>
+						</div>
+						<!-- .paragraph end -->
+
+					</div>
+				</div>
+
+			</div>
+			<!-- row end -->
+			
+
+	    </section>
+	</div>
 	</div>
 
 
