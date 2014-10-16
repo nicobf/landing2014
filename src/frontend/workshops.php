@@ -28,14 +28,16 @@ Este es el momento!
 No es necesario que sepas de Objective-C ni que conozcas cómo funciona el Xcode. 
 En el workshop iremos paso a paso, no sólo para aprender, sino también para 
 terminar creando tu primer app.',
-		'trainers' => 'Nicolás Alliaume, Diego Mazzone by AppleMVD meetup',
+		'trainers' => 'Nicolás Alliaume, Diego Mazzone by <a href="http://www.meetup.com/applemvd/">AppleMVD meetup</a>',
 		'reqs' => 'Es necesario traer una Mac, o juntarse con un compañero que tenga una, con el Xcode Instalado (versión 5.1.1 o superior). No es necesario tener conocimientos de Objective-C o C, pero sí de programación orientada a objetos.'
 	),
 	array(
 		'img' => 'arduino.png',
 		'titulo' => 'Introducción a Arduino.',
-		'descripcion' => 'Taller de introducción al Arduino donde los participantes aprenderán a trabajar con la placa Arduino, conocer el IDE y ejecutar ejemplos básicos usando diferente hardware. Además los participantes (con la ayuda de los docentes) deberán programar un juego usando la placa Arduino. Realizaremos una competencia final usando el juego desarrollado por los participantes.',
-		'trainers' => 'by MVDRobotics',
+		'descripcion' => 'Taller de introducción al Arduino donde los participantes aprenderán a trabajar con la placa Arduino, conocer el IDE y ejecutar ejemplos básicos usando diferente hardware. 
+
+		Además los participantes (con la ayuda de los docentes) deberán programar un juego usando la placa Arduino. Realizaremos una competencia final usando el juego desarrollado por los participantes.',
+		'trainers' => 'by <a href="http://www.mvdrobotics.com/">MVDRobotics</a>',
 		'reqs' => 'Nosotros nos encargamos! :) '
 	),
 	array(
@@ -46,7 +48,7 @@ terminar creando tu primer app.',
 - Línea de comandos con Nodejs, E/S sincrónica, asincrónica, EventLoop. 
 - Nodejs API y uso de módulos. Uso de Http cliente/servidor.
 - Crear un servidor con API en JSON.',
-		'trainers' => 'Martin Prunell, Pablo Ricco, Luis Cal y Pablo de Juan by MVDjs meetup',
+		'trainers' => 'Martin Prunell, Pablo Ricco, Luis Cal y Pablo de Juan by <a href="http://www.meetup.com/mvd-js/">MVDjs meetup</a>',
 		'reqs' => '- Nociones elementales de programación y de JavaScript. El taller será de enfoque netamente práctico orientado a principiantes en NodeJS.
 		- Se utilizará un programa de NodeJS para el taller y se requiere equipo propio, Linux, Mac o Windows. El material adicional se entregará en el taller.'
 	),
@@ -62,7 +64,7 @@ En esta charla introduciremos y exploraremos las herramientas que marcan una rea
 - Deployment con Capistrano, Capifony y similares
 
 Todas estas herramientas, además de consejos y trucos aprendidos a lo largo de años de experiencia harán de esta charla muy interesante para desarrolladores de diversos niveles.',
-		'trainers' => 'Pablo Godel, Ismael Abrosoli by PHPmvd meetup',
+		'trainers' => '<a href="https://twitter.com/pgodel">Pablo Godel</a> by <a href="http://phpmvd.uy">PHPmvd meetup</a>',
 		'reqs' => ''
 	),
 );
