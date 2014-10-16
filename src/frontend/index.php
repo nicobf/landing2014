@@ -74,7 +74,7 @@
       </section>
 
        <div class="sixteen columns">
-         <h4>Se viene una nueva edici&oacute;n de la conferencia de meetups de Uruguay, y tenemos todo listo para mostrarte c&oacute;mo nuevamente <span class="color-blue">crecimos este a&ntilde;o</span>.</h4>
+         <h4>Se viene una nueva edici&oacute;n de la TechMeetup, y tenemos todo listo para mostrarte c&oacute;mo nuevamente <span class="color-blue">crecimos este a&ntilde;o</span>.</h4>
          <h3><span class="color-blue">Viernes 14: Workshops</span>&nbsp;Tras el &eacute;xito de los workshops en la <b>v2013</b>, queremos dedicarle un d&iacute;a entero a esta modalidad de trabajo, para brindarte <span class="color-blue">mas cantidad y dedicaci&oacute;n</span>.</h3>
          <h3><span class="color-blue">S&aacute;bado 15: Charlas</span>&nbsp;Nuestro tradicional track de charlas, siempre buscando la <span class="color-blue">excelente calidad</span> que conoc&eacute;s</h3>.
        </div>
@@ -201,37 +201,40 @@
 	    <section class="sixteen columns workshops clearfix">
 
 	        <h1>Workshops</h1>
-	        <h3>Estos son los workshops que presentarán las diferentes <a href="http://meetup.uy" target="_blank">comunidades</a>.<br/>Serán sesiones técnicas de una hora,<br/>donde verás lo último en cada una de las disciplinas.</h3>
+	        <h3>Estos son los workshops que se realizarán el Viernes 14 de noviembre. Serán sesiones técnicas de <strong>2</strong> horas,<br/>donde verás lo último en cada una de las disciplinas.</h3>
 			<h4>En breve te enterarás cómo podrás inscribirte. ¡SOLO <strong>30 cupos</strong> para cada workshop!</h4>
 
 			<br>
 
-			<div class="row">
+
+<?php
+include('workshops.php');
+$max = count($workshops);
+$i = 0;
+do{
+?>
+<div class="row">
 
 				<div class="eight columns alpha">
 
 					<div class="three columns alpha">
-						<img src="/assets/images/2014/landing/workshops/ruby.png" alt="">
+						<img src="/assets/images/2014/landing/workshops/<?=$workshops[$i]['img']; ?>" alt="">
 					</div>
 
 					<div class="five columns omega">
 						
-						<h3>Desarrollando una aplicación real con Ruby on Rails</h3>
+						<h3><?=$workshops[$i]['titulo']; ?></h3>
 						
 						<div class="paragraph">
-							<p>Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby con <a href="http://rubyonrails.org/" target="_blank">Rails</a>.</p>
-							<p>A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad.</p>
-							<p>Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !</p>
-							
+							<p>
+								<?= nl2br($workshops[$i]['descripcion']); ?>
+							</p>
 							<p><strong>Requisitos</strong></p>
-
-							<ul>
-								<li>Experiencia en desarrollo web de 1-2 años.</li>
-								<li>No es necesario haber trabajado con Ruby</li>
-							</ul>
-
+							<p>
+								<?=$workshops[$i]['reqs']?>
+							</p>
 							<ul class="inline unstyled">
-								<li><i class="icon-link"></i> <a href="http://ruby.meetup.uy" target="_blank">by Ruby MVD</a></li>
+								<li><i class="icon-link"></i> <?=$workshops[$i]['trainers']; ?></li>
 							</ul>
 
 						</div>
@@ -241,37 +244,27 @@
 
 				</div>
 
-
+				<?php if(!isset($workshops[$i+1])){ exit(); } ?>
 
 				<div class="eight columns omega">
 					
 					<div class="three columns alpha">
-						<img src="/assets/images/2014/landing/workshops/php.png" alt="">
+						<img src="/assets/images/2014/landing/workshops/<?=$workshops[$i+1]['img']; ?>" alt="">
 					</div>
 
 					<div class="five columns omega">
-						<h3>Tranquilo, este cambio no debería de afectar nada.</h3>
+						<h3><?=$workshops[$i+1]['titulo']; ?></h3>
 						
 						<div class="paragraph">
-							<p>La idea de este “espacio” es introducirnos en el universo de <a href="http://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank">BDD</a> y <a href="http://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a>  y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!!</p>
-							<p>Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado? Y en consecuencia mejorar la calidad de nuestro código.</p>
-							
+							<p>
+								<?= nl2br($workshops[$i+1]['descripcion']); ?>
+							</p>
 							<p><strong>Requisitos</strong></p>
-
-							<ul>
-								<li>Experiencia en desarrollo web de 1-2 años.</li>
-								<li>Notebook con:</li>
-								<ul>
-									<li>PHP 5.4.x</li>
-									<li><a href="http://getcomposer.org/" target="_blank">composer</a></li>
-									<li><a href="http://vagrantup.com/" target="_blank">Vagrant</a></li>
-								</ul>
-							</ul>
-
+							<p>
+								<?=$workshops[$i+1]['reqs']?>
+							</p>
 							<ul class="inline unstyled">
-								<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
-								<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
-								<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">by PHP MVD</a></li>
+								<li><i class="icon-link"></i> <?=$workshops[$i+1]['trainers']; ?></li>
 							</ul>
 						</div>
 						<!-- .paragraph end -->
@@ -280,90 +273,10 @@
 				</div>
 
 			</div>
-			<!-- row end -->
-
-			
-
-
-
-
-
-			<div class="row">
-
-				<div class="eight columns alpha">
-
-					<div class="three columns alpha">
-						<img src="/assets/images/2014/landing/workshops/mysql.png" alt="">
-					</div>
-
-					<div class="five columns omega">
-						
-						<h3>Desarrollando una aplicación real con Ruby on Rails</h3>
-						
-						<div class="paragraph">
-							<p>Los objetivos de este workshop son presentar conceptos del lenguaje de programación Ruby y desarrollar parte de una aplicación web con Ruby con <a href="http://rubyonrails.org/" target="_blank">Rails</a>.</p>
-							<p>A partir de una aplicación pre-hecha con test y codigo se planteará algunos problemas a resolver así como desarrollo de una pequeña funcionalidad.</p>
-							<p>Al final de la hora de workshop deberíamos tener una aplicación real funcionando y ¡programada por vos !</p>
-							
-							<p><strong>Requisitos</strong></p>
-
-							<ul>
-								<li>Experiencia en desarrollo web de 1-2 años.</li>
-								<li>No es necesario haber trabajado con Ruby</li>
-							</ul>
-
-							<ul class="inline unstyled">
-								<li><i class="icon-link"></i> <a href="http://ruby.meetup.uy" target="_blank">by Ruby MVD</a></li>
-							</ul>
-						</div>
-						<!-- .paragraph end -->
-
-					</div>
-
-				</div>
-
-
-
-				<div class="eight columns omega">
-					
-					<div class="three columns alpha">
-						<img src="/assets/images/2014/landing/workshops/dotnet.png" alt="">
-					</div>
-
-					<div class="five columns omega">
-						<h3>Tranquilo, este cambio no debería de afectar nada.</h3>
-						
-						<div class="paragraph">
-							<p>La idea de este “espacio” es introducirnos en el universo de <a href="http://en.wikipedia.org/wiki/Behavior-driven_development" target="_blank">BDD</a> y <a href="http://en.wikipedia.org/wiki/Test-driven_development" target="_blank">TDD</a>  y lograr automatizar la parte más divertida de nuestra profesión… el testing!!!!!</p>
-							<p>Con el objetivo de prevenir frases como: ¿Pero cómo, si en mi maquina corre?, ¿Lo probaste en Internet Explorer?, ¿Esto está testeado?  Y en consecuencia mejorar la calidad de nuestro código.</p>
-							
-							<p><strong>Requisitos</strong></p>
-
-							<ul>
-								<li>Experiencia en desarrollo web de 1-2 años.</li>
-								<li>Notebook con:</li>
-								<ul>
-									<li>PHP 5.4.x</li>
-									<li><a href="http://getcomposer.org/" target="_blank">composer</a></li>
-									<li><a href="http://vagrantup.com/" target="_blank">Vagrant</a></li>
-								</ul>
-							</ul>
-
-							<ul class="inline unstyled">
-								<!-- <li><a href="https://twitter.com/iambrosi" target="_blank">@iambrosi</a></li>
-								<li><a href="https://twitter.com/wastedcape" target="_blank">@wastedcape</a></li> -->
-								<li><i class="icon-link"></i> <a href="http://php.meetup.uy" target="_blank">by PHP MVD</a></li>
-							</ul>
-						</div>
-						<!-- .paragraph end -->
-
-					</div>
-				</div>
-
-			</div>
-			<!-- row end -->
-			
-
+<?php
+	$i = $i+2;
+} while ($i<$max);
+?>			
 	    </section>
 	</div>
 	</div>
