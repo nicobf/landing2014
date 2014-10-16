@@ -217,11 +217,11 @@ do{
 
 				<div class="eight columns alpha">
 
-					<div class="three columns alpha">
+					<div class="two columns alpha">
 						<img src="/assets/images/2014/landing/workshops/<?=$workshops[$i]['img']; ?>" alt="">
 					</div>
 
-					<div class="five columns omega">
+					<div class="six columns omega" >
 						
 						<h3><?=$workshops[$i]['titulo']; ?></h3>
 						
@@ -248,11 +248,11 @@ do{
 
 				<div class="eight columns omega">
 					
-					<div class="three columns alpha">
+					<div class="two columns alpha">
 						<img src="/assets/images/2014/landing/workshops/<?=$workshops[$i+1]['img']; ?>" alt="">
 					</div>
 
-					<div class="five columns omega">
+					<div class="six columns omega">
 						<h3><?=$workshops[$i+1]['titulo']; ?></h3>
 						
 						<div class="paragraph">

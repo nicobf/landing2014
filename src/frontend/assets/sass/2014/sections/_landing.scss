@@ -354,28 +354,31 @@ section{
       margin-bottom: 30px;
       
       h3{
-        font-size: 27px;
-        line-height: 30px;
+        font-size: 24px;
+        line-height: 28px;
         color: $color_blue;
       }
 
-      .three.columns{
+      .two.columns{
         text-align: center;
         position: relative;
 
         img{
           position: relative;
-          top: -32px;
+          top: -18px;
           width: 100%;
           height: auto;
         }
       }
 
-      .five.columns{
+      .six.columns{
         text-align: left;
       }
 
       .paragraph{
+
+        font-size: 15px;
+        line-height: 18px;
 
         ul, ol {
           list-style-type: disc;
@@ -602,7 +605,7 @@ section{
 .green-wrapper  { background: $color_green;       }
 .yellow-wrapper { background: $color_yellow;      }
 .silver-wrapper { background: #eee;               }
-.white-wrapper  { background: #fdfdfd;            }
+.white-wrapper  { background: #ffffff;            }
 .orange-wrapper { background: $eventbrite_color;  }
 
 .wrapper-2013   { 
