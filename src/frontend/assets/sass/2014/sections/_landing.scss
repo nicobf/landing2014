@@ -326,6 +326,91 @@ section{
     margin-bottom: 30px;
   }
 
+  &.workshops{
+
+    text-align: center;
+
+    a{
+      color: $color_blue;
+      text-decoration: none;
+
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+
+    h1{
+      margin-top: 50px;
+      margin-bottom: 40px;
+      color: $color_blue;
+    }
+
+    h2{
+      margin-bottom: 55px;
+    }
+
+    .eight.columns{
+      margin-top: 20px;
+      margin-bottom: 30px;
+      
+      h3{
+        font-size: 24px;
+        line-height: 28px;
+        color: $color_blue;
+      }
+
+      .two.columns{
+        text-align: center;
+        position: relative;
+
+        img{
+          position: relative;
+          top: -18px;
+          width: 100%;
+          height: auto;
+        }
+      }
+
+      .six.columns{
+        text-align: left;
+      }
+
+      .paragraph{
+
+        font-size: 15px;
+        line-height: 18px;
+
+        ul, ol {
+          list-style-type: disc;
+          padding: 0;
+          margin: 0 0 10px 25px;
+
+          &.inline {
+            margin-left: 0;
+            list-style: none;
+
+            a{
+              margin-left: 8px;
+            }
+          }
+
+          li{
+            line-height: 20px;
+          }
+
+          ul{
+            margin-bottom: 0;
+            list-style-type: circle;
+          }
+        }
+
+      }
+      
+      
+    }
+
+  }
+
   &.compra{
 
     text-align: center;
@@ -446,7 +531,7 @@ section{
     text-align: center;
 
     h1{
-      margin-top: 50px;
+      margin-top: 70px;
       margin-bottom: 70px;
       color: $color_green;
       text-shadow: 1px 1px white;
@@ -520,7 +605,7 @@ section{
 .green-wrapper  { background: $color_green;       }
 .yellow-wrapper { background: $color_yellow;      }
 .silver-wrapper { background: #eee;               }
-.white-wrapper  { background: white;              }
+.white-wrapper  { background: #ffffff;            }
 .orange-wrapper { background: $eventbrite_color;  }
 
 .wrapper-2013   { 
@@ -638,7 +723,7 @@ footer{
 }
 
 .container-with-margin{
-  margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 
 .social-icons{

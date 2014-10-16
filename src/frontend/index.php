@@ -28,7 +28,7 @@
 	            <ul class="thirteen columns omega">
 	                <li><a class="scrollable" href="#sponsors"      >Sponsors</a></li>
 	                <li><a class="scrollable" href="#speakers"      >Oradores</a></li>
-	                <li><a class="scrollable" href="#edicion2013"   >Ver Video</a></li>
+	                <li><a class="scrollable" href="#workshops"     >Workshops</a></li>
 	                <li><a class="scrollable" href="#organizadores" >Organiza</a></li>
 	                
 	                <li><a class="color-green" href="./v2013">v2013</a></li>
@@ -74,7 +74,7 @@
       </section>
 
        <div class="sixteen columns">
-         <h4>Se viene una nueva edici&oacute;n de la conferencia de meetups de Uruguay, y tenemos todo listo para mostrarte c&oacute;mo nuevamente <span class="color-blue">crecimos este a&ntilde;o</span>.</h4>
+         <h4>Se viene una nueva edici&oacute;n de la TechMeetup, y tenemos todo listo para mostrarte c&oacute;mo nuevamente <span class="color-blue">crecimos este a&ntilde;o</span>.</h4>
          <h3><span class="color-blue">Viernes 14: Workshops</span>&nbsp;Tras el &eacute;xito de los workshops en la <b>v2013</b>, queremos dedicarle un d&iacute;a entero a esta modalidad de trabajo, para brindarte <span class="color-blue">mas cantidad y dedicaci&oacute;n</span>.</h3>
          <h3><span class="color-blue">S&aacute;bado 15: Charlas</span>&nbsp;Nuestro tradicional track de charlas, siempre buscando la <span class="color-blue">excelente calidad</span> que conoc&eacute;s</h3>.
        </div>
@@ -191,6 +191,94 @@
 
 		    </section>
 		</div>
+	</div>
+
+
+
+
+	<div class="white-wrapper">
+	<div class="container container-with-margin" id="workshops">
+	    <section class="sixteen columns workshops clearfix">
+
+	        <h1>Workshops</h1>
+	        <h3>Estos son los workshops que se realizarán el Viernes 14 de noviembre. Serán sesiones técnicas de <strong>2</strong> horas,<br/>donde verás lo último en cada una de las disciplinas.</h3>
+			<h4>En breve te enterarás cómo podrás inscribirte. ¡SOLO <strong>30 cupos</strong> para cada workshop!</h4>
+
+			<br>
+
+
+<?php
+include('workshops.php');
+$max = count($workshops);
+$i = 0;
+do{
+?>
+<div class="row">
+
+				<div class="eight columns alpha">
+
+					<div class="two columns alpha">
+						<img src="/assets/images/2014/landing/workshops/<?=$workshops[$i]['img']; ?>" alt="">
+					</div>
+
+					<div class="six columns omega" >
+						
+						<h3><?=$workshops[$i]['titulo']; ?></h3>
+						
+						<div class="paragraph">
+							<p>
+								<?= nl2br($workshops[$i]['descripcion']); ?>
+							</p>
+							<p><strong>Requisitos</strong></p>
+							<p>
+								<?=$workshops[$i]['reqs']?>
+							</p>
+							<ul class="inline unstyled">
+								<li><i class="icon-link"></i> <?=$workshops[$i]['trainers']; ?></li>
+							</ul>
+
+						</div>
+						<!-- .paragraph end -->
+
+					</div>
+
+				</div>
+
+				<?php if(isset($workshops[$i+1])){  ?>
+
+				<div class="eight columns omega">
+					
+					<div class="two columns alpha">
+						<img src="/assets/images/2014/landing/workshops/<?=$workshops[$i+1]['img']; ?>" alt="">
+					</div>
+
+					<div class="six columns omega">
+						<h3><?=$workshops[$i+1]['titulo']; ?></h3>
+						
+						<div class="paragraph">
+							<p>
+								<?= nl2br($workshops[$i+1]['descripcion']); ?>
+							</p>
+							<p><strong>Requisitos</strong></p>
+							<p>
+								<?=$workshops[$i+1]['reqs']?>
+							</p>
+							<ul class="inline unstyled">
+								<li><i class="icon-link"></i> <?=$workshops[$i+1]['trainers']; ?></li>
+							</ul>
+						</div>
+						<!-- .paragraph end -->
+
+					</div>
+				</div>
+				<?php } ?>
+			</div>
+<?php
+	$i = $i+2;
+} while ($i<$max);
+?>			
+	    </section>
+	</div>
 	</div>
 
 
