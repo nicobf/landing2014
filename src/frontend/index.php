@@ -244,7 +244,7 @@ do{
 
 				</div>
 
-				<?php if(!isset($workshops[$i+1])){ exit(); } ?>
+				
 
 				<div class="eight columns omega">
 					
