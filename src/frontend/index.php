@@ -244,7 +244,7 @@ do{
 
 				</div>
 
-				
+				<?php if(isset($workshops[$i+1])){  ?>
 
 				<div class="eight columns omega">
 					
@@ -271,7 +271,7 @@ do{
 
 					</div>
 				</div>
-
+				<?php } ?>
 			</div>
 <?php
 	$i = $i+2;
