@@ -165,7 +165,7 @@ $sponsors =  array(
         'alt' => 'El Pais',
         'url' => 'http://www.elpais.com.uy/',
         'img' => 'elpais.png',
-        'type' => 'blue'
+        'type' => 'green'
     ),
     array(
         'alt' => 'Antel',
