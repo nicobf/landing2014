@@ -286,6 +286,22 @@ $speakers =  array(
         'twitter' 	=> 'aspekt',
         'linkedin' 	=> 'http://www.linkedin.com/in/diegocibils'
     ),
+    array(
+        'flag'      => 'ar',
+        'name'      => 'Diego Woitasen',
+        'title'     => 'Co-Fundador de <a href="flugel.it" target="_blank">flugel.it</a>',
+        'picture'   => 'diegowoitasen.jpg',
+        'twitter'   => 'DiegoWoitasen',
+        'linkedin'  => 'http://ar.linkedin.com/in/diegows/',
+     ),
+     array(
+        'flag'      => 'ar',
+        'name'      => 'Luis Vinay',
+        'title'     => 'Co-Fundador de <a href="flugel.it" target="_blank">flugel.it</a>',
+        'picture'   => 'luisvinay.jpg',
+        'twitter'   => '',
+        'linkedin'  => 'https://www.linkedin.com/in/luisvinay',
+     ),
      array(
         'flag'      => '',
         'name'      => 'Próximamente...',
