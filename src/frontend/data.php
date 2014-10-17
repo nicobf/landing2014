@@ -58,6 +58,12 @@ $sponsors =  array(
         'type' => 'green'
     ),
     array(
+        'alt' => 'El Pais',
+        'url' => 'http://www.elpais.com.uy/',
+        'img' => 'elpais.png',
+        'type' => 'green'
+    ),
+    array(
         'alt' => 'Guruhub',
         'url' => 'http://guruhub.com.uy',
         'img' => 'guruhub.png',
@@ -160,12 +166,6 @@ $sponsors =  array(
         'url' => 'http://www.solcre.com',
         'img' => 'solcre.png',
         'type' => 'blue'
-    ),
-    array(
-        'alt' => 'El Pais',
-        'url' => 'http://www.elpais.com.uy/',
-        'img' => 'elpais.png',
-        'type' => 'green'
     ),
     array(
         'alt' => 'Antel',
