@@ -70,8 +70,8 @@ Todas estas herramientas, además de consejos y trucos aprendidos a lo largo de 
 	),
 	array(
 		'img' => 'golang.png',
-		'titulo' => 'Programación concurrent en GO',
-		'descripcion' => '',
+		'titulo' => 'Programación concurrente en GO',
+		'descripcion' => '... próximamente ...',
 		'trainers' => '<a href="http://fernandoipar.com/">Fernando Ipar</a>',
 		'reqs' => ''
 	),
