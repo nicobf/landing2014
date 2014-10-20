@@ -97,13 +97,13 @@ $sponsors =  array(
         'alt' => 'NEON ROOTS',
         'url' => 'http://www.neonroots.com/',
         'img' => 'neon-roots.png',
-        'type' => 'blue'
+        'type' => 'green'
     ),
     array(
         'alt' => 'Rootstrap',
         'url' => 'http://rootstrap.it/',
         'img' => 'rootstrap.png',
-        'type' => 'blue'
+        'type' => 'green'
     ),
     array(
         'alt' => 'Abstracta',
@@ -289,7 +289,7 @@ $speakers =  array(
     array(
         'flag'      => 'ar',
         'name'      => 'Diego Woitasen',
-        'title'     => 'Co-Fundador de <a href="flugel.it" target="_blank">flugel.it</a>',
+        'title'     => 'Co-Fundador de <a href="http://flugel.it" target="_blank">flugel.it</a>',
         'picture'   => 'diegowoitasen.jpg',
         'twitter'   => 'DiegoWoitasen',
         'linkedin'  => 'http://ar.linkedin.com/in/diegows/',
@@ -297,7 +297,7 @@ $speakers =  array(
      array(
         'flag'      => 'ar',
         'name'      => 'Luis Vinay',
-        'title'     => 'Co-Fundador de <a href="flugel.it" target="_blank">flugel.it</a>',
+        'title'     => 'Co-Fundador de <a href="http://flugel.it" target="_blank">flugel.it</a>',
         'picture'   => 'luisvinay.jpg',
         'twitter'   => '',
         'linkedin'  => 'https://www.linkedin.com/in/luisvinay',
