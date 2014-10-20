@@ -97,13 +97,13 @@ $sponsors =  array(
         'alt' => 'NEON ROOTS',
         'url' => 'http://www.neonroots.com/',
         'img' => 'neon-roots.png',
-        'type' => 'blue'
+        'type' => 'green'
     ),
     array(
         'alt' => 'Rootstrap',
         'url' => 'http://rootstrap.it/',
         'img' => 'rootstrap.png',
-        'type' => 'blue'
+        'type' => 'green'
     ),
     array(
         'alt' => 'Abstracta',
