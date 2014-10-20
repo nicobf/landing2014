@@ -44,13 +44,14 @@ terminar creando tu primer app.',
 		'img' => 'nodejs.png',
 		'titulo' => 'NodeJS para principiantes.',
 		'descripcion' => 'Veremos:
-- Nodejs, npm, console y debugger, una vista rápida.
-- Línea de comandos con Nodejs, E/S sincrónica, asincrónica, EventLoop. 
-- Nodejs API y uso de módulos. Uso de Http cliente/servidor.
-- Crear un servidor con API en JSON.',
-		'trainers' => 'Martin Prunell, Pablo Ricco, Luis Cal y Pablo de Juan by <a href="http://www.meetup.com/mvd-js/">MVDjs meetup</a>',
-		'reqs' => '- Nociones elementales de programación y de JavaScript. El taller será de enfoque netamente práctico orientado a principiantes en NodeJS.
-		- Se utilizará un programa de NodeJS para el taller y se requiere equipo propio, Linux, Mac o Windows. El material adicional se entregará en el taller.'
+		<ul>
+<li>Nodejs, npm, console y debugger, una vista rápida.</li>
+<li>Línea de comandos con Nodejs, E/S sincrónica, asincrónica, EventLoop. </li>
+<li>Nodejs API y uso de módulos. Uso de Http cliente/servidor.</li>
+<li>Crear un servidor con API en JSON.</li></ul>',
+		'trainers' => 'Martin Prunell, Pablo Ricco, Luis Cal y Pablo de Juan by <a href="http://www.meetup.com/mvd-js/">MVDjs meetup</a></li>',
+		'reqs' => '<ul><li>Nociones elementales de programación y de JavaScript. El taller será de enfoque netamente práctico orientado a principiantes en NodeJS.
+		<li>Se utilizará un programa de NodeJS para el taller y se requiere equipo propio, Linux, Mac o Windows. El material adicional se entregará en el taller.</li></ul>'
 	),
 	array(
 		'img' => 'dev_toolbox.png',
@@ -59,14 +60,50 @@ terminar creando tu primer app.',
 
 En esta charla introduciremos y exploraremos las herramientas que marcan una real diferencia en las siguientes áreas:
 
-- Desarrollo, testeo y debugging con Vagrant, Ansible, y Docker.
-- Monitoreo y logging con Logstash, Kibana, Redis, y Elasticsearch
-- Deployment con Capistrano, Capifony y similares
+<ul><li>Desarrollo, testeo y debugging con Vagrant, Ansible, y Docker.</li>
+<li>Monitoreo y logging con Logstash, Kibana, Redis, y Elasticsearch</li>
+<li>Deployment con Capistrano, Capifony y similares</li></ul>
 
 Todas estas herramientas, además de consejos y trucos aprendidos a lo largo de años de experiencia harán de esta charla muy interesante para desarrolladores de diversos niveles.',
 		'trainers' => '<a href="https://twitter.com/pgodel">Pablo Godel</a> by <a href="http://phpmvd.uy">PHPmvd meetup</a>',
 		'reqs' => ''
 	),
-);
+	array(
+		'img' => 'golang.png',
+		'titulo' => 'Programación concurrent en GO',
+		'descripcion' => '',
+		'trainers' => '<a href="http://fernandoipar.com/">Fernando Ipar</a>',
+		'reqs' => ''
+	),
+	array(
+		'img' => 'scala.png',
+		'titulo' => 'Scala',
+		'descripcion' => 'Introducción a las herramientas específicas que usaremos para resolver dos ejercicios realistas.
 
+Los ejercicios son tareas específicas con múltiples modos de solución; extracción de información de un archivo de texto no estructurado y extracción de información de archivos csv con información financiera. ',
+		'trainers' => '<a href="https://twitter.com/fedesilva">Federico Silva</a> by <a href="http://www.meetup.com/Scala-Meetup-MVD/">Scala Meetup</a>',
+		'reqs' => '<ul><li>Java >= 1.6 (jdk)</li>
+<li>Editor de texto y IDE </li>
+<li>sbt</li>
+</ul>
+Instrucciones se publicarán en la web una semana antes.
+
+Se asumen conocimientos generales de programación en un lenguaje como Java o Ruby.',
+	),
+	array(
+		'img' => 'openstack.png',
+		'titulo' => 'OpenStack',
+		'descripcion' => 'OpenStack es el projecto más activo de los últimos años en el mundo del Open Source. Las empresas más grandes del planeta han puesto sus ojos en eĺ. Todos los días aparecen nuevas funcionalidades y líneas de código. 
+		<br>Ésta charla es una presentación de OpenStack, qué es, para que se puede usar y qué camino tomar para entrar al mundo del cloud computing basado en Open Source.',
+		'trainers' => '<a href="https://twitter.com/DiegoWoitasen">Diego Woitasen</a> by <a href="http://www.meetup.com/DevOps-MVD/">DevOps Meetup</a>',
+		'reqs' => '',
+	),
+	array(
+		'img' => 'mysql.png',
+		'titulo' => 'Big Data Analytics: cálculos al estilo map-reduce en MySQL con Shard Query.',
+		'descripcion' => '',
+		'trainers' => 'Agustín Gallego, <a href="http://fernandoipar.com/">Fernando Ipar</a> by <a href="http://www.meetup.com/The-Montevideo-MySQL-Meetup-Group/">Mysql Meetup</a>',
+		'reqs' => ''
+	),
+);
 ?>
