@@ -18,7 +18,8 @@ return array(
 ¿Qué herramientas hay disponibles? ¿Qué pasa con la usabilidad, cómo la probamos?
 Estas y otras preguntas son las que estaremos en este workshop mostrando cómo las abordamos en Abstracta, compartiendo nuestras experiencias e investigación al respecto.',
 		'trainers' => 'by Abstracta',
-		'reqs' => 'Un smart device cualquiera.'
+		'reqs' => 'Un smart device cualquiera.',
+        'key' => 'mobile_testing'
 	),
 	array(
 		'img' => 'ios.png',
@@ -29,7 +30,8 @@ No es necesario que sepas de Objective-C ni que conozcas cómo funciona el Xcode
 En el workshop iremos paso a paso, no sólo para aprender, sino también para 
 terminar creando tu primer app.',
 		'trainers' => 'Nicolás Alliaume, Diego Mazzone by <a href="http://www.meetup.com/applemvd/">AppleMVD meetup</a>',
-		'reqs' => 'Es necesario traer una Mac, o juntarse con un compañero que tenga una, con el Xcode Instalado (versión 5.1.1 o superior). No es necesario tener conocimientos de Objective-C o C, pero sí de programación orientada a objetos.'
+		'reqs' => 'Es necesario traer una Mac, o juntarse con un compañero que tenga una, con el Xcode Instalado (versión 5.1.1 o superior). No es necesario tener conocimientos de Objective-C o C, pero sí de programación orientada a objetos.',
+        'key' => 'ios_hands_on'
 	),
 	array(
 		'img' => 'arduino.png',
@@ -38,7 +40,8 @@ terminar creando tu primer app.',
 
 		Además los participantes (con la ayuda de los docentes) deberán programar un juego usando la placa Arduino. Realizaremos una competencia final usando el juego desarrollado por los participantes.',
 		'trainers' => 'by <a href="http://www.mvdrobotics.com/">MVDRobotics</a>',
-		'reqs' => 'Nosotros nos encargamos! :) '
+		'reqs' => 'Nosotros nos encargamos! :) ',
+        'key' => 'arduino'
 	),
 	array(
 		'img' => 'nodejs.png',
@@ -50,7 +53,8 @@ terminar creando tu primer app.',
 - Crear un servidor con API en JSON.',
 		'trainers' => 'Martin Prunell, Pablo Ricco, Luis Cal y Pablo de Juan by <a href="http://www.meetup.com/mvd-js/">MVDjs meetup</a>',
 		'reqs' => '- Nociones elementales de programación y de JavaScript. El taller será de enfoque netamente práctico orientado a principiantes en NodeJS.
-		- Se utilizará un programa de NodeJS para el taller y se requiere equipo propio, Linux, Mac o Windows. El material adicional se entregará en el taller.'
+		- Se utilizará un programa de NodeJS para el taller y se requiere equipo propio, Linux, Mac o Windows. El material adicional se entregará en el taller.',
+        'key' => 'nodejs'
 	),
 	array(
 		'img' => 'dev_toolbox.png',
@@ -65,6 +69,7 @@ En esta charla introduciremos y exploraremos las herramientas que marcan una rea
 
 Todas estas herramientas, además de consejos y trucos aprendidos a lo largo de años de experiencia harán de esta charla muy interesante para desarrolladores de diversos niveles.',
 		'trainers' => '<a href="https://twitter.com/pgodel">Pablo Godel</a> by <a href="http://phpmvd.uy">PHPmvd meetup</a>',
-		'reqs' => ''
+		'reqs' => '',
+        'key' => 'dev_toolbox'
 	),
 );
