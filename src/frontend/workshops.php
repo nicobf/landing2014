@@ -105,5 +105,29 @@ Se asumen conocimientos generales de programación en un lenguaje como Java o Ru
 		'trainers' => 'Agustín Gallego, <a href="http://fernandoipar.com/">Fernando Ipar</a> by <a href="http://www.meetup.com/The-Montevideo-MySQL-Meetup-Group/">Mysql Meetup</a>',
 		'reqs' => ''
 	),
+	array(
+		'img' => 'agile.png',
+		'titulo' => 'Agile Inception',
+		'descripcion' => 'La descripción canónica de Scrum (tal como se describe en <a href="http://scrumguides.org/">http://scrumguides.org/</a>) da por sentado que existe un backlog inicial con el alcance preliminar del proyecto, que va refinándose a medida que pasan los sprints. 
+
+Lo que Scrum en particular no aclara en detalle es cómo se define el proyecto antes de iniciarlo. Sin embargo, la comunidad Scrum utiliza frecuentemente una técnica de alineamiento de visión de proyecto conocida como Agile Inception. 
+
+En este breve taller realizaremos un ejercicio acelerado sobre un proyecto ficticio, recorriendo las diez actividades de Inception: 
+¿Porqué estamos aquí?
+Elevator Pitch
+Caja de Producto
+Lo que no
+Comunidad del Proyecto
+La solución
+¿Qué nos quita el sueño?
+Tamaño
+Prioridades
+¿Cuánto cuesta? 
+
+El objetivo principal del taller es que los participantes tengan la experiencia suficiente como para facilitar uno de estos talleres en sus propios proyectos.
+',
+		'trainers' => '',
+		'reqs' => ''
+	),
 );
 ?>
